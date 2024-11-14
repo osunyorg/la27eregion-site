@@ -9,5 +9,5 @@ params:
   search:
     active: true
   logo:
-    header: ''
-    footer: ''
+    header: "/assets/images/logo-27e-region.png"
+    footer: "/assets/images/logo-27e-region.png"
