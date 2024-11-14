@@ -1,0 +1,13 @@
+theme: osuny
+enableRobotsTXT: true
+removePathAccents: true
+pagination:
+  pagerSize: 30
+params:
+  summary:
+    position: hero
+  search:
+    active: true
+  logo:
+    header: ''
+    footer: ''
