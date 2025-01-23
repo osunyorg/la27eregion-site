@@ -4,7 +4,7 @@ baseURL: https://site.la27eregion.osuny.site
 
 ## LANGUAGE
 defaultContentLanguage: fr
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 
 ## CACHE
 deployment:

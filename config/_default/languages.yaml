@@ -7,10 +7,12 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
+    contact_details:
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
+    pages_categories: /:slug/
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
     posts: /actualites/:year-:month-:day-:slug/
@@ -22,6 +24,38 @@ fr:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
+    persons_category: persons_categories
+    posts_category: posts_categories
+    projects_category: projects_categories
+    researcher: researchers
+    teacher: teachers
+    volume: volumes
+en:
+  title: >-
+    La 27e Région
+  contentDir: content/en
+  languageCode: en
+  languageName: English
+  params:
+    contact_details:
+
+  permalinks:
+    events: /agenda/:year-:month-:day-:slug/
+    events_categories: /agenda/:slug/
+    pages_categories: /:slug/
+    projects: /projects/:year-:slug/
+    projects_categories: /projects/:slug/
+    posts: /posts/:year-:month-:day-:slug/
+    posts_categories: /posts/:slug/
+  taxonomies:
+    administrator: administrators
+    author: authors
+    diploma: diplomas
+    events_category: events_categories
+    location: locations
+    organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
