@@ -1,5 +1,4 @@
 theme: osuny
-enableRobotsTXT: true
 removePathAccents: true
 pagination:
   pagerSize: 30
