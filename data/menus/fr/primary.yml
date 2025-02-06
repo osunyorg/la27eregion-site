@@ -29,13 +29,6 @@ items:
   children: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
-- title: Agenda
-  target: "/fr/agenda/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/events"
-  file: content/fr/events/_index.html
 - title: Équipe
   target: "/fr/equipe/"
   kind: page
