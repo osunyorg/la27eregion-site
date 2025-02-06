@@ -22,13 +22,6 @@ items:
   children: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
-- title: Agenda
-  target: "/fr/agenda/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/events"
-  file: content/fr/events/_index.html
 - title: Équipe
   target: "/fr/equipe/"
   kind: page
