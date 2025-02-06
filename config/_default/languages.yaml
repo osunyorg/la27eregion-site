@@ -15,6 +15,8 @@ en:
     projects_categories: /projects/:slug/
     posts: /posts/:year-:month-:day-:slug/
     posts_categories: /posts/:slug/
+    organizations: /organizations/:slug/
+    organizations_categories: /organizations/categories/:slug/
     persons: /team/:slug/
     persons_categories: /team/categories/:slug/
     authors: /team/:slug/posts/
@@ -68,11 +70,13 @@ fr:
     pages_categories: /:slug/
     projects: /programmes/:year-:slug/
     projects_categories: /programmes/:slug/
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
+    posts: /publications/:year-:month-:day-:slug/
+    posts_categories: /publications/:slug/
+    organizations: /organisations/:slug/
+    organizations_categories: /organisations/categories/:slug/
     persons: /equipe/:slug/
     persons_categories: /equipe/categories/:slug/
-    authors: /equipe/:slug/actualites/
+    authors: /equipe/:slug/publications/
   taxonomies:
     administrator: administrators
     author: authors
