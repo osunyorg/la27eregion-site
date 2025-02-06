@@ -15,8 +15,8 @@ items:
   children: []
   path: "/events"
   file: content/fr/events/_index.html
-- title: Projets
-  target: "/fr/projets/"
+- title: Actions
+  target: "/fr/actions/"
   kind: page
   new_tab: false
   children: []
