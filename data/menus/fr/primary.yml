@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Actions
-  target: "/fr/actions/"
+- title: Programmes
+  target: "/fr/programmes/"
   kind: page
   new_tab: false
   children: []
