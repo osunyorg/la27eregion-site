@@ -66,8 +66,8 @@ fr:
 
   permalinks:
     pages_categories: /:slug/
-    projects: /actions/:year-:slug/
-    projects_categories: /actions/:slug/
+    projects: /programmes/:year-:slug/
+    projects_categories: /programmes/:slug/
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
     persons: /equipe/:slug/
