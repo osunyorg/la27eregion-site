@@ -15,13 +15,6 @@ items:
   children: []
   path: "/posts"
   file: content/en/posts/_index.html
-- title: Agenda
-  target: "/en/agenda/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/events"
-  file: content/en/events/_index.html
 - title: Team
   target: "/en/team/"
   kind: page
@@ -36,4 +29,11 @@ items:
   children: []
   path: "/organizations"
   file: content/en/organizations/_index.html
+- title: Agenda
+  target: "/en/agenda/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/events"
+  file: content/en/events/_index.html
 
