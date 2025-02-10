@@ -27,6 +27,13 @@ items:
     children: []
     path: "/pages/a-propos/reseau"
     file: content/fr/pages/a-propos/reseau/_index.html
+  - title: International
+    target: "/fr/a-propos/international/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/a-propos/international"
+    file: content/fr/pages/a-propos/international/_index.html
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Programmes
