@@ -20,6 +20,13 @@ items:
     children: []
     path: "/pages/a-propos/demarche"
     file: content/fr/pages/a-propos/demarche/_index.html
+  - title: Équipe
+    target: "/fr/a-propos/equipe/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/a-propos/equipe"
+    file: content/fr/pages/a-propos/equipe/_index.html
   - title: Communauté
     target: "/fr/a-propos/communaute/"
     kind: page
