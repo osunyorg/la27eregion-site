@@ -6,7 +6,7 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Association
+  - title: Gouvernance
     target: "/fr/a-propos/gouvernance/"
     kind: page
     new_tab: false
