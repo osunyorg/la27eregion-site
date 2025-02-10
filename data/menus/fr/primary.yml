@@ -13,7 +13,7 @@ items:
     children: []
     path: "/pages/a-propos/association"
     file: content/fr/pages/a-propos/association/_index.html
-  - title: Design de politiques publiques
+  - title: Démarche
     target: "/fr/a-propos/demarche/"
     kind: page
     new_tab: false
