@@ -6,13 +6,6 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Gouvernance
-    target: "/fr/a-propos/gouvernance/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/a-propos/gouvernance"
-    file: content/fr/pages/a-propos/gouvernance/_index.html
   - title: Démarche
     target: "/fr/a-propos/demarche/"
     kind: page
@@ -34,6 +27,13 @@ items:
     children: []
     path: "/pages/a-propos/communaute"
     file: content/fr/pages/a-propos/communaute/_index.html
+  - title: Gouvernance
+    target: "/fr/a-propos/gouvernance/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/a-propos/gouvernance"
+    file: content/fr/pages/a-propos/gouvernance/_index.html
   - title: International
     target: "/fr/a-propos/international/"
     kind: page
