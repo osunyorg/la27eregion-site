@@ -20,6 +20,13 @@ items:
     children: []
     path: "/pages/a-propos/design-de-politiques-publiques"
     file: content/fr/pages/a-propos/design-de-politiques-publiques/_index.html
+  - title: Réseau
+    target: "/fr/a-propos/reseau/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/a-propos/reseau"
+    file: content/fr/pages/a-propos/reseau/_index.html
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Programmes
