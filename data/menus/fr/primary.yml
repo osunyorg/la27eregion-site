@@ -14,12 +14,12 @@ items:
     path: "/pages/a-propos/association"
     file: content/fr/pages/a-propos/association/_index.html
   - title: Design de politiques publiques
-    target: "/fr/a-propos/design-de-politiques-publiques/"
+    target: "/fr/a-propos/demarche/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/a-propos/design-de-politiques-publiques"
-    file: content/fr/pages/a-propos/design-de-politiques-publiques/_index.html
+    path: "/pages/a-propos/demarche"
+    file: content/fr/pages/a-propos/demarche/_index.html
   - title: Réseau
     target: "/fr/a-propos/communaute/"
     kind: page
