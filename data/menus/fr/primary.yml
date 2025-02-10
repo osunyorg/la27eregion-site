@@ -5,7 +5,14 @@ items:
   target: "/fr/a-propos/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: Association
+    target: "/fr/a-propos/association/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/a-propos/association"
+    file: content/fr/pages/a-propos/association/_index.html
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Programmes
