@@ -74,9 +74,9 @@ fr:
     posts_categories: /publications/:slug/
     organizations: /organisations/:slug/
     organizations_categories: /organisations/categories/:slug/
-    persons: /equipe/:slug/
-    persons_categories: /equipe/categories/:slug/
-    authors: /equipe/:slug/publications/
+    persons: /collectif/:slug/
+    persons_categories: /collectif/categories/:slug/
+    authors: /collectif/:slug/publications/
   taxonomies:
     administrator: administrators
     author: authors
