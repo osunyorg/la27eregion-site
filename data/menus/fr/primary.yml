@@ -27,7 +27,7 @@ items:
     children: []
     path: "/pages/a-propos/gouvernance"
     file: content/fr/pages/a-propos/gouvernance/_index.html
-  - title: Communauté
+  - title: Réseau
     target: "/fr/a-propos/reseau/"
     kind: page
     new_tab: false
