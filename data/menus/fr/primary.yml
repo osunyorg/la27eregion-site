@@ -21,12 +21,12 @@ items:
     path: "/pages/a-propos/design-de-politiques-publiques"
     file: content/fr/pages/a-propos/design-de-politiques-publiques/_index.html
   - title: Réseau
-    target: "/fr/a-propos/reseau/"
+    target: "/fr/a-propos/communaute/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/a-propos/reseau"
-    file: content/fr/pages/a-propos/reseau/_index.html
+    path: "/pages/a-propos/communaute"
+    file: content/fr/pages/a-propos/communaute/_index.html
   - title: International
     target: "/fr/a-propos/international/"
     kind: page
