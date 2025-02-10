@@ -20,7 +20,7 @@ items:
     children: []
     path: "/pages/a-propos/demarche"
     file: content/fr/pages/a-propos/demarche/_index.html
-  - title: Réseau
+  - title: Communauté
     target: "/fr/a-propos/communaute/"
     kind: page
     new_tab: false
