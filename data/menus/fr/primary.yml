@@ -69,6 +69,13 @@ items:
     children: []
     path: "/pages/communaute/partenaires"
     file: content/fr/pages/communaute/partenaires/_index.html
+  - title: Profesionnel·le·s
+    target: "/fr/communaute/professionnels/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/communaute/professionnels"
+    file: content/fr/pages/communaute/professionnels/_index.html
   path: "/pages/communaute"
   file: content/fr/pages/communaute/_index.html
 - title: Programmes
