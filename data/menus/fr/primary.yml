@@ -28,12 +28,12 @@ items:
     path: "/pages/a-propos/gouvernance"
     file: content/fr/pages/a-propos/gouvernance/_index.html
   - title: Partenaires
-    target: "/fr/a-propos/partenaires/"
+    target: "/fr/communaute/partenaires/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/a-propos/partenaires"
-    file: content/fr/pages/a-propos/partenaires/_index.html
+    path: "/pages/communaute/partenaires"
+    file: content/fr/pages/communaute/partenaires/_index.html
   - title: Réseau
     target: "/fr/communaute/professionnels/"
     kind: page
