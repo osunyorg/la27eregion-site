@@ -78,4 +78,11 @@ items:
   children: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
+- title: Communauté
+  target: "/fr/communaute/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/communaute"
+  file: content/fr/pages/communaute/_index.html
 
