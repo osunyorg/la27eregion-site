@@ -35,12 +35,12 @@ items:
     path: "/pages/a-propos/partenaires"
     file: content/fr/pages/a-propos/partenaires/_index.html
   - title: Réseau
-    target: "/fr/reseau/"
+    target: "/fr/communaute/professionnels/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/reseau"
-    file: content/fr/pages/reseau/_index.html
+    path: "/pages/communaute/professionnels"
+    file: content/fr/pages/communaute/professionnels/_index.html
   - title: International
     target: "/fr/a-propos/international/"
     kind: page
