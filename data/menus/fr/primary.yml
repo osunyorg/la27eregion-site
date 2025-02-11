@@ -71,4 +71,11 @@ items:
   children: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
+- title: Nous soutenir
+  target: "/fr/nous-soutenir/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/nous-soutenir"
+  file: content/fr/pages/nous-soutenir/_index.html
 
