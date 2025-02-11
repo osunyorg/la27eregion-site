@@ -50,6 +50,13 @@ items:
     file: content/fr/pages/a-propos/international/_index.html
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
+- title: Communauté
+  target: "/fr/communaute/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/communaute"
+  file: content/fr/pages/communaute/_index.html
 - title: Programmes
   target: "/fr/programmes/"
   kind: page
@@ -78,11 +85,4 @@ items:
   children: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
-- title: Communauté
-  target: "/fr/communaute/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/communaute"
-  file: content/fr/pages/communaute/_index.html
 
