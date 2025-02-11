@@ -10,3 +10,8 @@ params:
   logo:
     header: "/assets/images/logo-27e-region.png"
     footer: "/assets/images/logo-27e-region.png"
+  menu:
+    primary:
+      level_2:
+        title:
+          active: true
