@@ -2,6 +2,11 @@
 
 baseURL: https://site.la27eregion.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: dd2a5901-4f94-4500-8d28-1c24a477ae5c
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true
