@@ -11,10 +11,10 @@ en:
 
   permalinks:
     pages_categories: /:slug/
-    projects: /projects/:year-:slug/
-    projects_categories: /projects/:slug/
-    posts: /posts/:year-:month-:day-:slug/
-    posts_categories: /posts/:slug/
+    projects: /productions/projects/:year-:slug/
+    projects_categories: /productions/projects/:slug/
+    posts: /productions/posts/:year-:month-:day-:slug/
+    posts_categories: /productions/posts/:slug/
     organizations: /organizations/:slug/
     organizations_categories: /organizations/categories/:slug/
     persons: /team/:slug/
@@ -68,10 +68,10 @@ fr:
 
   permalinks:
     pages_categories: /:slug/
-    projects: /programmes/:year-:slug/
-    projects_categories: /programmes/:slug/
-    posts: /publications/:year-:month-:day-:slug/
-    posts_categories: /publications/:slug/
+    projects: /productions/programmes/:year-:slug/
+    projects_categories: /productions/programmes/:slug/
+    posts: /productions/publications/:year-:month-:day-:slug/
+    posts_categories: /productions/publications/:slug/
     organizations: /organisations/:slug/
     organizations_categories: /organisations/categories/:slug/
     persons: /collectif/:slug/
