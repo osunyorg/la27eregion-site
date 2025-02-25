@@ -64,6 +64,13 @@ items:
     file: content/fr/pages/communaute/professionnels/_index.html
   path: "/pages/communaute"
   file: content/fr/pages/communaute/_index.html
+- title: Productions
+  target: "/fr/productions/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/productions"
+  file: content/fr/pages/productions/_index.html
 - title: Programmes
   target: "/fr/productions/programmes/"
   kind: page
