@@ -68,23 +68,23 @@ items:
   target: "/fr/productions/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: Programmes
+    target: "/fr/productions/programmes/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/projects"
+    file: content/fr/projects/_index.html
+  - title: Publications
+    target: "/fr/productions/publications/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/posts"
+    file: content/fr/posts/_index.html
   path: "/pages/productions"
   file: content/fr/pages/productions/_index.html
-- title: Programmes
-  target: "/fr/productions/programmes/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/projects"
-  file: content/fr/projects/_index.html
-- title: Publications
-  target: "/fr/productions/publications/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
 - title: Nous soutenir
   target: "/fr/nous-soutenir/"
   kind: page
