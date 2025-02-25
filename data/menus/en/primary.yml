@@ -1,13 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Posts
-  target: "/en/posts/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/posts"
-  file: content/en/posts/_index.html
 - title: Team
   target: "/en/team/"
   kind: page

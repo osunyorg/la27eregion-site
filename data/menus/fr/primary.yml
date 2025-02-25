@@ -65,14 +65,14 @@ items:
   path: "/pages/communaute"
   file: content/fr/pages/communaute/_index.html
 - title: Programmes
-  target: "/fr/programmes/"
+  target: "/fr/productions/programmes/"
   kind: page
   new_tab: false
   children: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Publications
-  target: "/fr/publications/"
+  target: "/fr/productions/publications/"
   kind: page
   new_tab: false
   children: []
