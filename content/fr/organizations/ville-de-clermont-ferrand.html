@@ -56,14 +56,6 @@ backlinks:
   current_website:
     name: "La 27e Région"
     pages:
-      - permalink: "/fr/a-propos/gouvernance/"
-        path: "/pages/a-propos/gouvernance"
-        slug: "gouvernance"
-        file: "content/fr/pages/a-propos/gouvernance/_index.html"
-      - permalink: "/fr/communaute/adherents/"
-        path: "/pages/communaute/adherents"
-        slug: "adherents"
-        file: "content/fr/pages/communaute/adherents/_index.html"
       - permalink: "/fr/communaute/partenaires/"
         path: "/pages/communaute/partenaires"
         slug: "partenaires"
@@ -79,14 +71,14 @@ siren: >-
 text: >-
   
 kind:
-  code: "company"
-  label: "Entreprise"
+  code: "government"
+  label: "Structure gouvernementale"
 contact_details:
 
 logo: "d2586d02-2339-48ad-adfd-923722afcb95"
 organizations_categories:
   - "partenaire-de-programme"
-  - "organisation-adherente"
+  - "organisation-adherente/adherent"
 taxonomies:
   - name: "Catégories"
     slug: ""
@@ -97,11 +89,16 @@ taxonomies:
         slug: "partenaire-de-programme"
         file: "content/fr/organizations_categories/partenaire-de-programme/_index.html"
         name: "Partenaire de programme"
-      - permalink: "/fr/organisations/categories/organisation-adherente/"
-        path: "/organizations_categories/organisation-adherente"
-        slug: "organisation-adherente"
-        file: "content/fr/organizations_categories/organisation-adherente/_index.html"
-        name: "Organisation adhérente"
+
+  - name: "Organisation adhérente"
+    slug: "organisation-adherente"
+    path: "/organizations_categories/organisation-adherente"
+    categories:
+      - permalink: "/fr/organisations/categories/organisation-adherente/adherent/"
+        path: "/organizations_categories/organisation-adherente/adherent"
+        slug: "organisation-adherente/adherent"
+        file: "content/fr/organizations_categories/organisation-adherente/adherent/_index.html"
+        name: "Adhérent"
 
 
 contents_reading_time:
