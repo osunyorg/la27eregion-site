@@ -13,7 +13,7 @@ meta:
     slug: "rennes-metropole"
   dates:
     created_at: 2025-02-20T16:48:26+01:00
-    updated_at: 2025-02-20T16:48:26+01:00
+    updated_at: 2025-02-27T18:04:17+01:00
 search:
   id: "0e28ab2c-1431-4b14-ab7e-e7a5838d8df7"
   url: "/fr/organisations/rennes-metropole/"
@@ -56,14 +56,6 @@ backlinks:
   current_website:
     name: "La 27e Région"
     pages:
-      - permalink: "/fr/a-propos/gouvernance/"
-        path: "/pages/a-propos/gouvernance"
-        slug: "gouvernance"
-        file: "content/fr/pages/a-propos/gouvernance/_index.html"
-      - permalink: "/fr/communaute/adherents/"
-        path: "/pages/communaute/adherents"
-        slug: "adherents"
-        file: "content/fr/pages/communaute/adherents/_index.html"
       - permalink: "/fr/communaute/partenaires/"
         path: "/pages/communaute/partenaires"
         slug: "partenaires"
@@ -79,14 +71,20 @@ siren: >-
 text: >-
   
 kind:
-  code: "company"
-  label: "Entreprise"
+  code: "government"
+  label: "Structure gouvernementale"
 contact_details:
+  websites:
+    website:
+      label: >-
+        metropole.rennes.fr/
+      value: >-
+        https://metropole.rennes.fr/
 
 logo: "dc9f8ef6-b617-4c8d-94d5-f2b8cf438414"
 organizations_categories:
   - "partenaire-de-programme"
-  - "organisation-adherente"
+  - "organisation-adherente/adherent"
 taxonomies:
   - name: "Catégories"
     slug: ""
@@ -97,11 +95,16 @@ taxonomies:
         slug: "partenaire-de-programme"
         file: "content/fr/organizations_categories/partenaire-de-programme/_index.html"
         name: "Partenaire de programme"
-      - permalink: "/fr/organisations/categories/organisation-adherente/"
-        path: "/organizations_categories/organisation-adherente"
-        slug: "organisation-adherente"
-        file: "content/fr/organizations_categories/organisation-adherente/_index.html"
-        name: "Organisation adhérente"
+
+  - name: "Organisation adhérente"
+    slug: "organisation-adherente"
+    path: "/organizations_categories/organisation-adherente"
+    categories:
+      - permalink: "/fr/organisations/categories/organisation-adherente/adherent/"
+        path: "/organizations_categories/organisation-adherente/adherent"
+        slug: "organisation-adherente/adherent"
+        file: "content/fr/organizations_categories/organisation-adherente/adherent/_index.html"
+        name: "Adhérent"
 
 
 contents_reading_time:
