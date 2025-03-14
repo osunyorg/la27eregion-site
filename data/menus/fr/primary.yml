@@ -48,13 +48,6 @@ items:
     children: []
     path: "/pages/communaute/adherents-partenaires"
     file: content/fr/pages/communaute/adherents-partenaires/_index.html
-  - title: Partenaires
-    target: "/fr/communaute/partenaires/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/communaute/partenaires"
-    file: content/fr/pages/communaute/partenaires/_index.html
   - title: Profesionnel·le·s
     target: "/fr/communaute/professionnels/"
     kind: page
