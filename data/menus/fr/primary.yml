@@ -42,12 +42,12 @@ items:
   new_tab: false
   children:
   - title: Adhérent·e·s
-    target: "/fr/communaute/adherents/"
+    target: "/fr/communaute/adherents-partenaires/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/communaute/adherents"
-    file: content/fr/pages/communaute/adherents/_index.html
+    path: "/pages/communaute/adherents-partenaires"
+    file: content/fr/pages/communaute/adherents-partenaires/_index.html
   - title: Partenaires
     target: "/fr/communaute/partenaires/"
     kind: page
