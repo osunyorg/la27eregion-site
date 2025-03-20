@@ -41,7 +41,7 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Adhérent·e·s
+  - title: Adhérent·e·s & partenaires
     target: "/fr/communaute/adherents-partenaires/"
     kind: page
     new_tab: false
