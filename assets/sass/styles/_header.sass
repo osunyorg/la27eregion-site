@@ -1,0 +1,31 @@
+header#document-header
+    @include media-breakpoint-up(desktop)
+        .nav-level-1 
+            li
+                margin-left: $spacing-3
+    @include media-breakpoint-down(desktop)
+        .nav-level-1
+            .nav-search
+                span
+                    display: block
+            .nav-search,
+            .primary-i18n
+                // border: none !important
+    a[href="/fr/nous-soutenir/"]
+        background: $color-purple
+        border: none !important
+        color: #{$color-background} !important
+        padding: $spacing-1 $spacing-3
+        min-width: unset
+        @extend .btn
+        &,
+        &:hover
+            background: $color-purple
+            border: none !important
+            text-decoration: none
+        @include media-breakpoint-up(desktop)
+            margin-right: $spacing-2
+        @include media-breakpoint-down(desktop)
+            width: 100%
+            margin: $spacing-3 0
+            border: none !important

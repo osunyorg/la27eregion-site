@@ -1,0 +1,27 @@
+.block
+    &-call_to_action
+        .call_to_action
+            .description
+                p
+                    font-family: $body-font-family !important
+                    text-transform: none !important
+    &-pages
+        &--list
+            .block-content
+                .block-title
+                    a
+                        display: none !important
+                .description
+                    p
+                        font-family: $body-font-family !important
+                        text-transform: none !important
+                .list,
+                .list.title-only
+                    .page
+                        > a
+                            @include h3
+    &-video
+        &--player
+            .video
+                border-radius: $image-radius
+                overflow: hidden

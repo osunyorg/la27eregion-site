@@ -1,17 +1,18 @@
 theme: osuny
-removePathAccents: true
-pagination:
-  pagerSize: 30
+_merge: deep
 params:
   summary:
     position: hero
   search:
     active: true
   logo:
-    header: "/assets/images/logo-27e-region.png"
-    footer: "/assets/images/logo-27e-region.png"
+    header: "/assets/images/logo.svg"
+    footer: "/assets/images/logo.svg"
   menu:
     primary:
       level_2:
         title:
           active: true
+  home:
+    head:
+      title: site
