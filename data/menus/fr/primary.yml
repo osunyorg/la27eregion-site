@@ -78,13 +78,6 @@ items:
     file: content/fr/posts/_index.html
   path: "/pages/productions"
   file: content/fr/pages/productions/_index.html
-- title: Nous soutenir
-  target: "/fr/nous-soutenir/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/nous-soutenir"
-  file: content/fr/pages/nous-soutenir/_index.html
 - title: Contact
   target: "/fr/contact/"
   kind: page
@@ -92,4 +85,11 @@ items:
   children: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
+- title: Nous soutenir
+  target: "/fr/nous-soutenir/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/nous-soutenir"
+  file: content/fr/pages/nous-soutenir/_index.html
 
