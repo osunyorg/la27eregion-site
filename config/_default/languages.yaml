@@ -10,17 +10,6 @@ en:
   params:
     contact_details:
 
-  permalinks:
-    pages_categories: /:slug/
-    projects: /productions/projects/:year-:slug/
-    projects_categories: /productions/projects/:slug/
-    posts: /productions/posts/:year-:month-:day-:slug/
-    posts_categories: /productions/posts/:slug/
-    organizations: /organizations/:slug/
-    organizations_categories: /organizations/categories/:slug/
-    persons: /team/:slug/
-    persons_categories: /team/categories/:slug/
-    authors: /team/:slug/posts/
   taxonomies:
     administrator: administrators
     author: authors
@@ -68,17 +57,6 @@ fr:
           value: >-
             https://www.youtube.com/@channelUCsnXdS8k7q26ViqHshYjavg
 
-  permalinks:
-    pages_categories: /:slug/
-    projects: /productions/programmes/:year-:slug/
-    projects_categories: /productions/programmes/:slug/
-    posts: /productions/publications/:year-:month-:day-:slug/
-    posts_categories: /productions/publications/:slug/
-    organizations: /organisations/:slug/
-    organizations_categories: /organisations/categories/:slug/
-    persons: /collectif/:slug/
-    persons_categories: /collectif/categories/:slug/
-    authors: /collectif/:slug/publications/
   taxonomies:
     administrator: administrators
     author: authors
