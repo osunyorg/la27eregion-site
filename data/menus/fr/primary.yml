@@ -2,82 +2,66 @@
 title: Menu principal
 items:
 - title: À propos
-  target: "/fr/a-propos/"
-  kind: page
+  target: ''
+  kind: blank
   new_tab: false
   children:
-  - title: Démarche
-    target: "/fr/a-propos/demarche/"
+  - title: La 27e Région
+    target: "/fr/la-27e-region/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/a-propos/demarche"
-    file: content/fr/pages/a-propos/demarche/_index.html
+    path: "/pages/la-27e-region"
+    file: content/fr/pages/la-27e-region/_index.html
   - title: Équipe
-    target: "/fr/a-propos/equipe/"
+    target: "/fr/equipe/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/a-propos/equipe"
-    file: content/fr/pages/a-propos/equipe/_index.html
-  - title: Gouvernance
-    target: "/fr/a-propos/fonctionnement/"
+    path: "/pages/equipe"
+    file: content/fr/pages/equipe/_index.html
+  - title: Fonctionnement
+    target: "/fr/fonctionnement/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/a-propos/fonctionnement"
-    file: content/fr/pages/a-propos/fonctionnement/_index.html
+    path: "/pages/fonctionnement"
+    file: content/fr/pages/fonctionnement/_index.html
   - title: International
-    target: "/fr/a-propos/international/"
+    target: "/fr/international/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/a-propos/international"
-    file: content/fr/pages/a-propos/international/_index.html
-  path: "/pages/a-propos"
-  file: content/fr/pages/a-propos/_index.html
+    path: "/pages/international"
+    file: content/fr/pages/international/_index.html
 - title: Communauté
-  target: "/fr/communaute/"
-  kind: page
+  target: ''
+  kind: blank
   new_tab: false
   children:
   - title: Adhérents & partenaires
-    target: "/fr/communaute/adherents-partenaires/"
+    target: "/fr/adherents-partenaires/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/communaute/adherents-partenaires"
-    file: content/fr/pages/communaute/adherents-partenaires/_index.html
+    path: "/pages/adherents-partenaires"
+    file: content/fr/pages/adherents-partenaires/_index.html
   - title: Profesionnel·le·s
-    target: "/fr/communaute/professionnels/"
+    target: "/fr/professionnels/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/communaute/professionnels"
-    file: content/fr/pages/communaute/professionnels/_index.html
-  path: "/pages/communaute"
-  file: content/fr/pages/communaute/_index.html
-- title: Productions
-  target: "/fr/productions/"
-  kind: page
+    path: "/pages/professionnels"
+    file: content/fr/pages/professionnels/_index.html
+  path: 
+  file: 
+- title: Actualités
+  target: "/fr/publications/article/"
+  kind: category
   new_tab: false
-  children:
-  - title: Programmes
-    target: "/fr/productions/programmes/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/projects"
-    file: content/fr/projects/_index.html
-  - title: Publications
-    target: "/fr/productions/publications/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/posts"
-    file: content/fr/posts/_index.html
-  path: "/pages/productions"
-  file: content/fr/pages/productions/_index.html
+  children: []
+  path: "/posts_categories/article"
+  file: content/fr/posts_categories/article/_index.html
 - title: Contact
   target: "/fr/contact/"
   kind: page
@@ -85,11 +69,11 @@ items:
   children: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
-- title: Nous soutenir
-  target: "/fr/nous-soutenir/"
+- title: Adhérer
+  target: "/fr/adherer/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/nous-soutenir"
-  file: content/fr/pages/nous-soutenir/_index.html
+  path: "/pages/adherer"
+  file: content/fr/pages/adherer/_index.html
 
