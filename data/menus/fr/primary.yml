@@ -55,6 +55,27 @@ items:
     file: content/fr/pages/professionnels/_index.html
   path: 
   file: 
+- title: Productions
+  target: ''
+  kind: blank
+  new_tab: false
+  children:
+  - title: Programmes
+    target: "/fr/programmes/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/projects"
+    file: content/fr/projects/_index.html
+  - title: Livrables
+    target: "/fr/publications/livrable/"
+    kind: category
+    new_tab: false
+    children: []
+    path: "/posts_categories/livrable"
+    file: content/fr/posts_categories/livrable/_index.html
+  path: 
+  file: 
 - title: Actualités
   target: "/fr/publications/actualite/"
   kind: category
