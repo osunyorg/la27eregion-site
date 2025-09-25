@@ -56,12 +56,12 @@ items:
   path: 
   file: 
 - title: Actualités
-  target: "/fr/publications/article/"
+  target: "/fr/publications/actualite/"
   kind: category
   new_tab: false
   children: []
-  path: "/posts_categories/article"
-  file: content/fr/posts_categories/article/_index.html
+  path: "/posts_categories/actualite"
+  file: content/fr/posts_categories/actualite/_index.html
 - title: Contact
   target: "/fr/contact/"
   kind: page
