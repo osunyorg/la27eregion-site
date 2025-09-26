@@ -1,0 +1,71 @@
+// header
+header#document-header
+    .menu
+        // link as button for 'adhérer'
+        a[href="/fr/adherer/"]
+            @extend .btn
+            @extend .button--accent
+            --btn-min-width: 0
+        .nav-level-2 li 
+            a
+                @include icon(arrow-right-line, after, true)
+                    color: var(--color-accent)
+                @include hover-translate-icon
+    @include media-breakpoint-up(desktop)
+        .menu
+            margin-left: space(12)
+            flex: 1
+        .nav-level-1
+            // nav horizontal spacings: 40px for left items, 24 for right ones
+            li.has-children + li
+                margin-left: space(10)
+            li:where(:not(.has-children)) + li
+                margin-left: space(6)
+            li:nth-child(5)
+                margin-left: auto
+        .nav-level-2
+            display: flex
+            gap: space(6) var(--grid-gutter)
+            flex-direction: column
+            li + li
+                margin-left: 0 !important
+        // sticky menu behaviour
+        html.has-menu-opened &,
+        &.is-sticky
+            a[href="/fr/adherer/"]
+                &, &:hover
+                    color: var(--btn-color)
+
+// hero
+.hero
+    border-bottom: 2px solid $color-brand
+    .content
+        padding-top: $spacing-4
+        hgroup.has-lead > p:first-of-type
+            margin-top: $spacing-4
+        .hero-actions > a
+            --btn-border: 2px solid var(--color-accent)
+            --btn-hover-background: #{alphaColor(var(--color-accent), 0.10)}
+            --btn-hover-border: var(--btn-border)
+        @include media-breakpoint-up(desktop)
+            .hero-actions
+                margin-top: $spacing-4
+
+// footer
+footer#document-footer 
+    .footer-site div
+        > * + *
+            display: block
+            margin-top: space()
+
+// colored icons (footer, header)
+header#document-header,
+footer#document-footer
+    .nav-level-1
+        li.has-children span::after,
+        .search-button::after
+            color: var(--color-accent)
+footer#document-footer 
+    li::after,
+    a::after
+        color: var(--color-accent)

@@ -1,30 +1,23 @@
-.block
-    &-call_to_action
-        .call_to_action
-            @include in-page-with-sidebar
-                border-radius: $image-radius
-                overflow: hidden
-            .description
-                p
-                    font-family: $body-font-family !important
-                    text-transform: none !important
-    &-pages
-        &--list
-            .block-content
-                .block-title
-                    a
-                        display: none !important
-                .description
-                    p
-                        font-family: $body-font-family !important
-                        text-transform: none !important
-                .list,
-                .list.title-only
-                    .page
-                        > a
-                            @include h3
-    &-video
-        &--player
-            .video
-                border-radius: $image-radius
-                overflow: hidden
+.block-call_to_action
+    &--no_background
+        --cta-background-color: var(--color-background-alt)
+    
+.block-pages
+    &--list
+        .page > a
+            @include h3
+            &::before
+                content: none !important
+            @include icon(arrow-right-line, after, true)
+                color: var(--color-accent)
+            @include hover-translate-icon
+        &.with-description 
+            .block-content 
+                .top 
+                    .description p
+                        font-size: var(--lead-sidebar-size)
+                        line-height: var(--lead-sidebar-line-height)
+                @include in-page-without-sidebar
+                    .top + .list
+                        .page + .page
+                            margin-top: space(6)

@@ -1,49 +1,44 @@
-$color-purple: #660080
-$color-orange: #E65C00
-    
-$color-accent: $color-purple
-$color-text: #000000
-$color-text-alt: #454545
-$color-background: #FFFFFF
-$color-background-alt: #F2F2F2
-$color-border: $color-orange
+// COLORS
+$color-accent: #5B32D8
+$color-text: #2B2A2D
+$color-text-alt: #5D5C61
+$color-background: #F7F7F8
+$color-background-alt: #EAEAEB
+$color-border: #2B2A2D
 
-$heading-font-family: "Miso", sans-serif
-$body-font-family: "Inclusive Sans", sans-serif
-$h1-line-height: 100%
-$h1-size: pxToRem(36)
-$h1-size-desktop: pxToRem(64)
-$h1-text-transform: uppercase
-$h2-size: pxToRem(30)
-$h2-size-desktop: pxToRem(48)
-$h2-text-transform: uppercase
-$h3-line-height: 100%
-$h3-size: pxToRem(24)
-$h3-size-desktop: pxToRem(32)
-$h3-text-transform: uppercase
-$body-size: pxToRem(18)
-$body-size-desktop: pxToRem(20)
-$meta-size: pxToRem(18)
-$meta-size-desktop: pxToRem(18)
-$meta-text-transform: uppercase
-$lead-hero-line-height: $h1-line-height
-$lead-hero-size: $h1-size
-$lead-hero-size-desktop: $h1-size-desktop
-$lead-hero-text-transform: uppercase
+// specifics
+$color-brand: #D65638
 
-$image-radius: pxToRem(16)
+// TYPOGRAPHY
+$heading-font-family: "Luciole", sans-serif
+$body-font-family: $heading-font-family
+// h6 (d: 18/130)
+$h6-size-desktop: pxToRem(18)
+$h6-text-transform: normal
+$h6-weight: bold
 
-$btn-border-radius: pxToRem(8)
-$btn-border-radius-desktop: $btn-border-radius
-$btn-text-transform: uppercase
-$footer-background-color: $color-background-alt
-$footer-logo-height: pxToRem(100)
-$footer-logo-height-desktop: pxToRem(100)
-$header-background: none
-$header-border-bottom-width: 0
-$header-logo-height: pxToRem(50)
+// COMPONENTS
+// header
+$header-logo-height: pxToRem(44)
 $header-logo-height-desktop: pxToRem(56)
 $header-dropdown-full: true
-$hero-background-color: none
-$toc-font-family: $heading-font-family
-$toc-title-font-family: $heading-font-family
+$header-border-bottom-width: 0
+$header-background: var(--color-background)
+
+// footer
+$footer-logo-height: pxToRem(50)
+$footer-logo-height-desktop: pxToRem(98)
+
+// hero
+$hero-background-color: var(--color-background)
+
+// buttons
+$btn-line-height: 1
+$btn-border-radius: 0
+$btn-padding-desktop: pxToRem(20) pxToRem(32)
+
+// BLOCKS
+// cta | call to action
+$block-call-to-action-button-background: var(--color-accent)
+$block-call-to-action-button-color: var(--color-background)
+$block-call-to-action-button-hover-background: alphaColor($block-call-to-action-button-background, 0.85)

@@ -1,0 +1,15 @@
+.page__home
+    main .blocks
+        .block
+            &:first-child
+                border-bottom: 2px solid $color-brand
+                padding-bottom: $spacing-5
+                margin-bottom: $spacing-5
+                &.block-pages--list
+                    .block-title
+                        @extend .sr-only
+                    .top + .list
+                        grid-row: 1
+            &:not(:first-child).block-pages--list
+                border-top: 2px solid $color-brand
+                padding-top: $spacing-5
