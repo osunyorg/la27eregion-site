@@ -2,7 +2,7 @@
     main .blocks
         .block
             &:first-child
-                border-bottom: 2px solid $color-brand
+                border-bottom: 2px solid $color-orange
                 padding-bottom: $spacing-5
                 margin-bottom: $spacing-5
                 &.block-pages--list
@@ -11,7 +11,7 @@
                     .top + .list
                         grid-row: 1
             &:not(:first-child).block-pages--list
-                border-top: 2px solid $color-brand
+                border-top: 2px solid $color-orange
                 padding-top: $spacing-5
 
 // taxonomies
@@ -48,6 +48,8 @@
                 --color-border: #{alphaColor(var(--color-text), 0.3)}
                 &:last-child
                     border-bottom: 1px solid var(--color-border)
+    .share li a 
+        padding: space(5)
 
 
 // persons

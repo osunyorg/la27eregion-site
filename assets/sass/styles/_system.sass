@@ -1,3 +1,11 @@
+
+
+\:root
+    @include media-breakpoint-up(desktop)
+        body:not(.full-width)
+            --heading-margin-bottom: #{$spacing-5}
+
+
 // header
 header#document-header
     .menu
@@ -38,7 +46,7 @@ header#document-header
 
 // hero
 .hero
-    border-bottom: 2px solid $color-brand
+    border-bottom: 2px solid $color-orange
     .content
         padding-top: $spacing-4
         hgroup.has-lead > p:first-of-type
@@ -102,6 +110,7 @@ footer#document-footer,
     a::after,
     button::after
         color: var(--color-accent)
+
 
 // MIXINS
 // purple pill for categories
