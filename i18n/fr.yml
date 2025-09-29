@@ -2,3 +2,9 @@ commons:
   footer:
     address:
       phone_title: Appeler le +33 (0)1 83 62 98 27
+posts:
+  next: Publication suivante
+  next_aria: Publication suivante “{{ .Title }}”
+  none: Aucun publication publiée
+  previous: Publication précédente
+  previous_aria: Publication précédente “{{ .Title }}”
