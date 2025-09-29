@@ -1,16 +1,48 @@
+.block
+    .block-title a::after
+        color: var(--color-accent)
+    
+.block-projects
+    .project 
+        .project-title a
+            @include icon(arrow-right-line, after)
+                color: var(--color-accent)
+            @include hover-translate-icon
+    
 .block-call_to_action
     &--no_background
         --cta-background-color: var(--color-background-alt)
+    .top 
+        .block-title
+            margin-bottom: space(8)
+        @include in-page-with-sidebar
+            .description p
+                font-size: var(--lead-sidebar-size)
+                line-height: var(--lead-sidebar-line-height)
+                letter-spacing: $lead-sidebar-letter-spacing
+    .actions
+        a
+            --btn-padding: #{pxToRem(21)} #{pxToRem(36)}
+            &:not(:first-child)
+                --btn-background: transparent
+                --btn-border: 2px solid var(--color-background)
+                --btn-color: var(--color-background)
+                --btn-hover-background: #{alphaColor(var(--color-background), 0.10)}
+                --btn-hover-border: var(--btn-border)
+                --btn-hover-color: var(--color-background)
     
 .block-pages
     &--list
-        .page > a
-            @include h3
-            &::before
-                content: none !important
-            @include icon(arrow-right-line, after, true)
-                color: var(--color-accent)
-            @include hover-translate-icon
+        .list, .list.title-only
+            .page > a
+                @include h6
+                &::before
+                    content: none !important
+                @include icon(arrow-right-line, after, true)
+                    color: var(--color-accent)
+                @include hover-translate-icon
+                @include in-page-without-sidebar
+                    @include h3
         &.with-description 
             .block-content 
                 .top 
@@ -21,3 +53,19 @@
                     .top + .list
                         .page + .page
                             margin-top: space(6)
+    
+.block-posts
+    .post 
+        .post-title a
+            @include stretched-link(before)
+            &::after
+                bottom: unset
+                left: unset
+                position: relative
+                right: unset
+                top: unset
+                z-index: unset
+            @include icon(arrow-right-line, after)
+                color: var(--color-accent)
+                margin-left: space()
+            @include hover-translate-icon

@@ -8,6 +8,7 @@ $color-border: #2B2A2D
 
 // specifics
 $color-brand: #D65638
+$color-light-purple: #DDD7F7
 
 // TYPOGRAPHY
 $heading-font-family: "Luciole", sans-serif
@@ -39,6 +40,10 @@ $btn-padding-desktop: pxToRem(20) pxToRem(32)
 
 // BLOCKS
 // cta | call to action
+$block-call-to-action-all-actions-as-buttons: true
 $block-call-to-action-button-background: var(--color-accent)
 $block-call-to-action-button-color: var(--color-background)
 $block-call-to-action-button-hover-background: alphaColor($block-call-to-action-button-background, 0.85)
+$block-call-to-action-accent-button-hover-background: alphaColor($color-light-purple, 0.85)
+$block-call-to-action-accent-button-hover-border: var(--border-width) solid transparent
+$block-call-to-action-accent-button-hover-color: var(--color-text)
