@@ -14,3 +14,9 @@ params:
   home:
     head:
       title: site
+  projects:
+    index:
+      taxonomies:
+        display: true
+        layout: inline
+        show_name: true

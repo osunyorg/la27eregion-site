@@ -61,6 +61,7 @@ footer#document-footer
 // toc
 .toc-container
     @include in-page-with-sidebar
+        border-top: none !important
         margin-left: 0
         .toc-content
             padding-left: var(--grid-gutter)
@@ -78,7 +79,14 @@ footer#document-footer
                 transform: translateX(space(-2))
             &.active::before
                 background: var(--color-accent)
-            
+
+// contact details
+.contacts-details
+    li a
+        text-decoration-color: var(--color-accent)
+        text-decoration-thickness: 2px
+        &::after
+            display: inline-block !important
 
 // colored icons (footer, header)
 header#document-header,
@@ -88,8 +96,24 @@ footer#document-footer
         .search-button::after
             color: var(--color-accent)
 footer#document-footer,
-.toc-cta
+.toc-cta,
+.contacts-details
     li::after,
     a::after,
     button::after
         color: var(--color-accent)
+
+// MIXINS
+// purple pill for categories
+@mixin purple-button
+    @extend .btn
+    @extend .button--small
+    --btn-background: #{alphaColor($block-call-to-action-button-background, 0.1)}
+    --btn-border: none
+    --btn-color: var(--color-accent)
+    --btn-min-width: auto
+    --btn-small-padding: #{space(3)} #{$spacing-2} #{$spacing-1}
+    --btn-hover-background: #{alphaColor($block-call-to-action-button-background, 0.2)}
+    --btn-hover-border: none
+    --btn-hover-color: var(--color-accent)
+    text-decoration: none !important

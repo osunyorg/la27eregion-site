@@ -13,3 +13,58 @@
             &:not(:first-child).block-pages--list
                 border-top: 2px solid $color-brand
                 padding-top: $spacing-5
+
+// taxonomies
+.taxonomies-list--inline .taxonomy-categories,
+.taxonomies-single .terms
+        > ul 
+            display: flex
+            flex-wrap: wrap
+            gap: $spacing-2 $spacing-1
+            li a 
+                @include purple-button
+        @include media-breakpoint-up(desktop)
+            align-items: baseline
+            display: flex
+            gap: space(6)
+
+.taxonomy-children,
+[class$="-categories"]
+    li a
+        @include purple-button
+
+.project, .post
+    [class$="-categories"]
+        row-gap: $spacing-2
+
+// toc and sidebar
+.section-sidebar
+    @include in-page-with-sidebar
+        margin-left: 0 !important
+        aside
+            margin-left: var(--grid-gutter)
+        [class$="infos"]
+            > li
+                --color-border: #{alphaColor(var(--color-text), 0.3)}
+                &:last-child
+                    border-bottom: 1px solid var(--color-border)
+
+
+// persons
+.persons
+    .person
+        .avatar
+            border-radius: 0
+
+.persons__page
+    .hero
+        figure picture
+            border-radius: 0
+
+// projects
+.projects__page
+    .hero
+        .hero-text
+            padding-bottom: 0
+        .dropdown-share
+            display: none
