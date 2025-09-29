@@ -70,3 +70,18 @@
             padding-bottom: 0
         .dropdown-share
             display: none
+
+// posts
+
+.block-posts--list, .posts__section .posts--list, .posts_categories__term .posts--list, .persons__page .posts--list, .administrators__term .posts--list, .authors__term .posts--list, .researchers__term .posts--list, .teachers__term .posts--list
+    .post
+        border-bottom-color: $color-orange
+        margin-bottom: space(8)
+        padding-bottom: space(8)
+        @include media-breakpoint-up(desktop)
+            .post-meta
+                position: relative
+                right: unset
+                max-width: unset
+                text-align: left
+                margin-top: space(4)

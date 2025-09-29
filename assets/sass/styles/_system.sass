@@ -65,7 +65,12 @@ footer#document-footer
         > * + *
             display: block
             margin-top: space()
-            
+    a:hover
+        text-decoration: underline
+        text-decoration-color: var(--color-accent)
+    a::after
+        display: inline-block
+
 // toc
 .toc-container
     @include in-page-with-sidebar
@@ -87,6 +92,17 @@ footer#document-footer
                 transform: translateX(space(-2))
             &.active::before
                 background: var(--color-accent)
+
+// pagination
+.pagination
+    li a
+        line-height: pxToRem(44) !important
+    li:not(.active, .disabled) a:hover
+        background-color: alphaColor(var(--color-accent), 0.1)
+    .active
+        background-color: alphaColor(var(--color-accent), 0.2)
+        a
+            color: var(--color-text)
 
 // contact details
 .contacts-details
