@@ -57,6 +57,28 @@ footer#document-footer
         > * + *
             display: block
             margin-top: space()
+            
+// toc
+.toc-container
+    @include in-page-with-sidebar
+        margin-left: 0
+        .toc-content
+            padding-left: var(--grid-gutter)
+.toc-content
+    nav
+        a
+            @include signature
+            position: relative
+            &::before
+                content: ''
+                width: 2px
+                height: 100%
+                position: absolute
+                left: 0
+                transform: translateX(space(-2))
+            &.active::before
+                background: var(--color-accent)
+            
 
 // colored icons (footer, header)
 header#document-header,
@@ -65,7 +87,8 @@ footer#document-footer
         li.has-children span::after,
         .search-button::after
             color: var(--color-accent)
-footer#document-footer 
+footer#document-footer,
+.toc-cta
     li::after,
     a::after,
     button::after
