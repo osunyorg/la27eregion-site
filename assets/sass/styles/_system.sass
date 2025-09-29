@@ -93,6 +93,11 @@ footer#document-footer
             &.active::before
                 background: var(--color-accent)
 
+// breadcrumb
+.breadcrumb-nav
+    li[aria-current="page"]::before
+        color: alphaColor(var(--color-accent), 0.8)
+
 // pagination
 .pagination
     li a
@@ -103,7 +108,12 @@ footer#document-footer
         background-color: alphaColor(var(--color-accent), 0.2)
         a
             color: var(--color-text)
-
+    @include media-breakpoint-up(desktop)
+        margin-top: space(8)
+        li:nth-child(2)
+            margin-right: auto
+        li:nth-last-child(2)
+            margin-left: auto
 // contact details
 .contacts-details
     li a
