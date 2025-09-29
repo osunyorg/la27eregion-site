@@ -97,3 +97,17 @@
         background: alphaColor(var(--color-accent), 0.10)
         border: 2px solid var(--color-accent)
         color: var(--color-text)
+
+.block-organizations
+    .organization
+        .media
+            border: 2px solid transparent
+            transition: border 0.3s ease
+        &:hover
+            .media
+                border: 2px solid var(--color-accent)
+
+.block-persons
+    &--list 
+        .persons-list > li + li
+            border-color: $color-orange
