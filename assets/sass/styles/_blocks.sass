@@ -17,6 +17,8 @@
             margin-bottom: space(8)
         @include in-page-with-sidebar
             .description p
+                font-weight: normal
+                line-height: var(--lead-sidebar-weight)
                 font-size: var(--lead-sidebar-size)
                 line-height: var(--lead-sidebar-line-height)
                 letter-spacing: $lead-sidebar-letter-spacing
@@ -113,3 +115,31 @@
     &--list 
         .persons-list > li + li
             border-color: $color-orange
+
+.block-testimonials
+    &, blockquote
+        position: relative
+    &::before,
+    blockquote::after
+        color: $color-orange
+        font-style: normal
+        position: absolute
+        font-family: Georgia, "Times New Roman", ui-serif, serif
+        font-size: pxToRem(70)
+        opacity: 0.3
+        line-height: pxToRem(26)
+        font-weight: bold
+    &::before
+        content: '“' / ""
+        top: 0
+        left: columns(5)
+    blockquote::after
+        content: '”' / ""
+        bottom: 0
+        right: 0
+        transform: translateY(50%)
+    figcaption .meta
+        color: var(--color-text-alt)
+    @include media-breakpoint-up(desktop)
+        .is-long p
+            font-size: $quote-size-desktop-long

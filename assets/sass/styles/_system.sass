@@ -25,12 +25,16 @@ header#document-header
             flex: 1
         .nav-level-1
             // nav horizontal spacings: 40px for left items, 24 for right ones
-            li.has-children + li
-                margin-left: space(10)
-            li:where(:not(.has-children)) + li
-                margin-left: space(6)
             li:nth-child(5)
                 margin-left: auto
+            .nav-search
+                margin-left: $spacing-2
+            @include media-breakpoint-up(xl)
+                li.has-children + li
+                    margin-left: space(10)
+                li:where(:not(.has-children)) + li,
+                .nav-search
+                    margin-left: space(6)
         .nav-level-2
             display: flex
             gap: space(6) var(--grid-gutter)
