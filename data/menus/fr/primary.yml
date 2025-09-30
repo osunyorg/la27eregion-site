@@ -46,7 +46,7 @@ items:
     children: []
     path: "/pages/adherents-partenaires"
     file: content/fr/pages/adherents-partenaires/_index.html
-  - title: Profesionnel·le·s
+  - title: Professionnel·le·s
     target: "/fr/professionnels/"
     kind: page
     new_tab: false
