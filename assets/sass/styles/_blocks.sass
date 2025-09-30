@@ -17,9 +17,8 @@
             margin-bottom: space(8)
         @include in-page-with-sidebar
             .description p
-                font-weight: normal
-                line-height: var(--lead-sidebar-weight)
                 font-size: var(--lead-sidebar-size)
+                font-weight: normal
                 line-height: var(--lead-sidebar-line-height)
                 letter-spacing: $lead-sidebar-letter-spacing
     .actions
@@ -52,6 +51,7 @@
                 .top 
                     .description p
                         font-size: var(--lead-sidebar-size)
+                        font-weight: normal
                         line-height: var(--lead-sidebar-line-height)
                 @include in-page-without-sidebar
                     .top + .list
