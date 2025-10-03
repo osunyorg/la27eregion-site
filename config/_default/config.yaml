@@ -14,6 +14,12 @@ params:
   home:
     head:
       title: site
+  persons:
+    index:
+      taxonomies:
+        display: true
+        layout: inline
+        show_name: true
   projects:
     index:
       taxonomies:

@@ -1,3 +1,9 @@
+categories:
+  no_post: Aucun livrable dans cette catégorie
+  no_project: Aucun programme dans cette catégorie
+  type:
+    posts_categories: Catégories des livrables
+    projects_categories: Catégories des programmes
 commons:
   footer:
     address:
@@ -8,3 +14,17 @@ posts:
   none: Aucun publication publiée
   previous: Publication précédente
   previous_aria: Publication précédente “{{ .Title }}”
+
+projects:
+  count:
+    one: "1 programme"
+    other: "{{ .Count }} programmes"
+  next: Programme suivant
+  next_aria: Programme suivant “{{ .Title }}”
+  none: Aucun programme
+  previous: Programme précédent
+  previous_aria: Programme précédent “{{ .Title }}”
+  see_all: Voir tous les programme
+  see_all_in_program: Voir tous les programme de la formation
+  see_all_in_category: Voir tous les programme “{{ .Title }}”
+  title: Programme

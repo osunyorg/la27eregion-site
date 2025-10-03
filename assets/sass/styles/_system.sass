@@ -5,6 +5,11 @@
         body:not(.full-width)
             --heading-margin-bottom: #{$spacing-5}
 
+// external links with icons
+a[target="_blank"]:not(.icon)::after, 
+.link[target="_blank"]:not(.icon)::after
+    @include icon-site("icon-external")
+    margin-left: space(2)
 
 // header
 header#document-header
@@ -59,21 +64,47 @@ header#document-header
             --btn-border: 2px solid var(--color-accent)
             --btn-hover-background: #{alphaColor(var(--color-accent), 0.10)}
             --btn-hover-border: var(--btn-border)
+            &::after
+                color: var(--color-accent)
         @include media-breakpoint-up(desktop)
             .hero-actions
                 margin-top: $spacing-4
 
 // footer
 footer#document-footer 
-    .footer-site div
-        > * + *
-            display: block
-            margin-top: space()
     a:hover
         text-decoration: underline
         text-decoration-color: var(--color-accent)
     a::after
         display: inline-block
+    .footer-site div
+        > * + *
+            display: block
+            margin-top: space()
+    .footer-social
+        li 
+            a[target="_blank"]::after
+                display: none
+            &::after
+                width: pxToRem(18)
+                @include media-breakpoint-up(desktop)
+                    font-size: 100%
+                    margin-left: space(4) !important
+            &.instagram::after
+                @include icon-site("icon-instagram")
+            &.facebook::after
+                @include icon-site("icon-facebook")
+            &.linkedin::after
+                @include icon-site("icon-linkedin")
+            &.youtube::after
+                @include icon-site("icon-youtube")
+                @include media-breakpoint-up(desktop)
+                    font-size: 80%
+    @include media-breakpoint-down(desktop)
+        .footer-social
+            li::after
+                text-align: center
+                font-size: 1rem
 
 // toc
 .toc-container
