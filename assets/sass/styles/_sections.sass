@@ -3,8 +3,11 @@
         .block
             &:first-child
                 border-bottom: 2px solid $color-orange
-                padding-bottom: $spacing-5
-                margin-bottom: $spacing-5
+                padding-bottom: space(9)
+                margin-bottom: space(9)
+                @include media-breakpoint-up(desktop)
+                    padding-bottom: $spacing-5
+                    margin-bottom: $spacing-5
                 &.block-pages--list
                     .block-title
                         @extend .sr-only
