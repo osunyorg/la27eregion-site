@@ -6,9 +6,11 @@ categories:
     projects_categories: Catégories des programmes
 commons:
   credit: Un site éco-conçu par <a href="https://anthonyferretti.fr" title="Anthony Ferretti - lien externe" target="_blank" rel="noreferrer">Anthony Ferretti</a> et <a href="https://www.noesya.coop/" title="noesya - lien externe" target="_blank" rel="noreferrer">noesya</a> avec <a href="https://www.osuny.org/" title="Osuny - lien externe" target="_blank" rel="noreferrer">Osuny</a>
+  published_at: Date
   footer:
     address:
       phone_title: Appeler le +33 (0)1 83 62 98 27
+  share_on: Partager
 persons:
   backlinks:
     posts: Publications mentionnant

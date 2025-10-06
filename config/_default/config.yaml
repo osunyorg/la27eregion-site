@@ -30,7 +30,21 @@ params:
         show_name: true
       options:
         year: true
+    share_links:
+      enabled: true
+      facebook: true
+      linkedin: true
+      twitter: true
   posts:
     index:
       options:
         categories: false
+    single:
+      options:
+        reading_time: false
+        updated_at: false
+    share_links:
+      enabled: true
+      facebook: true
+      linkedin: true
+      twitter: true
