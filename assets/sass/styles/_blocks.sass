@@ -43,7 +43,7 @@
                 font-weight: normal
                 line-height: var(--lead-sidebar-line-height)
                 letter-spacing: $lead-sidebar-letter-spacing
-            .actions a
+            .actions a:first-child
                 margin-top: space()
     
 .block-pages
@@ -87,6 +87,9 @@
                 color: var(--color-accent)
                 margin-left: space()
             @include hover-translate-icon
+    @include media-breakpoint-down(desktop)
+        .top
+            margin-bottom: space(9)
 
 .block-key_figures
     .key-figure-text
