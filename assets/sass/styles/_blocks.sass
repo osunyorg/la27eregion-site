@@ -188,5 +188,16 @@
 
 // contact
 .block-contact
-    .socials-list li a::after
-        content: none !important
+    .socials-list li
+        &::before,
+        a::after
+            content: none !important
+    .contacts
+        h2
+            color: var(--color-text-alt)
+        a:not([itemprop="telephone"])
+            text-decoration-color: var(--color-accent)
+            text-decoration-thickness: 2px
+            &::after
+                display: inline-block !important
+                color: var(--color-accent)
