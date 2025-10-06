@@ -136,6 +136,14 @@ footer#document-footer
     .nav-legal .footer-i18n,
     .footer-credit
         margin-top: space(6)
+    .footer-credit
+        color: var(--color-text-alt)
+        a
+            color: var(--color-text)
+        > span
+            display: block
+            + span
+                margin-top: $spacing-1
     .footer-social
         li 
             a[target="_blank"]::after

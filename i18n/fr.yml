@@ -5,7 +5,9 @@ categories:
     posts_categories: Catégories des livrables
     projects_categories: Catégories des programmes
 commons:
-  credit: Un site éco-conçu par <a href="https://anthonyferretti.fr" title="Anthony Ferretti - lien externe" target="_blank" rel="noreferrer">Anthony Ferretti</a> et <a href="https://www.noesya.coop/" title="noesya - lien externe" target="_blank" rel="noreferrer">noesya</a> avec <a href="https://www.osuny.org/" title="Osuny - lien externe" target="_blank" rel="noreferrer">Osuny</a>
+  credit: >-
+    <span>Sauf mention contraire, les contenus sont mis sous <a href="Licence Creative Commons BY SA" title="Licence Creative Commons BY SA - lien externe" target="_blank" rel="noreferrer">Licence Creative Commons BY SA</a></span>
+    <span>Un site éco-conçu par <a href="https://anthonyferretti.fr" title="Anthony Ferretti - lien externe" target="_blank" rel="noreferrer">Anthony Ferretti</a> et <a href="https://www.noesya.coop/" title="noesya - lien externe" target="_blank" rel="noreferrer">noesya</a> avec <a href="https://www.osuny.org/" title="Osuny - lien externe" target="_blank" rel="noreferrer">Osuny</a></span>
   published_at: Date
   footer:
     address:
