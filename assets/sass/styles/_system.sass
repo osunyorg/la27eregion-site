@@ -63,10 +63,14 @@ header#document-header
                     color: var(--color-accent)
                     font-size: pxToRem(24)
                     margin-top: -2px
+                &[aria-expanded="true"]
+                    span:last-of-type::before
+                        font-size: pxToRem(28)
         .nav-level-1 
             display: flex
             flex-direction: column
-            li 
+            margin-bottom: space(9)
+            li
                 > a
                     @include icon(arrow-right-line, after, true)
                         color: var(--color-accent)
@@ -83,7 +87,6 @@ header#document-header
                 &:nth-child(6)
                     order: 10
                     border: none
-                    margin-bottom: space(9)
                     a[href="/fr/adherer/"]
                         color: var(--color-background)
                         width: 100%
