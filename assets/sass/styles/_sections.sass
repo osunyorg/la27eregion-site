@@ -12,7 +12,9 @@
                         grid-row: 1
             &:not(:first-child).block-pages--list
                 border-top: 2px solid $color-orange
-                padding-top: $spacing-5
+                padding-top: space(9)
+                @include media-breakpoint-up(desktop)
+                    padding-top: $spacing-5
 
 // taxonomies
 .taxonomies-list--inline
@@ -67,10 +69,14 @@
 // persons & organization
 .organizations__page,
 .persons__page
+    .contacts-details li > span
+        color: var(--color-text-alt)
     .document-content .taxonomies-container .taxonomies-single
         &.organizations-taxonomies
         &.persons-taxonomies
             @include grid(1, md)
+        .taxonomy-title
+            color: var(--color-text-alt)
     [class$="-objects"]
         .more
             @include meta
@@ -88,6 +94,19 @@
             padding-bottom: 0
         .dropdown-share
             display: none
+// projects list
+.projects--grid
+    .project
+        @include media-breakpoint-down(desktop)
+            .project-title + .project-summary
+                margin-top: $spacing-2
+            .media
+                margin-left: 0
+                margin-right: 0
+                img
+                    aspect-ratio: 1.277
+            + .project
+                margin-top: space(9)
 
 // posts
 .block-posts--list, .posts__section .posts--list, .posts_categories__term .posts--list, .persons__page .posts--list, .administrators__term .posts--list, .authors__term .posts--list, .researchers__term .posts--list, .teachers__term .posts--list, .persons__page .posts--list
@@ -103,11 +122,20 @@
                 max-width: unset
                 text-align: left
                 margin-top: space(4)
-.post
+.block-posts--list,
+.posts--list
     @include in-page-without-sidebar
         .post-title,
         [itemprop="abstract"]
             max-width: columns(8) !important
+.block-posts--grid,
+.posts--grid
+    @include media-breakpoint-down(desktop)
+        .media img
+            aspect-ratio: 1.277
+        .post + .post
+            margin-top: space(9)
+
 .persons__page .posts--list
     .post:last-child
         padding-bottom: space(8)

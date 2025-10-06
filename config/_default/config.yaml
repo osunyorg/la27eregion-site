@@ -28,6 +28,8 @@ params:
         display: true
         layout: inline
         show_name: true
+      options:
+        year: true
   posts:
     index:
       options:

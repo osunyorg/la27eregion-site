@@ -12,6 +12,8 @@
 .block-call_to_action
     &--no_background
         --cta-background-color: var(--color-background-alt)
+        @include media-breakpoint-down(desktop)
+            background-color: var(--cta-background-color)
     .top 
         .block-title
             margin-bottom: space(8)
@@ -31,6 +33,18 @@
                 --btn-hover-background: #{alphaColor(var(--color-background), 0.10)}
                 --btn-hover-border: var(--btn-border)
                 --btn-hover-color: var(--color-background)
+    @include media-breakpoint-down(desktop)
+        --block-space-y: 0
+        padding-bottom: space(18)
+        padding-top: space(18)
+        .call_to_action
+            .description p
+                font-size: var(--lead-sidebar-size)
+                font-weight: normal
+                line-height: var(--lead-sidebar-line-height)
+                letter-spacing: $lead-sidebar-letter-spacing
+            .actions a
+                margin-top: space()
     
 .block-pages
     &--list
@@ -107,6 +121,8 @@
         .media
             border: 2px solid transparent
             transition: border 0.3s ease
+            img
+                mix-blend-mode: multiply
         &:hover
             .media
                 border: 2px solid var(--color-accent)

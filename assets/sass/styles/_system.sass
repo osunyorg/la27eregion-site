@@ -24,6 +24,8 @@ header#document-header
                 @include icon(arrow-right-line, after, true)
                     color: var(--color-accent)
                 @include hover-translate-icon
+                &, &:hover
+                    text-decoration: none
     @include media-breakpoint-up(desktop)
         .menu
             margin-left: space(12)
@@ -34,6 +36,8 @@ header#document-header
                 margin-left: auto
             .nav-search
                 margin-left: $spacing-2
+                .search-button span:first-of-type
+                    display: none
             @include media-breakpoint-up(xl)
                 li.has-children + li
                     margin-left: space(10)
@@ -52,12 +56,43 @@ header#document-header
             a[href="/fr/adherer/"]
                 &, &:hover
                     color: var(--btn-color)
-
+    @include media-breakpoint-down(desktop)
+        .primary-menu
+            .header-button 
+                span:last-of-type::before
+                    color: var(--color-accent)
+                    font-size: pxToRem(24)
+                    margin-top: -2px
+        .nav-level-1 
+            display: flex
+            flex-direction: column
+            li 
+                > span,
+                > a
+                    @include signature
+                    padding-bottom: space(4)
+                    padding-top: space(4)
+                &:not(:last-child)
+                    border-color: $color-orange
+                // purple btn
+                &:nth-child(6)
+                    order: 10
+                    border: none
+                    margin-bottom: space(9)
+                    a[href="/fr/adherer/"]
+                        color: var(--color-background)
+                        width: 100%
+        .nav-level-2 li
+            > a, > span
+                @include body-text
+            > a
+                display: flex
+                align-items: baseline
+                justify-content: space-between
 // hero
 .hero
     border-bottom: 2px solid $color-orange
     .content
-        padding-top: $spacing-4
         hgroup.has-lead > p:first-of-type
             margin-top: $spacing-4
         .hero-actions > a
@@ -67,8 +102,12 @@ header#document-header
             &::after
                 color: var(--color-accent)
         @include media-breakpoint-up(desktop)
+            padding-top: $spacing-4
             .hero-actions
                 margin-top: $spacing-4
+    @include media-breakpoint-down(desktop)
+        margin-bottom: space(9)
+        padding-bottom: space(9)
 
 // footer
 footer#document-footer 
@@ -81,6 +120,9 @@ footer#document-footer
         > * + *
             display: block
             margin-top: space()
+    .nav-legal .footer-i18n,
+    .footer-credit
+        margin-top: space(6)
     .footer-social
         li 
             a[target="_blank"]::after
@@ -101,6 +143,11 @@ footer#document-footer
                 @include media-breakpoint-up(desktop)
                     font-size: 80%
     @include media-breakpoint-down(desktop)
+        padding-bottom: space(9)
+        padding-top: space(9)
+        .container + .container,
+        .footer-legals
+            margin-top: space(9)
         .footer-social
             li::after
                 text-align: center
