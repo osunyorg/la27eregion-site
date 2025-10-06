@@ -67,11 +67,16 @@ header#document-header
             display: flex
             flex-direction: column
             li 
+                > a
+                    @include icon(arrow-right-line, after, true)
+                        color: var(--color-accent)
                 > span, > a, > button span
                     @include signature
                 > span, > a, > button
                     padding-bottom: space(4)
                     padding-top: space(4)
+                    &::after
+                        font-size: pxToRem(20)
                 &:not(:last-child)
                     border-color: $color-orange
                 // purple btn
@@ -85,6 +90,8 @@ header#document-header
         .nav-level-2 li
             > a, > span
                 @include body-text
+        .nav-level-1 li,
+        .nav-level-2 li
             > a
                 display: flex
                 align-items: baseline
