@@ -55,15 +55,31 @@
 
 
 // persons
+.persons__page
+    .hero
+        figure picture
+            border-radius: 0
 .persons
     .person
         .avatar
             border-radius: 0
 
+// persons & organization
+.organizations__page,
 .persons__page
-    .hero
-        figure picture
-            border-radius: 0
+    .document-content .taxonomies-container .taxonomies-single
+        &.organizations-taxonomies
+        &.persons-taxonomies
+            @include grid(1, md)
+    [class$="-objects"]
+        .more
+            @include meta
+            text-align: right
+            text-decoration: none
+            width: 100%
+            &::after
+                width: unset
+                height: unset
 
 // projects
 .projects__page
@@ -74,8 +90,7 @@
             display: none
 
 // posts
-
-.block-posts--list, .posts__section .posts--list, .posts_categories__term .posts--list, .persons__page .posts--list, .administrators__term .posts--list, .authors__term .posts--list, .researchers__term .posts--list, .teachers__term .posts--list
+.block-posts--list, .posts__section .posts--list, .posts_categories__term .posts--list, .persons__page .posts--list, .administrators__term .posts--list, .authors__term .posts--list, .researchers__term .posts--list, .teachers__term .posts--list, .persons__page .posts--list
     .post
         border-bottom-color: $color-orange
         margin-bottom: space(8)
@@ -88,3 +103,11 @@
                 max-width: unset
                 text-align: left
                 margin-top: space(4)
+.post
+    @include in-page-without-sidebar
+        .post-title,
+        [itemprop="abstract"]
+            max-width: columns(8) !important
+.persons__page .posts--list
+    .post:last-child
+        padding-bottom: space(8)

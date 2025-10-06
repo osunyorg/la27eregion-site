@@ -8,13 +8,20 @@ commons:
   footer:
     address:
       phone_title: Appeler le +33 (0)1 83 62 98 27
+
+persons:
+  backlinks:
+    posts: Publications mentionnant
+    projects: Programmes mentionnant
+  posts:
+    recent: Publications récentes
+    all: Voir toutes les publications de {{ .author }}
 posts:
   next: Publication suivante
   next_aria: Publication suivante “{{ .Title }}”
   none: Aucun publication publiée
   previous: Publication précédente
   previous_aria: Publication précédente “{{ .Title }}”
-
 projects:
   count:
     one: "1 programme"

@@ -143,3 +143,26 @@
     @include media-breakpoint-up(desktop)
         .is-long p
             font-size: $quote-size-desktop-long
+
+// table
+.block-datatable
+    tbody 
+        tr
+            @include small
+            &:last-child
+                border-bottom: 1px solid $color-orange
+        td
+            border-color: $color-orange
+            padding-bottom: space(5)
+            padding-top: space(5)
+
+// video
+.block-video--player
+    .lazy-video-player
+        > button
+            align-items: center
+            border-radius: 0
+            display: flex
+            justify-content: center
+            &::before
+                padding-left: 0

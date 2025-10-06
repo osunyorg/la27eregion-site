@@ -1,6 +1,8 @@
 theme: osuny
 _merge: deep
 params:
+  breadcrumb:
+    position: none
   summary:
     position: hero
   search:
