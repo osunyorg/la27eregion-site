@@ -67,9 +67,9 @@ header#document-header
             display: flex
             flex-direction: column
             li 
-                > span,
-                > a
+                > span, > a, > button span
                     @include signature
+                > span, > a, > button
                     padding-bottom: space(4)
                     padding-top: space(4)
                 &:not(:last-child)
