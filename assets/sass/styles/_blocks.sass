@@ -139,28 +139,28 @@
         margin-top: -(space(9))
     blockquote
         position: relative
-    .container::before,
+    blockquote::before,
     blockquote::after
         color: $color-orange
         font-style: normal
-        // pointer-events: none
-        // position: absolute
+        pointer-events: none
+        position: absolute
         font-family: Georgia, "Times New Roman", ui-serif, serif
         font-size: pxToRem(70)
         opacity: 0.3
         line-height: pxToRem(26)
         font-weight: bold
-    .container::before
-        @include container
-        display: block
+    blockquote::before
         content: '“' / ""
-        max-width: columns(8)
+        left: 0
+        top: 0
+        transform: translateX(-50%)
     blockquote::after
         bottom: 0
         content: '”' / ""
         position: absolute
         right: 0
-        transform: translateY(50%)
+        transform: translateY(100%)
     figcaption .meta
         color: var(--color-text-alt)
     @include media-breakpoint-up(desktop)

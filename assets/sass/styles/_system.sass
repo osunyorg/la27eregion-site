@@ -199,11 +199,12 @@ footer#document-footer
                     text-decoration: none
 // toc
 .toc-container
-    // @include in-page-with-sidebar
-    //     border-top: none !important
-    //     margin-left: 0
-    //     .toc-content
-    //         padding-left: var(--grid-gutter)
+    @include in-page-with-sidebar
+        border-top: none !important
+        .toc-content
+            padding-left: space(2)
+            margin-left: space(-2)
+
 .toc-content
     nav
         a
