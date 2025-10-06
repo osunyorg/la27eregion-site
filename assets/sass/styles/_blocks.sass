@@ -134,25 +134,31 @@
             border-color: $color-orange
 
 .block-testimonials
-    &, blockquote
+    .container
+        padding-top: space(9)
+        margin-top: -(space(9))
+    blockquote
         position: relative
-    &::before,
+    .container::before,
     blockquote::after
         color: $color-orange
         font-style: normal
-        position: absolute
+        // pointer-events: none
+        // position: absolute
         font-family: Georgia, "Times New Roman", ui-serif, serif
         font-size: pxToRem(70)
         opacity: 0.3
         line-height: pxToRem(26)
         font-weight: bold
-    &::before
+    .container::before
+        @include container
+        display: block
         content: '“' / ""
-        top: 0
-        left: columns(5)
+        max-width: columns(8)
     blockquote::after
-        content: '”' / ""
         bottom: 0
+        content: '”' / ""
+        position: absolute
         right: 0
         transform: translateY(50%)
     figcaption .meta
