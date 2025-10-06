@@ -5,7 +5,9 @@ categories:
     posts_categories: Deliverable categories
     projects_categories: programme categories
 commons:
-  credit: A low impact website crafted by <a href="https://collectifbam.fr/ecosysteme/anthony-ferretti/" title="Anthony Ferretti - lien externe" target="_blank" rel="noreferrer">Anthony Ferretti</a> and <a href="https://www.noesya.coop/" title="noesya - lien externe" target="_blank" rel="noreferrer">noesya</a> with <a href="https://www.osuny.org/" title="Osuny - lien externe" target="_blank" rel="noreferrer">Osuny</a>
+  credit: >-
+    <span>Unless otherwise stated, the content is licensed under <a href="Licence Creative Commons BY SA" title="Creative Commons BY SA License - external link" target="_blank" rel="noreferrer">Creative Commons BY SA License</a></span>
+    <span>An eco-designed website by <a href="https://anthonyferretti.fr" title="Anthony Ferretti - external link" target="_blank" rel="noreferrer">Anthony Ferretti</a> and <a href="https://www.noesya.coop/" title="noesya - external link" target="_blank" rel="noreferrer">noesya</a> with <a href="https://www.osuny.org/" title="Osuny - external link" target="_blank" rel="noreferrer">Osuny</a></span>
   footer:
       address:
         phone_title: Call +44 (0)1 83 62 98 27
