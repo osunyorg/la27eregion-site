@@ -1,0 +1,37 @@
+categories:
+  no_post: No deliverables in this category
+  no_project: No programme in this category
+  type:
+    posts_categories: Deliverable categories
+    projects_categories: programme categories
+commons:
+  credit: A low impact website crafted by <a href="https://collectifbam.fr/ecosysteme/anthony-ferretti/" title="Anthony Ferretti - lien externe" target="_blank" rel="noreferrer">Anthony Ferretti</a> and <a href="https://www.noesya.coop/" title="noesya - lien externe" target="_blank" rel="noreferrer">noesya</a> with <a href="https://www.osuny.org/" title="Osuny - lien externe" target="_blank" rel="noreferrer">Osuny</a>
+  footer:
+      address:
+        phone_title: Call +44 (0)1 83 62 98 27
+persons:
+  backlinks:
+    posts: Publications mentioning
+    projects: Programmes mentioning
+  posts:
+    recent: Recent publications
+    all: View all publications by {{ .author }}
+posts:
+  next: Next publication
+  next_aria: Next publication “{{ .Title }}”
+  none: No publications
+  previous: Previous publication
+  previous_aria: Previous publication “{{ .Title }}”
+projects:
+  count:
+    one: "1 programme"
+    other: "{{ .Count }} programmes"
+  next: Next programme
+  next_aria: Next programme “{{ .Title }}”
+  none: No programmes
+  previous: Previous programme
+  previous_aria: Previous programme “{{ .Title }}”
+  see_all: View all programmes
+  see_all_in_program: View all programmes in the training
+  see_all_in_category: View all programmes “{{ .Title }}”
+  title: Programme
