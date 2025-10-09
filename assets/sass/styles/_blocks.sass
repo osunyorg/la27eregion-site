@@ -68,6 +68,9 @@
                         font-weight: normal
                         line-height: var(--lead-sidebar-line-height)
                 @include in-page-without-sidebar
+                    .list .page > a
+                        @include h6
+                @include in-page-without-sidebar
                     .top + .list
                         .page + .page
                             margin-top: space(6)
