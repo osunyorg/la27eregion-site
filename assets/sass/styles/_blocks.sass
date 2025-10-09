@@ -50,16 +50,15 @@
     &--list
         .list, .list.title-only
             .page > a
-                @include h6
-                &::before
-                    content: none !important
                 @include icon(arrow-right-line, after, true)
                     color: var(--color-accent)
                 @include hover-translate-icon
-                @include in-page-without-sidebar
-                    @include h3
+                &::before
+                    content: none !important
                 &, &:hover
                     text-decoration: none
+                @include in-page-with-or-without-sidebar
+                    @include h6
         &.with-description 
             .block-content 
                 .top 
@@ -67,9 +66,6 @@
                         font-size: var(--lead-sidebar-size)
                         font-weight: normal
                         line-height: var(--lead-sidebar-line-height)
-                @include in-page-without-sidebar
-                    .list .page > a
-                        @include h6
                 @include in-page-without-sidebar
                     .top + .list
                         .page + .page
