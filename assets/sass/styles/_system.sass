@@ -12,6 +12,12 @@ a[target="_blank"]:not(.icon)::after,
     display: inline-block
     margin-left: space(2)
 
+a
+    text-decoration-color: var(--color-accent)
+    text-decoration-thickness: 2px
+    &::after
+        color: var(--color-accent)
+
 // header
 header#document-header
     .menu
@@ -126,6 +132,7 @@ header#document-header
 footer#document-footer 
     a:hover
         text-decoration: underline
+        text-decoration-thickness: 2px
         text-decoration-color: var(--color-accent)
     a::after
         display: inline-block
