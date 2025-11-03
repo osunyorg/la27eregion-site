@@ -1,6 +1,13 @@
 ---
 title: Menu principal
 items:
+- title: La 27e Région
+  target: "/en/la-27e-region/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/la-27e-region"
+  file: content/en/pages/la-27e-region/_index.html
 - title: Projects
   target: "/en/projects/"
   kind: page
