@@ -202,8 +202,8 @@ footer#document-footer
     @include in-page-with-sidebar
         border-top: none !important
         .toc-content
-            padding-left: space(2)
-            margin-left: space(-2)
+            padding-left: space(3)
+            margin-left: space(-3)
 
 .toc-content
     nav
@@ -216,9 +216,12 @@ footer#document-footer
                 height: 100%
                 position: absolute
                 left: 0
-                transform: translateX(space(-2))
-            &.active::before
+                transform: translateX(space(-3))
+            &.active::before,
+            &:hover::before
                 background: var(--color-accent)
+            &, &:hover
+                text-decoration: none !important
 
 // breadcrumb
 .breadcrumb-nav

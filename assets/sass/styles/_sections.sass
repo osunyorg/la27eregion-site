@@ -107,13 +107,17 @@
         .dropdown-share
             display: none
 // projects list
-.projects--grid
+.projects--grid,
+.block-projects--grid
     .project
+        &-description
+            .project-title + .project-summary
+                margin-top: $spacing-1
+            * + *:not(.project-summary)
+                margin-top: space(4)
         .media img
             aspect-ratio: 1.571
         @include media-breakpoint-down(desktop)
-            .project-title + .project-summary
-                margin-top: $spacing-2
             .media
                 margin-left: 0
                 margin-right: 0
