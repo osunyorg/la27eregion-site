@@ -53,8 +53,8 @@ items:
     children: []
     path: "/pages/professionnels"
     file: content/fr/pages/professionnels/_index.html
-  path: 
-  file: 
+  path:
+  file:
 - title: Productions
   target: ''
   kind: blank
@@ -74,8 +74,8 @@ items:
     children: []
     path: "/posts_categories/livrable"
     file: content/fr/posts_categories/livrable/_index.html
-  path: 
-  file: 
+  path:
+  file:
 - title: Actualités
   target: "/fr/publications/actualite/"
   kind: category
