@@ -202,3 +202,31 @@
                                     width: pxToRem(56)
                                     &:hover
                                         background-color: $color-light-purple
+
+// display 'livrables' programs list as grid
+.page-livrable
+    .posts--list
+        @include layout-grid
+        @include grid(2, md)
+        .post
+            border-bottom: none
+            padding-bottom: 0 !important
+            padding-top: 0 !important
+            row-gap: 0
+            .post-title
+                @include h3
+                a::after
+                    position: relative
+                    top: unset
+                    right: unset
+                    bottom: unset
+            .media
+                margin-bottom: $spacing-3
+                img
+                    aspect-ratio: 1.571
+            @include media-breakpoint-down(desktop)
+                .media
+                    margin-right: 0
+                    width: 100%
+                + .post
+                    margin-top: space(9)
