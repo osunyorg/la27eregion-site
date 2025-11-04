@@ -108,6 +108,7 @@ header#document-header
                 display: flex
                 align-items: baseline
                 justify-content: space-between
+
 // hero
 .hero
     border-bottom: 2px solid $color-orange
@@ -124,6 +125,10 @@ header#document-header
             padding-top: $spacing-4
             .hero-actions
                 margin-top: $spacing-4
+    &--image-portrait:where(:not(.has-breadcrumb-hero-end)),
+    &--image-square:where(:not(.has-breadcrumb-hero-end))
+        figure
+            margin-bottom: 0
     @include media-breakpoint-down(desktop)
         margin-bottom: space(9)
         padding-bottom: space(9)
