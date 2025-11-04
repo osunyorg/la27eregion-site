@@ -26,13 +26,27 @@
     .actions
         a
             --btn-padding: #{pxToRem(21)} #{pxToRem(36)}
+            &::after
+                color: inherit
             &:not(:first-child)
                 --btn-background: transparent
-                --btn-border: 2px solid var(--color-background)
-                --btn-color: var(--color-background)
-                --btn-hover-background: #{alphaColor(var(--color-background), 0.10)}
-                --btn-hover-border: var(--btn-border)
-                --btn-hover-color: var(--color-background)
+
+    &--accent_background
+        .actions a:not(:first-child)
+            --btn-border: 2px solid var(--color-background)
+            --btn-color: var(--color-background)
+            --btn-hover-background: #{alphaColor(var(--color-background), 0.10)}
+            --btn-hover-border: var(--btn-border)
+            --btn-hover-color: var(--color-background)
+
+    &--no_background
+        .actions a:not(:first-child)
+            --btn-color: var(--color-text)
+            --btn-border: 2px solid var(--color-accent)
+            --btn-hover-background: #{alphaColor(var(--color-accent), 0.10)}
+            --btn-hover-border: var(--btn-border)
+            --btn-hover-color: var(--color-text)
+    
     @include media-breakpoint-down(desktop)
         --block-space-y: 0
         padding-bottom: space(18)
