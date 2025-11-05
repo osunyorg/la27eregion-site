@@ -68,21 +68,21 @@ items:
     path: "/projects"
     file: content/fr/projects/_index.html
   - title: Livrables
-    target: "/fr/publications/livrable/"
+    target: "/fr/publications/livrables/"
     kind: category
     new_tab: false
     children: []
-    path: "/posts_categories/livrable"
-    file: content/fr/posts_categories/livrable/_index.html
+    path: "/posts_categories/livrables"
+    file: content/fr/posts_categories/livrables/_index.html
   path:
   file:
 - title: Actualités
-  target: "/fr/publications/actualite/"
+  target: "/fr/publications/actualites/"
   kind: category
   new_tab: false
   children: []
-  path: "/posts_categories/actualite"
-  file: content/fr/posts_categories/actualite/_index.html
+  path: "/posts_categories/actualites"
+  file: content/fr/posts_categories/actualites/_index.html
 - title: Contact
   target: "/fr/contact/"
   kind: page
