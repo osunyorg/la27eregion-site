@@ -47,16 +47,6 @@ fr:
             la-27e-région
           value: >-
             https://www.linkedin.com/company/la-27e-r%C3%A9gion/
-        x:
-          label: >-
-            La27eregion
-          value: >-
-            https://x.com/La27eregion
-        youtube:
-          label: >-
-            channelUCsnXdS8k7q26ViqHshYjavg
-          value: >-
-            https://www.youtube.com/@channelUCsnXdS8k7q26ViqHshYjavg
 
   taxonomies:
     administrator: administrators
