@@ -48,3 +48,12 @@ params:
       facebook: true
       linkedin: true
       twitter: true
+  image_sizes:
+    _default:
+      layouts:
+        list:
+          mobile:   360
+          tablet:   555
+          desktop:  864
+        grid:
+          desktop:  864
