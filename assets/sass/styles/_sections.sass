@@ -11,7 +11,7 @@
                 &.block-pages--list
                     .block-title
                         @extend .sr-only
-                    .top + .list
+                    .top + .pages
                         grid-row: 1
                     .block-content
                         row-gap: 0
@@ -117,17 +117,26 @@
                 margin-top: space(4)
         .media img
             aspect-ratio: 1.571
-        @include media-breakpoint-down(desktop)
+    
+    @include media-breakpoint-down(desktop)
+        .project
             .media
                 margin-left: 0
                 margin-right: 0
                 img
                     aspect-ratio: 1.277
-            + .project
+        .projects
+            > li + li
                 margin-top: space(9)
 
 // posts
-.block-posts--list, .posts__section .posts--list, .posts_categories__term .posts--list, .persons__page .posts--list, .administrators__term .posts--list, .authors__term .posts--list, .researchers__term .posts--list, .teachers__term .posts--list, .persons__page .posts--list
+.post
+    .media
+        margin-bottom: $spacing-3
+        img
+            aspect-ratio: 1.571
+
+.posts--list
     .post
         border-bottom-color: $color-orange
         margin-bottom: space(8)
@@ -140,12 +149,14 @@
                 max-width: unset
                 text-align: left
                 margin-top: space(4)
+
 .block-posts--list,
 .posts--list
     @include in-page-without-sidebar
         .post-title,
         [itemprop="abstract"]
             max-width: columns(8) !important
+
 .block-posts--grid,
 .posts--grid
     .media img
@@ -153,8 +164,9 @@
     @include media-breakpoint-down(desktop)
         .media img
             aspect-ratio: 1.277
-        .post + .post
-            margin-top: space(9)
+        .posts
+            > li + li
+                margin-top: space(9)
 
 .persons__page .posts--list
     .post:last-child

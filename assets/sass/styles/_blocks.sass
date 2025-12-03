@@ -62,7 +62,7 @@
     
 .block-pages
     &--list
-        .list, .list.title-only
+        .pages, .pages.title-only
             .page > a
                 @include icon(arrow-right-line, after, true)
                     color: var(--color-accent)
@@ -73,6 +73,7 @@
                     text-decoration: none
                 @include in-page-with-or-without-sidebar
                     @include h4
+
         &.with-description 
             .block-content 
                 .top 
@@ -81,9 +82,14 @@
                         font-weight: normal
                         line-height: var(--lead-sidebar-line-height)
                 @include in-page-without-sidebar
-                    .top + .list
+                    .top + .pages
                         .page + .page
                             margin-top: space(6)
+    
+        @include media-breakpoint-down(desktop)
+            .pages.title-only
+                > li + li
+                    margin-top: $spacing-2
     
 .block-posts
     .post 
