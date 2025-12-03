@@ -142,20 +142,24 @@
         margin-bottom: space(8)
         &:not(:last-child)
             padding-bottom: space(8)
-        @include media-breakpoint-up(desktop)
+        @include in-page-without-sidebar
             .post-meta
-                position: relative
-                right: unset
-                max-width: unset
-                text-align: left
                 margin-top: space(4)
+                time
+                    position: relative
+                    right: unset
+                    max-width: unset
+                    text-align: left
 
-.block-posts--list,
+.block-posts--list .posts,
 .posts--list
     @include in-page-without-sidebar
         .post-title,
         [itemprop="abstract"]
             max-width: columns(8) !important
+    @include media-breakpoint-down(desktop)
+        > li
+            padding-bottom: 0
 
 .block-posts--grid,
 .posts--grid
