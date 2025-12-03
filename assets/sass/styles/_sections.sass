@@ -27,7 +27,11 @@
             margin-bottom: -($spacing-5)
 
 // taxonomies
-.taxonomies-list--inline
+.taxonomies-single
+    .terms
+        flex-direction: column
+
+.taxonomies-list--inline,
     @include grid(1, md)
 .taxonomies-list--inline .taxonomy-categories,
 .taxonomies-single .terms
@@ -73,6 +77,12 @@
         .avatar
             border-radius: 0
 
+.block-persons--list
+    @include media-breakpoint-up(desktop)
+        .person
+            &, .description
+                align-items: center !important
+
 // persons & organization
 .organizations__page,
 .persons__page
@@ -106,6 +116,11 @@
             padding-bottom: 0
         .dropdown-share
             display: none
+
+.projects--large
+    .project-meta
+        time + * 
+            margin-left: $spacing-1
 // projects list
 .projects--grid,
 .block-projects--grid
@@ -137,11 +152,8 @@
             aspect-ratio: 1.571
 
 .posts--list
+    --color-border: #{$color-orange}
     .post
-        border-bottom-color: $color-orange
-        margin-bottom: space(8)
-        &:not(:last-child)
-            padding-bottom: space(8)
         @include in-page-without-sidebar
             .post-meta
                 margin-top: space(4)
@@ -154,12 +166,13 @@
 .block-posts--list .posts,
 .posts--list
     @include in-page-without-sidebar
+        > li 
+            padding-bottom: space(8)
+            + li
+                margin-top: space(8)
         .post-title,
         [itemprop="abstract"]
             max-width: columns(8) !important
-    @include media-breakpoint-down(desktop)
-        > li
-            padding-bottom: 0
 
 .block-posts--grid,
 .posts--grid
