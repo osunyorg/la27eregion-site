@@ -8,6 +8,20 @@ items:
   children: []
   path: "/pages/la-27e-region"
   file: content/en/pages/la-27e-region/_index.html
+- title: International
+  target: "/en/international/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/international"
+  file: content/en/pages/international/_index.html
+- title: Members & partnerships
+  target: "/en/adherents-partenaires/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/adherents-partenaires"
+  file: content/en/pages/adherents-partenaires/_index.html
 - title: Projects
   target: "/en/projects/"
   kind: page
