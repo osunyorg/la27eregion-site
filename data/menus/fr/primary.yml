@@ -68,12 +68,12 @@ items:
     path: "/projects"
     file: content/fr/projects/_index.html
   - title: Livrables
-    target: "/fr/publications/livrables/"
+    target: "/fr/publications/ressources/"
     kind: category
     new_tab: false
     children: []
-    path: "/posts_categories/livrables"
-    file: content/fr/posts_categories/livrables/_index.html
+    path: "/posts_categories/ressources"
+    file: content/fr/posts_categories/ressources/_index.html
   path:
   file:
 - title: Actualités
