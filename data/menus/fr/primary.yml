@@ -74,6 +74,13 @@ items:
     children: []
     path: "/posts_categories/ressources"
     file: content/fr/posts_categories/ressources/_index.html
+  - title: Ressources
+    target: "/fr/ressources/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/ressources"
+    file: content/fr/pages/ressources/_index.html
   path:
   file:
 - title: Actualités
