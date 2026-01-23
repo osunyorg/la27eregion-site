@@ -17,6 +17,8 @@ a
     text-decoration-thickness: 2px
     &::after
         color: var(--color-accent)
+    &:hover
+        text-decoration-thickness: 2px
 
 // header
 header#document-header
@@ -264,6 +266,7 @@ footer#document-footer
         border-top-color: $color-orange
     ul > li a
         @include body-text
+        transition: color 0.3s ease
         span::before,
         span::after
             color: var(--color-accent)
