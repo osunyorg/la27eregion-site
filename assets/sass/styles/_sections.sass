@@ -36,20 +36,18 @@
 
 .taxonomies-list--inline .taxonomy-categories,
 .taxonomies-single .terms
-        > ul
-            display: flex
-            flex-wrap: wrap
-            gap: $spacing-2 $spacing-1
-            li a 
-                @include purple-button
+    flex-direction: row
+    > ul
+        display: flex
+        flex-wrap: wrap
+        gap: $spacing-2 $spacing-1
+        li a 
+            @include purple-button
         
-        @include media-breakpoint-down(desktop)
-            flex-direction: row
-            
-        @include media-breakpoint-up(desktop)
-            align-items: baseline
-            display: flex
-            gap: space(6)
+    @include media-breakpoint-up(desktop)
+        align-items: baseline
+        display: flex
+        gap: space(6)
 
 .taxonomy-children,
 [class$="-categories"]
