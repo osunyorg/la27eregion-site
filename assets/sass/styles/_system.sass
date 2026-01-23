@@ -6,7 +6,7 @@
             --heading-margin-bottom: #{$spacing-5}
 
 // external links with icons
-a[target="_blank"]:not(.icon)::after, 
+a[target="_blank"]:not(.icon, [rel="license noopener"])::after, 
 .link[target="_blank"]:not(.icon)::after
     @include icon-site("icon-external")
     display: inline-block
