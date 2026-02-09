@@ -37,12 +37,14 @@ search:
   summary: >-
     <p>Tous les professionnel·le·s qui ont contribué à l'aventure de La 27e Région.</p>
   body: >-
-    <p>  <br>Lorsque nous conduisons un programme, nous appelons les candidatures pour sélectionner les professionnels qui vont les mettre en œuvre sur le terrain, dans le cadre de prestations de services.  Nous veillons autant que possible à sélectionner des équipes mixtes, pluridisciplinaires, réunissant des compétences senior et junior. La 27e Région joue alors un rôle de médiation, pour faciliter le travail des équipes avec les collectivités et toutes les parties prenantes.</p>  <p> Personnes  <br> Organisations  </p>
+    <p>  <br>Lorsque nous conduisons un programme, nous appelons les candidatures pour sélectionner les professionnels qui vont les mettre en œuvre sur le terrain, dans le cadre de prestations de services.  Nous veillons autant que possible à sélectionner des équipes mixtes, pluridisciplinaires, réunissant des compétences senior et junior. La 27e Région joue alors un rôle de médiation, pour faciliter le travail des équipes avec les collectivités et toutes les parties prenantes.</p>  <p> Organisations  <br> Personnes  </p>
 
 breadcrumbs:
-  - title: "Accueil"
+  - title: >-
+      Accueil
     path: "/fr/"
-  - title: "Professionnel·le·s"
+  - title: >-
+      Professionnel·le·s
 
 design:
   full_width: false
@@ -86,6 +88,60 @@ contents:
 
 
 
+
+
+  - kind: block
+    template: title
+    title: >-
+      Organisations
+    slug: >-
+      organisations
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Organisations
+        heading: 2
+
+    data:
+      layout: classic
+
+
+  - kind: block
+    template: organizations
+
+
+    ranks:
+      base: 3
+      children: 3
+    top:
+      active: false
+
+    data:
+      layout: grid
+
+      options:
+        link: true
+        logo: true
+        summary: false
+        address: false
+        filters: false
+
+      organizations:
+        - permalink: "/fr/organisations/social-innovation-exchange/"
+          path: "/organizations/social-innovation-exchange"
+          slug: "social-innovation-exchange"
+          file: "content/fr/organizations/social-innovation-exchange.html"
+
+        - permalink: "/fr/organisations/states-of-change/"
+          path: "/organizations/states-of-change"
+          slug: "states-of-change"
+          file: "content/fr/organizations/states-of-change.html"
+
+      quantity: 2
 
 
   - kind: block
@@ -584,60 +640,6 @@ contents:
           file: "content/fr/persons/arnaud-wink.html"
 
       quantity: 91
-
-
-  - kind: block
-    template: title
-    title: >-
-      Organisations
-    slug: >-
-      organisations
-    ranks:
-      base: 2
-      self: 2
-    top:
-      active: true
-      title: 
-        value: >-
-          Organisations
-        heading: 2
-
-    data:
-      layout: classic
-
-
-  - kind: block
-    template: organizations
-
-
-    ranks:
-      base: 3
-      children: 3
-    top:
-      active: false
-
-    data:
-      layout: grid
-
-      options:
-        link: true
-        logo: true
-        summary: false
-        address: false
-        filters: false
-
-      organizations:
-        - permalink: "/fr/organisations/social-innovation-exchange/"
-          path: "/organizations/social-innovation-exchange"
-          slug: "social-innovation-exchange"
-          file: "content/fr/organizations/social-innovation-exchange.html"
-
-        - permalink: "/fr/organisations/states-of-change/"
-          path: "/organizations/states-of-change"
-          slug: "states-of-change"
-          file: "content/fr/organizations/states-of-change.html"
-
-      quantity: 2
 
 
 
