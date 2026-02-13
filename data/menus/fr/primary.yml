@@ -2,99 +2,106 @@
 title: Menu principal
 items:
 - title: À propos
+  slug: a-propos
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: La 27e Région
+    slug: la-27e-region
     target: "/fr/la-27e-region/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/la-27e-region"
     file: content/fr/pages/la-27e-region/_index.html
   - title: Équipe
+    slug: equipe
     target: "/fr/equipe/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/equipe"
     file: content/fr/pages/equipe/_index.html
   - title: Fonctionnement
+    slug: fonctionnement
     target: "/fr/fonctionnement/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/fonctionnement"
     file: content/fr/pages/fonctionnement/_index.html
   - title: International
+    slug: international
     target: "/fr/international/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/international"
     file: content/fr/pages/international/_index.html
+  descendants_targets:
+  - "/fr/equipe/"
+  - "/fr/fonctionnement/"
+  - "/fr/international/"
+  - "/fr/la-27e-region/"
 - title: Communauté
+  slug: communaute
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Adhérents & partenaires
+    slug: adherents-partenaires
     target: "/fr/adherents-partenaires/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/adherents-partenaires"
     file: content/fr/pages/adherents-partenaires/_index.html
   - title: Professionnel·le·s
+    slug: professionnel-le-s
     target: "/fr/professionnels/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/professionnels"
     file: content/fr/pages/professionnels/_index.html
-  path:
-  file:
-- title: Productions
-  target: ''
-  kind: blank
-  new_tab: false
-  children:
-  - title: Programmes
-    target: "/fr/programmes/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/projects"
-    file: content/fr/projects/_index.html
-  - title: Ressources
-    target: "/fr/ressources/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/ressources"
-    file: content/fr/pages/ressources/_index.html
+  descendants_targets:
+  - "/fr/adherents-partenaires/"
+  - "/fr/professionnels/"
   path:
   file:
 - title: Actualités
+  slug: actualites
   target: "/fr/publications/actualites/"
   kind: category
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts_categories/actualites"
   file: content/fr/posts_categories/actualites/_index.html
 - title: Contact
+  slug: contact
   target: "/fr/contact/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
 - title: Adhérer
+  slug: adherer
   target: "/fr/adherer/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/adherer"
   file: content/fr/pages/adherer/_index.html
 

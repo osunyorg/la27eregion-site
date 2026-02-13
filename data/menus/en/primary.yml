@@ -2,59 +2,75 @@
 title: Menu principal
 items:
 - title: La 27e Région
+  slug: la-27e-region
   target: "/en/la-27e-region/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/la-27e-region"
   file: content/en/pages/la-27e-region/_index.html
 - title: International
+  slug: international
   target: "/en/international/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/international"
   file: content/en/pages/international/_index.html
 - title: Members & partnerships
+  slug: members-partnerships
   target: "/en/adherents-partenaires/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/adherents-partenaires"
   file: content/en/pages/adherents-partenaires/_index.html
 - title: Projects
+  slug: projects
   target: "/en/projects/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/projects"
   file: content/en/projects/_index.html
 - title: Posts
+  slug: posts
   target: "/en/posts/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/en/posts/_index.html
 - title: Team
+  slug: team
   target: "/en/team/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/en/persons/_index.html
 - title: Organizations
+  slug: organizations
   target: "/en/organizations/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/organizations"
   file: content/en/organizations/_index.html
 - title: Agenda
+  slug: agenda
   target: "/en/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/en/events/_index.html
 
