@@ -1,8 +1,10 @@
+$btn-selector: 'a[href="/fr/adherer/"], a[href="/en/adherer/"]'
+
 // header
 header#document-header
     .menu
         // link as button for 'adhérer'
-        a[href="/fr/adherer/"]
+        #{$btn-selector}
             @extend .btn
             @extend .button--accent
             --btn-min-width: 0
@@ -19,7 +21,7 @@ header#document-header
             flex: 1
         .nav-level-1
             // nav horizontal spacings: 40px for left items, 24 for right ones
-            li:nth-child(5)
+            li:nth-last-child(4)
                 margin-left: auto
             .nav-search
                 margin-left: $spacing-2
@@ -40,7 +42,7 @@ header#document-header
         // sticky menu behaviour
         html.has-menu-opened &,
         &.is-sticky
-            a[href="/fr/adherer/"]
+            #{$btn-selector}
                 &, &:hover
                     color: var(--btn-color)
     @include media-breakpoint-down(desktop)
@@ -74,7 +76,7 @@ header#document-header
                 &:nth-child(6)
                     order: 10
                     border: none
-                    a[href="/fr/adherer/"]
+                    #{$btn-selector}
                         color: var(--color-background)
                         width: 100%
         .nav-level-2 li
