@@ -1,0 +1,10 @@
+.block-files .files li
+    &::before
+        border: 2px solid var(--color-accent)
+        height: pxToRem(56)
+        line-height: pxToRem(56)
+        width: pxToRem(56)
+    &:hover::before
+        background: alphaColor(var(--color-accent), 0.10)
+        border: 2px solid var(--color-accent)
+        color: var(--color-text)

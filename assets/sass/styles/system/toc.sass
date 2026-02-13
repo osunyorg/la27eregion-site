@@ -1,0 +1,27 @@
+
+// toc
+.toc-container
+    @include in-page-with-sidebar
+        border-top: none !important
+        .toc-content
+            padding-left: space(3)
+            margin-left: space(-3)
+
+.toc-content
+    nav
+        a
+            @include signature
+            position: relative
+            &::before
+                content: ''
+                width: 2px
+                height: 100%
+                position: absolute
+                left: 0
+                transform: translateX(space(-3))
+                transition: background 0.3s ease
+            &.active::before,
+            &:hover::before
+                background: var(--color-accent)
+            &, &:hover
+                text-decoration: none !important

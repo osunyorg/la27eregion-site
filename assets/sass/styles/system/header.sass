@@ -1,0 +1,90 @@
+// header
+header#document-header
+    .menu
+        // link as button for 'adhérer'
+        a[href="/fr/adherer/"]
+            @extend .btn
+            @extend .button--accent
+            --btn-min-width: 0
+        .nav-level-2 li 
+            a
+                @include icon(arrow-right-line, after, true)
+                    color: var(--color-accent)
+                @include hover-translate-icon
+                &, &:hover
+                    text-decoration: none
+    @include media-breakpoint-up(desktop)
+        .menu
+            margin-left: space(12)
+            flex: 1
+        .nav-level-1
+            // nav horizontal spacings: 40px for left items, 24 for right ones
+            li:nth-child(5)
+                margin-left: auto
+            .nav-search
+                margin-left: $spacing-2
+                .search-button span:first-of-type
+                    display: none
+            @include media-breakpoint-up(xl)
+                li.has-children + li
+                    margin-left: space(10)
+                li:where(:not(.has-children)) + li,
+                .nav-search
+                    margin-left: space(6)
+        .nav-level-2
+            display: flex
+            gap: space(6) var(--grid-gutter)
+            flex-direction: column
+            li + li
+                margin-left: 0 !important
+        // sticky menu behaviour
+        html.has-menu-opened &,
+        &.is-sticky
+            a[href="/fr/adherer/"]
+                &, &:hover
+                    color: var(--btn-color)
+    @include media-breakpoint-down(desktop)
+        .primary-menu
+            .header-button 
+                span:last-of-type::before
+                    color: var(--color-accent)
+                    font-size: pxToRem(24)
+                    margin-top: -2px
+                &[aria-expanded="true"]
+                    span:last-of-type::before
+                        font-size: pxToRem(28)
+        .nav-level-1 
+            display: flex
+            flex-direction: column
+            margin-bottom: space(9)
+            li
+                > a
+                    @include icon(arrow-right-line, after, true)
+                        color: var(--color-accent)
+                > span, > a, > button span
+                    @include signature
+                > span, > a, > button
+                    padding-bottom: space(4)
+                    padding-top: space(4)
+                    &::after
+                        font-size: pxToRem(20)
+                &:not(:last-child)
+                    border-color: $color-orange
+                // purple btn
+                &:nth-child(6)
+                    order: 10
+                    border: none
+                    a[href="/fr/adherer/"]
+                        color: var(--color-background)
+                        width: 100%
+        .nav-level-2 li
+            > a, > span
+                @include body-text
+                padding-bottom: $spacing-2
+                padding-top: $spacing-2
+        .nav-level-1 li,
+        .nav-level-2 li
+            > a
+                display: flex
+                align-items: baseline
+                justify-content: space-between

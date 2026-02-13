@@ -1,0 +1,64 @@
+.block-posts
+    .post 
+        .post-title a
+            @include stretched-link(before)
+            &::after
+                bottom: unset
+                left: unset
+                position: relative
+                right: unset
+                top: unset
+                z-index: unset
+            @include icon(arrow-right-line, after)
+                color: var(--color-accent)
+                margin-left: space()
+            @include hover-translate-icon
+    @include media-breakpoint-down(desktop)
+        .top
+            margin-bottom: space(9)
+
+
+// posts
+.post
+    .media
+        margin-bottom: $spacing-3
+        img
+            aspect-ratio: 1.571
+
+.posts--list
+    --color-border: #{$color-orange}
+    .post
+        @include in-page-without-sidebar
+            .post-meta
+                margin-top: space(4)
+                time
+                    position: relative
+                    right: unset
+                    max-width: unset
+                    text-align: left
+
+.block-posts--list .posts,
+.posts--list
+    @include in-page-without-sidebar
+        > li 
+            padding-bottom: space(8)
+            + li
+                margin-top: space(8)
+        .post-title,
+        [itemprop="abstract"]
+            max-width: columns(8) !important
+
+.block-posts--grid,
+.posts--grid
+    .media img
+        aspect-ratio: 1.400
+    @include media-breakpoint-down(desktop)
+        .media img
+            aspect-ratio: 1.277
+        .posts
+            > li + li
+                margin-top: space(9)
+
+.persons__page .posts--list
+    .post:last-child
+        padding-bottom: space(8)

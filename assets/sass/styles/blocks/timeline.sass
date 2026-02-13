@@ -1,0 +1,12 @@
+.block-timeline
+    .timeline-event::before
+        border-radius: 0px
+    &--vertical 
+        .timeline-event
+            &::before,
+            &::after
+                background: $color-orange
+            &::after
+                width: 2px
+            .title + [itemprop="text"]
+                margin-top: $spacing-1
