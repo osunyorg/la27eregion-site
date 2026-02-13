@@ -1,3 +1,4 @@
+// Pour appliquer le style bouton au bouton d'adhésion
 $btn-selector: 'a[href="/fr/adherer/"], a[href="/en/adherer/"]'
 
 // header
@@ -20,7 +21,7 @@ header#document-header
             margin-left: space(12)
             flex: 1
         .nav-level-1
-            // nav horizontal spacings: 40px for left items, 24 for right ones
+            // L'avant dernier lien est coller au bouton d'adhésion
             li:nth-last-child(4)
                 margin-left: auto
             .nav-search
@@ -73,7 +74,7 @@ header#document-header
                 &:not(:last-child)
                     border-color: $color-orange
                 // purple btn
-                &:nth-child(6)
+                &:has(#{$btn-selector})
                     order: 10
                     border: none
                     #{$btn-selector}
