@@ -1,0 +1,47 @@
+.page-contact
+    .blocks
+        .block:last-child:is(.block-call_to_action--accent_background)
+            margin-bottom: -($spacing-5)
+
+// display 'livrables' programs list as grid
+.page-livrable
+    .posts--list
+        @include layout-grid
+        @include grid(2, md)
+        > li
+            border-bottom: none
+            padding-bottom: 0 !important
+            padding-top: 0 !important
+        .post
+            row-gap: 0
+            .post-title
+                @include h3
+                a::after
+                    position: relative
+                    top: unset
+                    right: unset
+                    bottom: unset
+            .post-content
+                padding-top: 0
+                width: 100%
+            .post-meta
+                time
+                    position: 
+                    top: unset
+                    right: unset
+
+            .media
+                margin-bottom: $spacing-3
+                width: 100%
+                img
+                    aspect-ratio: 1.571
+            @include media-breakpoint-down(desktop)
+                .media
+                    margin-right: 0
+                    max-width: 100%
+                + .post
+                    margin-top: space(9)
+
+        @include media-breakpoint-up(desktop)
+            > li + li
+                margin-top: 0 !important

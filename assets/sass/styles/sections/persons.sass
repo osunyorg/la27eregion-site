@@ -1,0 +1,18 @@
+.persons
+    .person
+        .avatar
+            border-radius: 0
+
+.persons--list 
+    > li + li
+        border-color: $color-orange
+    @include media-breakpoint-up(desktop)
+        .person
+            &, .description
+                align-items: center !important
+
+// persons
+.persons__page
+    .hero
+        figure picture
+            border-radius: 0

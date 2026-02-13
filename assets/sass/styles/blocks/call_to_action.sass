@@ -1,0 +1,51 @@
+.block-call_to_action
+    &--no_background
+        --cta-background-color: var(--color-background-alt)
+        @include media-breakpoint-down(desktop)
+            background-color: var(--cta-background-color)
+    .top 
+        .block-title
+            margin-bottom: space(8)
+        @include in-page-with-or-without-sidebar
+            .description p
+                font-size: var(--lead-sidebar-size)
+                font-weight: normal
+                line-height: var(--lead-sidebar-line-height)
+                letter-spacing: $lead-sidebar-letter-spacing
+    .actions
+        a
+            --btn-padding: #{pxToRem(21)} #{pxToRem(36)}
+            &::after
+                color: inherit
+            &:not(:first-child)
+                --btn-background: transparent
+
+    &--accent_background
+        .actions a:not(:first-child)
+            --btn-border: 2px solid var(--color-background)
+            --btn-color: var(--color-background)
+            --btn-hover-background: #{alphaColor(var(--color-background), 0.10)}
+            --btn-hover-border: var(--btn-border)
+            --btn-hover-color: var(--color-background)
+
+    &--no_background
+        .actions a:not(:first-child)
+            --btn-color: var(--color-text)
+            --btn-border: 2px solid var(--color-accent)
+            --btn-hover-background: #{alphaColor(var(--color-accent), 0.10)}
+            --btn-hover-border: var(--btn-border)
+            --btn-hover-color: var(--color-text)
+    
+    @include media-breakpoint-down(desktop)
+        --block-space-y: 0
+        padding-bottom: space(18)
+        padding-top: space(18)
+        .call_to_action
+            .description p
+                font-size: var(--lead-sidebar-size)
+                font-weight: normal
+                line-height: var(--lead-sidebar-line-height)
+                letter-spacing: $lead-sidebar-letter-spacing
+            .actions a:first-child
+                margin-top: space()
+    

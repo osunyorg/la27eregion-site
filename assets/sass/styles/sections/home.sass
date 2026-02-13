@@ -1,0 +1,22 @@
+.page__home
+    main .blocks
+        .block
+            &:first-child
+                border-bottom: 2px solid $color-orange
+                padding-bottom: space(9)
+                margin-bottom: space(9)
+                @include media-breakpoint-up(desktop)
+                    padding-bottom: $spacing-5
+                    margin-bottom: $spacing-5
+                &.block-pages--list
+                    .block-title
+                        @extend .sr-only
+                    .top + .pages
+                        grid-row: 1
+                    .block-content
+                        row-gap: 0
+            &:not(:first-child).block-pages--list
+                border-top: 2px solid $color-orange
+                padding-top: space(9)
+                @include media-breakpoint-up(desktop)
+                    padding-top: $spacing-5

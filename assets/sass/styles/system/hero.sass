@@ -1,0 +1,23 @@
+// hero
+.hero
+    border-bottom: 2px solid $color-orange
+    .content
+        hgroup.has-lead > p:first-of-type
+            margin-top: $spacing-4
+        .hero-actions > a
+            --btn-border: 2px solid var(--color-accent)
+            --btn-hover-background: #{alphaColor(var(--color-accent), 0.10)}
+            --btn-hover-border: var(--btn-border)
+            &::after
+                color: var(--color-accent)
+        @include media-breakpoint-up(desktop)
+            padding-top: $spacing-4
+            .hero-actions
+                margin-top: $spacing-4
+    &--image-portrait:where(:not(.has-breadcrumb-hero-end)),
+    &--image-square:where(:not(.has-breadcrumb-hero-end))
+        figure
+            margin-bottom: 0
+    @include media-breakpoint-down(desktop)
+        margin-bottom: space(9)
+        padding-bottom: space(9)

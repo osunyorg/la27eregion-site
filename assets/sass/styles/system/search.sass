@@ -1,0 +1,21 @@
+// search
+#search
+    .pagefind-ui
+        &__form::after
+            color: var(--color-accent)
+        &__search-input
+            border-color: alphaColor($color-orange, 0.3)
+            &:focus-visible
+                border-width: 1px
+                border-color: $color-orange
+        &__result
+            padding-bottom: space(8)
+            margin-bottom: space(8)
+            border-bottom: 1px solid $color-orange
+            &-title
+                @include icon(arrow-right-line, after)
+                    color: var(--color-accent)
+                    margin-left: space()
+                @include hover-translate-icon
+                a
+                    text-decoration: none

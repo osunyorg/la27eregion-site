@@ -1,0 +1,44 @@
+
+// projects
+.projects__page
+    .hero
+        .hero-text
+            padding-bottom: 0
+        .dropdown-share
+            display: none
+
+.projects--large
+    .project-meta
+        time + * 
+            margin-left: $spacing-1
+// projects list
+.projects--grid,
+.block-projects--grid
+    .project
+        &-description
+            .project-title + .project-summary
+                margin-top: $spacing-1
+            * + *:not(.project-summary)
+                margin-top: space(4)
+        .media img
+            aspect-ratio: 1.571
+    
+    @include media-breakpoint-down(desktop)
+        .project
+            .media
+                margin-left: 0
+                margin-right: 0
+                img
+                    aspect-ratio: 1.277
+        .projects
+            > li + li
+                margin-top: space(9)
+
+
+.block-projects
+    .project
+        .project-title a
+            @include icon(arrow-right-line, after)
+                color: var(--color-accent)
+            @include hover-translate-icon
+    

@@ -1,0 +1,55 @@
+
+// footer
+footer#document-footer 
+    a:hover
+        text-decoration: underline
+        text-decoration-thickness: 2px
+        text-decoration-color: var(--color-accent)
+    a::after
+        display: inline-block
+    .footer-site div
+        > * + *
+            display: block
+            margin-top: space()
+    .nav-legal .footer-i18n,
+    .footer-credit
+        margin-top: space(6)
+    .footer-credit
+        color: var(--color-text-alt)
+        a
+            color: var(--color-text)
+        > span
+            display: block
+            + span
+                margin-top: $spacing-1
+    .footer-social
+        li 
+            align-items: baseline
+            a[target="_blank"]::after
+                display: none
+            &::after
+                width: pxToRem(18)
+                @include media-breakpoint-up(desktop)
+                    font-size: 100%
+                    margin-left: space(4) !important
+            &.instagram::after
+                @include icon-site("icon-instagram")
+            &.facebook::after
+                @include icon-site("icon-facebook")
+            &.linkedin::after
+                @include icon-site("icon-linkedin")
+            &.youtube::after
+                @include icon-site("icon-youtube")
+                @include media-breakpoint-up(desktop)
+                    font-size: 80%
+    @include media-breakpoint-down(desktop)
+        padding-bottom: space(9)
+        padding-top: space(9)
+        .container + .container,
+        .footer-legals,
+        .footer-site
+            margin-top: space(9)
+        .footer-social
+            li::after
+                text-align: center
+                font-size: 1rem
