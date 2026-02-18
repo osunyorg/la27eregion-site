@@ -13,8 +13,10 @@
         display: flex
         flex-wrap: wrap
         gap: $spacing-2 $spacing-1
-        li a 
-            @include purple-button
+        li 
+            margin-top: 0 !important
+            a 
+                @include purple-button
         
     @include media-breakpoint-up(desktop)
         align-items: baseline
