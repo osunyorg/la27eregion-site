@@ -48,6 +48,9 @@ params:
       facebook: true
       linkedin: true
       twitter: true
+  seo:
+    title:
+      separator: "•"
   image_sizes:
     _default:
       layouts:

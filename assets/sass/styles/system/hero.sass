@@ -1,18 +1,5 @@
 .hero
     border-bottom: 2px solid $color-orange
-    padding-bottom: 0 !important
-    .content
-        figure
-            img
-                mix-blend-mode: multiply
-    @include media-breakpoint-up(desktop)
-        .content
-            align-items: end
-            .hero-text
-                width: columns(6)
-                padding-bottom: $spacing-4
-            figure
-                width: columns(6)
     .content
         hgroup.has-lead > p:first-of-type
             margin-top: $spacing-4
@@ -33,3 +20,19 @@
     @include media-breakpoint-down(desktop)
         margin-bottom: space(9)
         padding-bottom: space(9)
+
+.page-illustration
+    .hero
+        padding-bottom: 0 !important
+        @include media-breakpoint-up(desktop)
+            .content
+                align-items: end
+                .hero-text
+                    width: columns(6)
+                    padding-bottom: $spacing-4
+                figure
+                    width: columns(6)
+        .content
+            figure
+                img
+                    mix-blend-mode: multiply
