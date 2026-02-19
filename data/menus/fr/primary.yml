@@ -18,36 +18,36 @@ items:
     file: content/fr/pages/la-27e-region/_index.html
   - title: Équipe
     slug: equipe
-    target: "/fr/equipe/"
+    target: "/fr/la-27e-region/equipe/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/equipe"
-    file: content/fr/pages/equipe/_index.html
+    path: "/pages/la-27e-region/equipe"
+    file: content/fr/pages/la-27e-region/equipe/_index.html
   - title: Fonctionnement
     slug: fonctionnement
-    target: "/fr/fonctionnement/"
+    target: "/fr/la-27e-region/fonctionnement/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/fonctionnement"
-    file: content/fr/pages/fonctionnement/_index.html
+    path: "/pages/la-27e-region/fonctionnement"
+    file: content/fr/pages/la-27e-region/fonctionnement/_index.html
   - title: International
     slug: international
-    target: "/fr/international/"
+    target: "/fr/la-27e-region/international/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/international"
-    file: content/fr/pages/international/_index.html
+    path: "/pages/la-27e-region/international"
+    file: content/fr/pages/la-27e-region/international/_index.html
   descendants_targets:
-  - "/fr/equipe/"
-  - "/fr/fonctionnement/"
-  - "/fr/international/"
   - "/fr/la-27e-region/"
+  - "/fr/la-27e-region/equipe/"
+  - "/fr/la-27e-region/fonctionnement/"
+  - "/fr/la-27e-region/international/"
 - title: Communauté
   slug: communaute
   target: ''
@@ -56,25 +56,25 @@ items:
   children:
   - title: Adhérents & partenaires
     slug: adherents-partenaires
-    target: "/fr/adherents-partenaires/"
+    target: "/fr/communaute-1/adherents-partenaires/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/adherents-partenaires"
-    file: content/fr/pages/adherents-partenaires/_index.html
+    path: "/pages/communaute-1/adherents-partenaires"
+    file: content/fr/pages/communaute-1/adherents-partenaires/_index.html
   - title: Professionnel·le·s
     slug: professionnel-le-s
-    target: "/fr/professionnels/"
+    target: "/fr/communaute-1/professionnels/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/professionnels"
-    file: content/fr/pages/professionnels/_index.html
+    path: "/pages/communaute-1/professionnels"
+    file: content/fr/pages/communaute-1/professionnels/_index.html
   descendants_targets:
-  - "/fr/adherents-partenaires/"
-  - "/fr/professionnels/"
+  - "/fr/communaute-1/adherents-partenaires/"
+  - "/fr/communaute-1/professionnels/"
   path:
   file:
 - title: Actualités
