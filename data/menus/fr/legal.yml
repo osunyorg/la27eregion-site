@@ -28,4 +28,13 @@ items:
   descendants_targets: []
   path: "/pages/accessibilite"
   file: content/fr/pages/accessibilite/_index.html
+- title: Politique de confidentialité
+  slug: politique-de-confidentialite
+  target: "/fr/politique-de-confidentialite/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/politique-de-confidentialite"
+  file: content/fr/pages/politique-de-confidentialite/_index.html
 
