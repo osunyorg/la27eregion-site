@@ -7,6 +7,15 @@ items:
   kind: blank
   new_tab: false
   children:
+  - title: La 27e Région
+    slug: la-27e-region
+    target: "/en/la-27e-region/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/la-27e-region"
+    file: content/en/pages/la-27e-region/_index.html
   - title: International
     slug: international
     target: "/en/la-27e-region/international/"
@@ -17,32 +26,40 @@ items:
     path: "/pages/la-27e-region/international"
     file: content/en/pages/la-27e-region/international/_index.html
   descendants_targets:
+  - "/en/la-27e-region/"
   - "/en/la-27e-region/international/"
-- title: La 27e Région
-  slug: la-27e-region
-  target: "/en/la-27e-region/"
-  kind: page
+- title: Community
+  slug: community
+  target: ''
+  kind: blank
   new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/la-27e-region"
-  file: content/en/pages/la-27e-region/_index.html
-- title: Posts
-  slug: posts
-  target: "/en/posts/"
-  kind: page
+  children:
+  - title: Members & partnerships
+    slug: members-partnerships
+    target: "/en/adherents-partenaires/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/adherents-partenaires"
+    file: content/en/pages/adherents-partenaires/_index.html
+  descendants_targets:
+  - "/en/adherents-partenaires/"
+- title: What we do
+  slug: what-we-do
+  target: ''
+  kind: blank
   new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/posts"
-  file: content/en/posts/_index.html
-- title: Organizations
-  slug: organizations
-  target: "/en/organizations/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/organizations"
-  file: content/en/organizations/_index.html
+  children:
+  - title: Projects
+    slug: projects
+    target: "/en/projects/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/projects"
+    file: content/en/projects/_index.html
+  descendants_targets:
+  - "/en/projects/"
 
