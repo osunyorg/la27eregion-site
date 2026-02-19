@@ -1,10 +1,10 @@
 ---
 title: Menu principal
 items:
-- title: La 27e Région
-  slug: la-27e-region
-  target: "/en/la-27e-region/"
-  kind: page
+- title: About us
+  slug: about-us
+  target: ''
+  kind: blank
   new_tab: false
   children:
   - title: International
@@ -18,26 +18,15 @@ items:
     file: content/en/pages/la-27e-region/international/_index.html
   descendants_targets:
   - "/en/la-27e-region/international/"
+- title: La 27e Région
+  slug: la-27e-region
+  target: "/en/la-27e-region/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
   path: "/pages/la-27e-region"
   file: content/en/pages/la-27e-region/_index.html
-- title: Team
-  slug: team
-  target: "/en/team/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/persons"
-  file: content/en/persons/_index.html
-- title: Projects
-  slug: projects
-  target: "/en/projects/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/projects"
-  file: content/en/projects/_index.html
 - title: Posts
   slug: posts
   target: "/en/posts/"
@@ -56,13 +45,4 @@ items:
   descendants_targets: []
   path: "/organizations"
   file: content/en/organizations/_index.html
-- title: Agenda
-  slug: agenda
-  target: "/en/agenda/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/events"
-  file: content/en/events/_index.html
 

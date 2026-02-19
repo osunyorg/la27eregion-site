@@ -77,6 +77,33 @@ items:
   - "/fr/communaute/professionnels/"
   path:
   file:
+- title: Productions
+  slug: productions
+  target: ''
+  kind: blank
+  new_tab: false
+  children:
+  - title: Programmes
+    slug: programmes
+    target: "/fr/programmes/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/projects"
+    file: content/fr/projects/_index.html
+  - title: Ressources
+    slug: ressources
+    target: "/fr/ressources/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/ressources"
+    file: content/fr/pages/ressources/_index.html
+  descendants_targets:
+  - "/fr/programmes/"
+  - "/fr/ressources/"
 - title: Actualités
   slug: actualites
   target: "/fr/publications/actualites/"
