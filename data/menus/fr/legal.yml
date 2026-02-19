@@ -19,4 +19,13 @@ items:
   descendants_targets: []
   path: "/pages/plan-du-site"
   file: content/fr/pages/plan-du-site/_index.html
+- title: Accessibilité
+  slug: accessibilite
+  target: "/fr/accessibilite/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/accessibilite"
+  file: content/fr/pages/accessibilite/_index.html
 
