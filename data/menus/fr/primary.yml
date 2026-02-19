@@ -56,25 +56,25 @@ items:
   children:
   - title: Adhérents & partenaires
     slug: adherents-partenaires
-    target: "/fr/communaute-1/adherents-partenaires/"
+    target: "/fr/communaute/adherents-partenaires/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/communaute-1/adherents-partenaires"
-    file: content/fr/pages/communaute-1/adherents-partenaires/_index.html
+    path: "/pages/communaute/adherents-partenaires"
+    file: content/fr/pages/communaute/adherents-partenaires/_index.html
   - title: Professionnel·le·s
     slug: professionnel-le-s
-    target: "/fr/communaute-1/professionnels/"
+    target: "/fr/communaute/professionnels/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/communaute-1/professionnels"
-    file: content/fr/pages/communaute-1/professionnels/_index.html
+    path: "/pages/communaute/professionnels"
+    file: content/fr/pages/communaute/professionnels/_index.html
   descendants_targets:
-  - "/fr/communaute-1/adherents-partenaires/"
-  - "/fr/communaute-1/professionnels/"
+  - "/fr/communaute/adherents-partenaires/"
+  - "/fr/communaute/professionnels/"
   path:
   file:
 - title: Actualités
