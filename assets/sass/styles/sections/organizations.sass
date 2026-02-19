@@ -1,19 +1,12 @@
-.block-organizations
-    .organization
-        .media
-            border: 2px solid transparent
-            transition: border 0.3s ease
-        &:hover
-            .media
-                border: 2px solid var(--color-accent)
-
-// organizations
-.organizations__page .document-content [itemprop="articleBody"] + .organization-logo img,
-.block-organizations .organization img
-    mix-blend-mode: multiply
-
-
 .organization
+    &:hover
+        .media
+            border: 2px solid var(--color-accent)
     .media
+        border: 2px solid transparent
+        transition: border 0.3s ease
         img
             mix-blend-mode: multiply
+.organization-logo
+    img
+        mix-blend-mode: multiply
