@@ -48,6 +48,33 @@ items:
   - "/fr/la-27e-region/equipe/"
   - "/fr/la-27e-region/fonctionnement/"
   - "/fr/la-27e-region/international/"
+- title: Communauté
+  slug: communaute
+  target: ''
+  kind: blank
+  new_tab: false
+  children:
+  - title: Adhérents & partenaires
+    slug: adherents-partenaires
+    target: "/fr/communaute/adherents-partenaires/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/communaute/adherents-partenaires"
+    file: content/fr/pages/communaute/adherents-partenaires/_index.html
+  - title: Professionnel·le·s
+    slug: professionnel-le-s
+    target: "/fr/communaute/professionnels/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/communaute/professionnels"
+    file: content/fr/pages/communaute/professionnels/_index.html
+  descendants_targets:
+  - "/fr/communaute/adherents-partenaires/"
+  - "/fr/communaute/professionnels/"
 - title: Productions
   slug: productions
   target: ''
