@@ -20,6 +20,14 @@ header#document-header
         .menu
             margin-left: space(12)
             flex: 1
+            .nav-level-1
+                > li
+                    > .has-children-active,
+                    > .active
+                        text-decoration: underline
+                        text-decoration-color: var(--color-accent)
+                        text-decoration-thickness: 1px
+                        text-underline-offset: 7px
         .nav-level-1
             // L'avant dernier lien est coller au bouton d'adhésion
             > li:nth-last-child(4)
