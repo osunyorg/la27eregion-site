@@ -1,4 +1,23 @@
 ---
 title: Right menu
-items: []
+items:
+- title: Contact
+  slug: contact
+  target: "/en/contact/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/contact"
+  file: content/en/pages/contact/_index.html
+- title: Becoming a member
+  slug: becoming-a-member
+  target: "/en/adherer/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  html_class: menu-class-button
+  path: "/pages/adherer"
+  file: content/en/pages/adherer/_index.html
 
