@@ -23,6 +23,7 @@ header#document-header
             flex: 1
             .nav-level-1
                 > li
+                    white-space: nowrap
                     > .has-children-active,
                     > .active,
                     > [aria-expanded="true"]
@@ -30,24 +31,27 @@ header#document-header
                         text-decoration-color: var(--color-accent)
                         text-decoration-thickness: 1px
                         text-underline-offset: 7px
+                @include media-breakpoint-up(xl)
+                    > li.has-children + li
+                        margin-left: space(10)
+                    > li:where(:not(.has-children)) + li,
+                    .nav-search
+                        margin-left: space(6)
             .dropdown-menu
                 text-align: left
                 right: auto
                 left: 0
                 margin-left: space(-3)
-        .nav-level-1
-            @include media-breakpoint-up(xl)
+            .nav-level-2
+                display: flex
+                gap: space(6) var(--grid-gutter)
+                flex-direction: column
+                > li + li
+                    margin-left: 0 !important
+            @include media-breakpoint-between(lg, xl)
+                margin-left: space(3)
                 > li.has-children + li
-                    margin-left: space(10)
-                > li:where(:not(.has-children)) + li,
-                .nav-search
-                    margin-left: space(6)
-        .nav-level-2
-            display: flex
-            gap: space(6) var(--grid-gutter)
-            flex-direction: column
-            > li + li
-                margin-left: 0 !important
+                    margin-left: space(2)
 
 #menu-secondary
     @include media-breakpoint-up(desktop)
