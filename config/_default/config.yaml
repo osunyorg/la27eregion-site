@@ -5,10 +5,15 @@ params:
     position: after-hero
   summary:
     position: hero
+
+  i18n:
+    active: true
+    positions:
+      - menu-secondaire
   search:
     active: true
     positions:
-      - primary
+      - menu-secondaire
       - footer
   logo:
     header: "/assets/images/logo.svg"

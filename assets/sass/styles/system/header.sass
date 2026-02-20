@@ -3,7 +3,7 @@ $btn-selector: 'a[href="/fr/adherer/"], a[href="/en/adherer/"]'
 
 // header
 header#document-header
-    .menu
+    .menu, #menu-secondary
         // link as button for 'adhérer'
         #{$btn-selector}
             @extend .btn
@@ -17,7 +17,7 @@ header#document-header
                 &, &:hover
                     text-decoration: none
     @include media-breakpoint-up(desktop)
-        .menu
+        .menu, #menu-secondary
             margin-left: space(12)
             flex: 1
             .nav-level-1
@@ -36,13 +36,6 @@ header#document-header
                 margin-left: space(-3)
 
         .nav-level-1
-            // L'avant dernier lien est coller au bouton d'adhésion
-            > li:nth-last-child(4)
-                margin-left: auto
-            .nav-search
-                margin-left: $spacing-2
-                .search-button span:first-of-type
-                    display: none
             @include media-breakpoint-up(xl)
                 > li.has-children + li
                     margin-left: space(10)
@@ -55,12 +48,6 @@ header#document-header
             flex-direction: column
             > li + li
                 margin-left: 0 !important
-        // sticky menu behaviour
-        html.has-menu-opened &,
-        &.is-sticky
-            #{$btn-selector}
-                &, &:hover
-                    color: var(--btn-color)
     @include media-breakpoint-down(desktop)
         .primary-menu
             .header-button 
@@ -106,3 +93,24 @@ header#document-header
                 display: flex
                 align-items: baseline
                 justify-content: space-between
+
+#menu-secondary
+    @extend .menu
+    margin-left: auto !important
+    flex: 0 !important
+    .menu-secondaire-i18n
+        @extend .primary-i18n
+        > span
+            white-space: nowrap
+    .search-button
+        @extend .search-button--primary
+    .nav-search
+        margin-left: $spacing-2
+        .search-button span:first-of-type
+            display: none
+    // sticky menu behaviour
+    html.has-menu-opened &,
+    &.is-sticky
+        #{$btn-selector}
+            &, &:hover
+                color: var(--btn-color)
