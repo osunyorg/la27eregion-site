@@ -26,15 +26,19 @@
 .page-illustration
     .hero
         padding-bottom: 0 !important
+        .content
+            figure
+                img
+                    mix-blend-mode: multiply
         @include media-breakpoint-up(desktop)
+            display: flex
+            flex-direction: row
+            flex-wrap: wrap
             .content
-                align-items: end
+                height: 100%
                 .hero-text
                     width: columns(6)
                     padding-bottom: $spacing-4
                 figure
                     width: columns(6)
-        .content
-            figure
-                img
-                    mix-blend-mode: multiply
+                    align-self: end
