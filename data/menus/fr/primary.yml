@@ -111,23 +111,4 @@ items:
   descendants_targets: []
   path: "/posts_categories/actualites"
   file: content/fr/posts_categories/actualites/_index.html
-- title: Contact
-  slug: contact
-  target: "/fr/contact/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/contact"
-  file: content/fr/pages/contact/_index.html
-- title: Adhérer
-  slug: adherer
-  target: "/fr/adherer/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  html_class: menu-class-adhesion
-  path: "/pages/adherer"
-  file: content/fr/pages/adherer/_index.html
 
