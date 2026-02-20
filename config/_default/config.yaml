@@ -9,11 +9,11 @@ params:
   i18n:
     active: true
     positions:
-      - menu-secondaire
+      - secondary
   search:
     active: true
     positions:
-      - menu-secondaire
+      - secondary
       - footer
   logo:
     header: "/assets/images/logo.svg"
