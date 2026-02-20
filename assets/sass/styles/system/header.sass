@@ -35,7 +35,6 @@ header#document-header
                 right: auto
                 left: 0
                 margin-left: space(-3)
-
         .nav-level-1
             @include media-breakpoint-up(xl)
                 > li.has-children + li
@@ -49,9 +48,31 @@ header#document-header
             flex-direction: column
             > li + li
                 margin-left: 0 !important
-    @include media-breakpoint-down(desktop)
+
+#menu-secondary
+    @include media-breakpoint-up(desktop)
+        margin-left: auto !important
+        flex: 0 !important
+        .nav-search
+            margin-left: $spacing-2
+            .search-button span:first-of-type
+                display: none
+    .menu.is-opened + &
+        display: block !important
+        margin-top: 0
+    .menu-secondaire-i18n
+        @extend .primary-i18n
+        > span
+            white-space: nowrap
+    .search-button
+        @extend .search-button--primary
+
+@include media-breakpoint-down(desktop)
+    header#document-header
         --color-border: #{$color-orange}
         .primary-menu
+            .nav-level-1
+                margin-bottom: 0
             .header-button 
                 span:last-of-type::before
                     color: var(--color-accent)
@@ -75,9 +96,6 @@ header#document-header
                     padding-top: space(4)
                     &::after
                         font-size: pxToRem(20)
-                // &:not(:last-child)
-                //     border-color: $color-orange
-                // purple btn
                 &:has(#{$btn-selector})
                     order: 10
                     border: none
@@ -95,30 +113,6 @@ header#document-header
                 display: flex
                 align-items: baseline
                 justify-content: space-between
-
-#menu-secondary
-    @include media-breakpoint-up(desktop)
-        margin-left: auto !important
-        flex: 0 !important
-        .nav-search
-            margin-left: $spacing-2
-            .search-button span:first-of-type
-                display: none
-    .menu.is-opened + &
-        display: block !important
-        margin-top: 0
-    .menu-secondaire-i18n
-        @extend .primary-i18n
-        > span
-            white-space: nowrap
-    .search-button
-        @extend .search-button--primary
-
-@include media-breakpoint-down(desktop)
-    header#document-header
-        .primary-menu
-            .nav-level-1
-                margin-bottom: 0
         #menu-secondary
             border-top: var(--border-width) solid var(--color-border)
             padding-bottom: $spacing-3
