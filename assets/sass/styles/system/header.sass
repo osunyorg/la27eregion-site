@@ -9,6 +9,7 @@ header#document-header
             @extend .btn
             @extend .button--accent
             --btn-min-width: 0
+            color: var(--btn-color) !important
         .nav-level-2 li 
             a
                 @include icon(arrow-right-line, after, true)
@@ -22,6 +23,7 @@ header#document-header
             flex: 1
             .nav-level-1
                 > li
+                    white-space: nowrap
                     > .has-children-active,
                     > .active,
                     > [aria-expanded="true"]
@@ -29,40 +31,49 @@ header#document-header
                         text-decoration-color: var(--color-accent)
                         text-decoration-thickness: 1px
                         text-underline-offset: 7px
+                @include media-breakpoint-up(xl)
+                    > li.has-children + li
+                        margin-left: space(10)
+                    > li:where(:not(.has-children)) + li,
+                    .nav-search
+                        margin-left: space(6)
             .dropdown-menu
                 text-align: left
                 right: auto
                 left: 0
                 margin-left: space(-3)
-
-        .nav-level-1
-            // L'avant dernier lien est coller au bouton d'adhésion
-            > li:nth-last-child(4)
-                margin-left: auto
-            .nav-search
-                margin-left: $spacing-2
-                .search-button span:first-of-type
-                    display: none
-            @include media-breakpoint-up(xl)
+            .nav-level-2
+                display: flex
+                gap: space(6) var(--grid-gutter)
+                flex-direction: column
+                > li + li
+                    margin-left: 0 !important
+            @include media-breakpoint-between(lg, xl)
+                margin-left: space(3)
                 > li.has-children + li
-                    margin-left: space(10)
-                > li:where(:not(.has-children)) + li,
-                .nav-search
-                    margin-left: space(6)
-        .nav-level-2
-            display: flex
-            gap: space(6) var(--grid-gutter)
-            flex-direction: column
-            > li + li
-                margin-left: 0 !important
-        // sticky menu behaviour
-        html.has-menu-opened &,
-        &.is-sticky
-            #{$btn-selector}
-                &, &:hover
-                    color: var(--btn-color)
-    @include media-breakpoint-down(desktop)
+                    margin-left: space(2)
+
+#menu-secondary
+    @include media-breakpoint-up(desktop)
+        margin-left: auto !important
+        flex: 0 !important
+        .nav-search
+            margin-left: $spacing-2
+            .search-button span:first-of-type
+                display: none
+    .menu-secondaire-i18n
+        @extend .primary-i18n
+        > span
+            white-space: nowrap
+    .search-button
+        @extend .search-button--primary
+
+@include media-breakpoint-down(desktop)
+    header#document-header
+        --color-border: #{$color-orange}
         .primary-menu
+            .nav-level-1
+                margin-bottom: 0
             .header-button 
                 span:last-of-type::before
                     color: var(--color-accent)
@@ -86,9 +97,6 @@ header#document-header
                     padding-top: space(4)
                     &::after
                         font-size: pxToRem(20)
-                &:not(:last-child)
-                    border-color: $color-orange
-                // purple btn
                 &:has(#{$btn-selector})
                     order: 10
                     border: none
@@ -106,3 +114,9 @@ header#document-header
                 display: flex
                 align-items: baseline
                 justify-content: space-between
+        #menu-secondary
+            border-top: var(--border-width) solid var(--color-border)
+            padding-bottom: $spacing-3
+        .menu.is-opened + #menu-secondary
+            display: block !important
+            margin-top: 0
