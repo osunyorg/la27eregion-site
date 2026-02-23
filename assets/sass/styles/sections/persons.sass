@@ -1,11 +1,10 @@
 .persons
+    --color-border: #{$color-orange}
     .person
         .avatar
             border-radius: 0
 
-.persons--list 
-    > li + li
-        border-color: $color-orange
+.persons-list
     @include media-breakpoint-up(desktop)
         .person
             &, .description
