@@ -42,6 +42,17 @@ header#document-header
                 right: auto
                 left: 0
                 margin-left: space(-3)
+                // Dropdown background on all width
+                overflow: visible
+                &::before
+                    content: ''
+                    background: var(--color-background)
+                    height: 100%
+                    position: absolute
+                    display: block
+                    left: -100vw
+                    right: -100vw
+                    z-index: -1
             .nav-level-2
                 display: flex
                 gap: space(6) var(--grid-gutter)
