@@ -10,8 +10,8 @@ items:
   descendants_targets: []
   path: "/pages/contact"
   file: content/en/pages/contact/_index.html
-- title: Becoming a member
-  slug: becoming-a-member
+- title: Join us
+  slug: join-us
   target: "/en/adherer/"
   kind: page
   new_tab: false
