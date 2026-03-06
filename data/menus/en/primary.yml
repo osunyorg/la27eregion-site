@@ -18,13 +18,13 @@ items:
     file: content/en/pages/la-27e-region/_index.html
   - title: Team
     slug: team
-    target: "/en/la-27e-region/equipe/"
+    target: "/en/la-27e-region/team/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/la-27e-region/equipe"
-    file: content/en/pages/la-27e-region/equipe/_index.html
+    path: "/pages/la-27e-region/team"
+    file: content/en/pages/la-27e-region/team/_index.html
   - title: International
     slug: international
     target: "/en/la-27e-region/international/"
@@ -36,8 +36,8 @@ items:
     file: content/en/pages/la-27e-region/international/_index.html
   descendants_targets:
   - "/en/la-27e-region/"
-  - "/en/la-27e-region/equipe/"
   - "/en/la-27e-region/international/"
+  - "/en/la-27e-region/team/"
 - title: Community
   slug: community
   target: ''
