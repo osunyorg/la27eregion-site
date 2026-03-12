@@ -1,15 +1,16 @@
 // Pour appliquer le style bouton au bouton d'adhésion
-$btn-selector: '.menu-class-button a'
+$btn-selector: '.menu-class-button'
 
 // header
 header#document-header
     .menu
         // link as button for 'adhérer'
         #{$btn-selector}
-            @extend .btn
-            @extend .button--accent
-            --btn-min-width: 0
-            color: var(--btn-color) !important
+            a
+                @extend .btn
+                @extend .button--accent
+                --btn-min-width: 0
+                color: var(--btn-color) !important
         .nav-level-2 li 
             a
                 @include icon(arrow-right-line, after, true)
@@ -108,10 +109,10 @@ header#document-header
                     padding-top: space(4)
                     &::after
                         font-size: pxToRem(20)
-                &:has(#{$btn-selector})
+                &:is(#{$btn-selector})
                     order: 10
                     border: none
-                    #{$btn-selector}
+                    a
                         color: var(--color-background)
                         width: 100%
         .nav-level-2 li
