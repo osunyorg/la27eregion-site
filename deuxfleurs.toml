@@ -13,3 +13,3684 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/8126/index.html"
+to = "/fr/publications/2011-04-07-8126/"
+
+[[redirects]]
+from = "/la-sip-pas-mal-pour-une-premiere-edition/index.html"
+to = "/fr/publications/2014-11-28-la-sip-pas-mal-pour-une-premiere-edition/"
+
+[[redirects]]
+from = "/la-participation-citoyenne-au-programme-de-citylab-2019-washington-dc/index.html"
+to = "/fr/publications/2019-11-23-la-participation-citoyenne-au-programme-de-citylab-2019-washington-dc/"
+
+[[redirects]]
+from = "/fr/equipe/categories/partenaire/index.html"
+to = "/fr/collectif/categories/professionnel/"
+
+[[redirects]]
+from = "/fr/publications/ressources/livrables/index.html"
+to = "/fr/publications/livrables/"
+
+[[redirects]]
+from = "/comment-mieux-prendre-en-compte-les-communs-dans-les-pratiques-de-developpement/index.html"
+to = "/fr/publications/2023-07-31-comment-mieux-prendre-en-compte-les-communs-dans-les-pratiques-de-developpement/"
+
+[[redirects]]
+from = "/rapport-dactivite-de-la-27e-region-en-2017/index.html"
+to = "/fr/publications/2017-12-18-rapport-dactivite-de-la-27e-region-en-2017/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-11-24-retour-sur-lexperience-dip-un-an-a-la-decouverte-des-demarches-de-co-conception-des-politiques-publi/index.html"
+to = "/fr/publications/2015-11-24-retour-sur-lexperience-dip-un-an-a-la-decouverte-des-demarches-de-co-conception-des-politiques-publi/"
+
+[[redirects]]
+from = "/retour-sur-notre-derniere-assemblee-generale/index.html"
+to = "/fr/publications/2022-07-19-retour-sur-notre-derniere-assemblee-generale/"
+
+[[redirects]]
+from = "/la-27e-region-remporte-le-prix-europeen-du-design-management/index.html"
+to = "/fr/publications/2011-09-26-la-27e-region-remporte-le-prix-europeen-du-design-management/"
+
+[[redirects]]
+from = "/et-maintenant-le-greenwashing-numerique/index.html"
+to = "/fr/publications/2011-09-22-et-maintenant-le-greenwashing-numerique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2013-06-28-conference-co-create-quand-la-communaute-academique-decortique-la-co-creation-comme-nouvelle-discipl/index.html"
+to = "/fr/publications/2013-06-28-conference-co-create-quand-la-communaute-academique-decortique-la-co-creation-comme-nouvelle-discipl/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-03-29-faire-communaute-une-vitrine-commune-pour-nos-projets/index.html"
+to = "/fr/publications/2016-03-29-faire-communaute-une-vitrine-commune-pour-nos-projets/"
+
+[[redirects]]
+from = "/fr/productions/publications/2024-12-12-innovation-par-mission-mission-impossible/index.html"
+to = "/fr/publications/2024-12-12-innovation-par-mission-mission-impossible/"
+
+[[redirects]]
+from = "/fr/productions/publications/2012-03-30-community-organizing-former-au-pouvoir-dagir/index.html"
+to = "/fr/publications/2012-03-30-community-organizing-former-au-pouvoir-dagir/"
+
+[[redirects]]
+from = "/fr/reseau/index.html"
+to = "/fr/communaute/professionnels/"
+
+[[redirects]]
+from = "/europe-et-innovation-sociale/index.html"
+to = "/fr/publications/2009-01-23-europe-et-innovation-sociale/"
+
+[[redirects]]
+from = "/cas-pratiques/habiter-wazemmes/index.html"
+to = "/fr/publications/2025-10-07-habiter-wazemmes/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-05-25-decider-en-regime-de-sobriete/index.html"
+to = "/fr/publications/2023-05-25-decider-en-regime-de-sobriete/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-10-12-nous-recrutons-une-directeurtrice-administratifve-et-financiere-cdd-de-6-mois/index.html"
+to = "/fr/publications/2017-10-12-nous-recrutons-une-directeurtrice-administratifve-et-financiere-cdd-de-6-mois/"
+
+[[redirects]]
+from = "/les-jeunes-britanniques-repensent-leur-systeme-educatif/index.html"
+to = "/fr/publications/2009-03-19-les-jeunes-britanniques-repensent-leur-systeme-educatif/"
+
+[[redirects]]
+from = "/fr/productions/publications/2021-09-15-etudiants-en-design-et-secteur-public-quelles-passerelles-pour-les-jeunes-designers/index.html"
+to = "/fr/publications/2021-09-15-etudiants-en-design-et-secteur-public-quelles-passerelles-pour-les-jeunes-designers/"
+
+[[redirects]]
+from = "/cas-pratiques/lenvironnement-de-travail-de-lelu/index.html"
+to = "/fr/publications/2025-10-08-l-environnement-de-travail-de-l-elu/"
+
+[[redirects]]
+from = "/fr/organisations/eurometropole-de-lille/index.html"
+to = "/fr/organisations/metropole-de-lille/"
+
+[[redirects]]
+from = "/fr/productions/publications/article/index.html"
+to = "/fr/publications/actualites/"
+
+[[redirects]]
+from = "/retour-sur-le-world-government-summit-2017-a-dubai/index.html"
+to = "/fr/publications/2017-02-15-retour-sur-le-world-government-summit-2017-a-dubai/"
+
+[[redirects]]
+from = "/labs-for-system-change-des-labos-qui-veulent-changer-le-systeme-partie-1/index.html"
+to = "/fr/publications/2014-06-01-labs-for-system-change-des-labos-qui-veulent-changer-le-systeme-partie-1/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-12-14-feminisme-de-terrain-regards-de-praticien-ne-s-de-la-transformation-publique/index.html"
+to = "/fr/publications/2023-12-14-feminisme-de-terrain-regards-de-praticien-ne-s-de-la-transformation-publique/"
+
+[[redirects]]
+from = "/documenter-la-fabrique-de-lamenagement-participatif/index.html"
+to = "/fr/publications/2024-03-18-documenter-la-fabrique-de-lamenagement-participatif/"
+
+[[redirects]]
+from = "/la-petite-histoire-des-minima-sociaux-par-le-prisme-du-rsa/index.html"
+to = "/fr/publications/2023-09-20-la-petite-histoire-des-minima-sociaux-par-le-prisme-du-rsa/"
+
+[[redirects]]
+from = "/en-colo-au-pays-de-la-systemique-1-3/index.html"
+to = "/fr/publications/2024-10-17-en-colo-au-pays-de-la-systemique-1-3/"
+
+[[redirects]]
+from = "/fr/organisations/categories/partenaire/partenaire-de-programme/index.html"
+to = "/fr/organisations/categories/partenaire/"
+
+[[redirects]]
+from = "/les-detectives-de-linnovation-publique-urbaine/index.html"
+to = "/fr/publications/2017-05-31-les-detectives-de-linnovation-publique-urbaine/"
+
+[[redirects]]
+from = "/cas-pratiques/les-eclaireurs-4-les-solutions-numeriques-frugales/index.html"
+to = "/fr/publications/2025-09-30-les-eclaireurs-4-les-solutions-numeriques-frugales/"
+
+[[redirects]]
+from = "/les-6-videos-de-ma-vie-de-chti-en-2040/index.html"
+to = "/fr/publications/2009-05-30-les-6-videos-de-ma-vie-de-chti-en-2040/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-04-24-collectif-didattica-tout-architecte-devrait-etre-pedagogue/index.html"
+to = "/fr/publications/2009-04-24-collectif-didattica-tout-architecte-devrait-etre-pedagogue/"
+
+[[redirects]]
+from = "/fr/a-propos/gouvernance/index.html"
+to = "/fr/la-27e-region/fonctionnement/"
+
+[[redirects]]
+from = "/la-27-quoi/linternationnal/index.html"
+to = "/fr/la-27e-region/international/"
+
+[[redirects]]
+from = "/que-faire-des-politiques-dinnovation/index.html"
+to = "/fr/publications/2009-10-18-que-faire-des-politiques-dinnovation/"
+
+[[redirects]]
+from = "/experimenter-dans-la-production-dun-espace-public-partage-et-apaise-les-exemples-de-mexico-et-medellin/index.html"
+to = "/fr/publications/2018-02-27-experimenter-dans-la-production-dun-espace-public-partage-et-apaise-les-exemples-de-mexico-et-medell/"
+
+[[redirects]]
+from = "/fr/productions/publications/2020-06-08-le-community-wealth/index.html"
+to = "/fr/publications/2020-06-08-le-community-wealth/"
+
+[[redirects]]
+from = "/fr/productions/publications/2014-01-30-social-design-mieux-maitriser-les-effets-indesirables/index.html"
+to = "/fr/publications/2014-01-30-social-design-mieux-maitriser-les-effets-indesirables/"
+
+[[redirects]]
+from = "/demos-enfant-terrible-de-linnovation-sociale/index.html"
+to = "/fr/publications/2008-05-24-demos-enfant-terrible-de-linnovation-sociale/"
+
+[[redirects]]
+from = "/fr/productions/publications/2012-01-08-christian-bason-impulser-le-design-social-ce-que-cela-implique/index.html"
+to = "/fr/publications/2012-01-08-christian-bason-impulser-le-design-social-ce-que-cela-implique/"
+
+[[redirects]]
+from = "/pour-une-vision-strategique-de-lia-dans-les-collectivites/index.html"
+to = "/fr/publications/2024-10-29-pour-une-vision-strategique-de-lia-dans-les-collectivites/"
+
+[[redirects]]
+from = "/feminisme-de-terrain-regards-de-praticien-ne-s-de-la-transformation-publique/index.html"
+to = "/fr/publications/2023-12-14-feminisme-de-terrain-regards-de-praticien-ne-s-de-la-transformation-publique/"
+
+[[redirects]]
+from = "/marjorie-jouen-changeons-de-cap/index.html"
+to = "/fr/publications/2009-01-07-marjorie-jouen-changeons-de-cap/"
+
+[[redirects]]
+from = "/la-27e-region-a-besoin-de-ses-lecteurs/index.html"
+to = "/fr/publications/2015-09-23-la-27e-region-a-besoin-de-ses-lecteurs/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-06-27-civictech-et-innovations-democratiques-un-premier-bilan/index.html"
+to = "/fr/publications/2016-06-27-civictech-et-innovations-democratiques-un-premier-bilan/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-11-21-rapport-dactivite-et-portfolio-2009/index.html"
+to = "/fr/publications/2009-11-21-rapport-dactivite-et-portfolio-2009/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-05-10-migrant-et-refugies-repenser-les-politiques-publiques/index.html"
+to = "/fr/publications/2017-05-10-migrant-et-refugies-repenser-les-politiques-publiques/"
+
+[[redirects]]
+from = "/anne-et-eric-pezet-que-faire-du-management/index.html"
+to = "/fr/publications/2011-02-07-anne-et-eric-pezet-que-faire-du-management/"
+
+[[redirects]]
+from = "/juristes-embarques-20-explorations-juridiques-pour-lepanouissement-des-communs/index.html"
+to = "/fr/publications/2021-05-20-juristes-embarques-20-explorations-juridiques-pour-lepanouissement-des-communs/"
+
+[[redirects]]
+from = "/quand-la-27e-region-fait-son-bilan-carbone/index.html"
+to = "/fr/publications/2022-02-09-quand-la-27e-region-fait-son-bilan-carbone/"
+
+[[redirects]]
+from = "/vers-une-nouvelle-generation-de-plans-dadministration/index.html"
+to = "/fr/publications/2021-12-08-vers-une-nouvelle-generation-de-plans-dadministration/"
+
+[[redirects]]
+from = "/ce-quon-pouvait-retenir-de-citylab-2014/index.html"
+to = "/fr/publications/2014-10-06-ce-quon-pouvait-retenir-de-citylab-2014/"
+
+[[redirects]]
+from = "/fr/fonctionnement/index.html"
+to = "/fr/la-27e-region/fonctionnement/"
+
+[[redirects]]
+from = "/mindlab-goes-to-paris/index.html"
+to = "/fr/publications/2015-03-20-mindlab-goes-to-paris/"
+
+[[redirects]]
+from = "/residence/index.html"
+to = "/fr/programmes/2008-territoires-en-residences/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-12-19-comment-financer-linnovation-democratique/index.html"
+to = "/fr/publications/2016-12-19-comment-financer-linnovation-democratique/"
+
+[[redirects]]
+from = "/ateliers-de-simplification-de-la-rentree-scolaire/index.html"
+to = "/fr/publications/2015-04-15-ateliers-de-simplification-de-la-rentree-scolaire/"
+
+[[redirects]]
+from = "/8490/index.html"
+to = "/fr/publications/2012-11-18-8490/"
+
+[[redirects]]
+from = "/cas-pratiques/le-lycee-haute-qualite-humaine/index.html"
+to = "/fr/publications/2025-10-08-le-lycee-haute-qualite-humaine/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-02-26-sinspirer-des-communs-pour-transformer-laction-publique/index.html"
+to = "/fr/publications/2018-02-26-sinspirer-des-communs-pour-transformer-laction-publique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2024-04-08-quand-ladministration-fait-bifurquer-ses-agent-e-s/index.html"
+to = "/fr/publications/2024-04-08-quand-ladministration-fait-bifurquer-ses-agent-e-s/"
+
+[[redirects]]
+from = "/rapport-dactivite-de-la-27e-region-2023-une-annee-pour-danser/index.html"
+to = "/fr/publications/2024-03-05-rapport-dactivite-de-la-27e-region-2023-une-annee-pour-danser/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-11-08-rencontre-avec-les-innovation-teams-americaines-canadiennes-et-israeliennes-a-los-angeles/index.html"
+to = "/fr/publications/2017-11-08-rencontre-avec-les-innovation-teams-americaines-canadiennes-et-israeliennes-a-los-angeles/"
+
+[[redirects]]
+from = "/poc21-la-fabrication-open-source-en-action/index.html"
+to = "/fr/publications/2015-11-25-poc21-la-fabrication-open-source-en-action/"
+
+[[redirects]]
+from = "/fr/productions/programmes/index.html"
+to = "/fr/programmes/"
+
+[[redirects]]
+from = "/de-nouvelles-alliances-pour-revigorer-linnovation-publique-la-recherche-et-les-sciences-sociales/index.html"
+to = "/fr/publications/2025-01-16-de-nouvelles-alliances-pour-revigorer-linnovation-publique-la-recherche-et-les-sciences-sociales-1/"
+
+[[redirects]]
+from = "/vers-une-gestion-de-locaux-collectifs-residentiels-inspiree-des-communs-clap-de-fin-pour-lexperimentation-a-sevran/index.html"
+to = "/fr/publications/2023-03-29-vers-une-gestion-de-locaux-collectifs-residentiels-inspiree-des-communs-clap-de-fin-pour-lexperiment/"
+
+[[redirects]]
+from = "/fr/professionnels/index.html"
+to = "/fr/communaute/professionnels/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-04-06-sonar-un-outil-pour-depasser-linjonction-a-linnovation/index.html"
+to = "/fr/publications/2018-04-06-sonar-un-outil-pour-depasser-linjonction-a-linnovation/"
+
+[[redirects]]
+from = "/fr/productions/programmes/2008-territoires-en-residences/index.html"
+to = "/fr/programmes/2008-territoires-en-residences/"
+
+[[redirects]]
+from = "/a-re-ecouter-stephane-vincent-sur-france-culture/index.html"
+to = "/fr/publications/2016-04-16-a-re-ecouter-stephane-vincent-sur-france-culture/"
+
+[[redirects]]
+from = "/le-cycle-dinnovation-i-team-en-5-etapes-et-quelques-questions/index.html"
+to = "/fr/publications/2017-11-06-le-cycle-dinnovation-i-team-en-5-etapes-et-quelques-questions/"
+
+[[redirects]]
+from = "/la-suede-pays-dinnovation-publique-et-sociale/index.html"
+to = "/fr/publications/2018-02-01-la-suede-pays-dinnovation-publique-et-sociale/"
+
+[[redirects]]
+from = "/fr/productions/publications/2024-03-05-rapport-dactivite-de-la-27e-region-2023-une-annee-pour-danser/index.html"
+to = "/fr/publications/2024-03-05-rapport-dactivite-de-la-27e-region-2023-une-annee-pour-danser/"
+
+[[redirects]]
+from = "/fr/productions/publications/2022-11-30-kriz-jouer-la-resilience-par-les-communs/index.html"
+to = "/fr/publications/2022-11-30-kriz-jouer-la-resilience-par-les-communs/"
+
+[[redirects]]
+from = "/adieu-gabi/index.html"
+to = "/fr/publications/2012-05-28-adieu-gabi/"
+
+[[redirects]]
+from = "/pour-preparer-demain-observer-les-transformations-publiques-par-temps-de-crise/index.html"
+to = "/fr/publications/2020-05-05-pour-preparer-demain-observer-les-transformations-publiques-par-temps-de-crise/"
+
+[[redirects]]
+from = "/peut-on-institutionnaliser-les-pratiques-de-design-social/index.html"
+to = "/fr/publications/2018-09-25-peut-on-institutionnaliser-les-pratiques-de-design-social/"
+
+[[redirects]]
+from = "/fr/productions/publications/2024-09-03-justice-environnementale-penser-la-transition-dans-une-societe-inegalitaire/index.html"
+to = "/fr/publications/2024-09-03-justice-environnementale-penser-la-transition-dans-une-societe-inegalitaire/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-03-26-un-apres-midi-avec-le-bruit-du-frigo/index.html"
+to = "/fr/publications/2009-03-26-un-apres-midi-avec-le-bruit-du-frigo/"
+
+[[redirects]]
+from = "/fr/productions/publications/2025-03-20-la-27e-region-et-ses-adherents-de-la-transaction-a-la-cooperation/index.html"
+to = "/fr/publications/2025-03-20-la-27e-region-et-ses-adherents-de-la-transaction-a-la-cooperation/"
+
+[[redirects]]
+from = "/les-gares-terrains-fertiles-pour-linnovation-sociale/index.html"
+to = "/fr/publications/2017-03-16-les-gares-terrains-fertiles-pour-linnovation-sociale/"
+
+[[redirects]]
+from = "/enacting-the-commons-cest-fini/index.html"
+to = "/fr/publications/2021-06-17-enacting-the-commons-cest-fini/"
+
+[[redirects]]
+from = "/de-nouveaux-residents-pour-la-27e-region/index.html"
+to = "/fr/publications/2009-01-17-de-nouveaux-residents-pour-la-27e-region/"
+
+[[redirects]]
+from = "/modernite-detat-devoir-dinventaire-droit-dinventer/index.html"
+to = "/fr/publications/2017-03-03-modernite-detat-devoir-dinventaire-droit-dinventer/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-03-27-linnovation-de-la-societe-civile-au-politique-en-passant-par-la-peripherie/index.html"
+to = "/fr/publications/2009-03-27-linnovation-de-la-societe-civile-au-politique-en-passant-par-la-peripherie/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-02-17-le-collectif-le-bruit-du-frigo-a-la-cantine-le-3-mars-apres-midi/index.html"
+to = "/fr/publications/2009-02-17-le-collectif-le-bruit-du-frigo-a-la-cantine-le-3-mars-apres-midi/"
+
+[[redirects]]
+from = "/fr/productions/publications/2019-06-05-passer-a-lechelle-sans-normaliser-le-casse-tete-de-linnovateur-public-retour-dexperience-du-departem/index.html"
+to = "/fr/publications/2019-06-05-passer-a-lechelle-sans-normaliser-le-casse-tete-de-linnovateur-public-retour-dexperience-du-departem/"
+
+[[redirects]]
+from = "/en/productions/posts/index.html"
+to = "/en/posts/"
+
+[[redirects]]
+from = "/creation-du-collectif-pour-la-transformation-de-laction-publique/index.html"
+to = "/fr/publications/2016-05-10-creation-du-collectif-pour-la-transformation-de-laction-publique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-02-19-ce-que-la-science-fiction-nous-raconte-du-futur-des-administrations/index.html"
+to = "/fr/publications/2018-02-19-ce-que-la-science-fiction-nous-raconte-du-futur-des-administrations/"
+
+[[redirects]]
+from = "/ag-2025-ou-la-joie-de-se-retrouver/index.html"
+to = "/fr/publications/2025-07-08-ag-2025-ou-la-joie-de-se-retrouver/"
+
+[[redirects]]
+from = "/comment-mieux-travailler-avec-les-collectivites-quand-on-est-un-e-chercheur-se/index.html"
+to = "/fr/publications/2025-04-29-comment-mieux-travailler-avec-les-collectivites-quand-on-est-un-e-chercheur-se/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-10-01-chantiers-ouverts-au-public/index.html"
+to = "/fr/publications/2015-10-01-chantiers-ouverts-au-public/"
+
+[[redirects]]
+from = "/fr/productions/publications/2020-02-02-retours-sur-la-transfo-a-la-metropole-europeenne-de-lille/index.html"
+to = "/fr/publications/2020-02-02-retours-sur-la-transfo-a-la-metropole-europeenne-de-lille/"
+
+[[redirects]]
+from = "/fr/productions/publications/2022-11-09-citylab-a-amsterdam-les-villes-face-a-la-crise-permanente/index.html"
+to = "/fr/publications/2022-11-09-citylab-a-amsterdam-les-villes-face-a-la-crise-permanente/"
+
+[[redirects]]
+from = "/assises-de-linnovation-publique-comment-tenir-encore-debout/index.html"
+to = "/fr/publications/2025-10-03-assises-de-linnovation-publique-comment-tenir-encore-debout/"
+
+[[redirects]]
+from = "/le-danemark-ou-le-discours-de-la-methode-de-linnovation/index.html"
+to = "/fr/publications/2009-05-11-le-danemark-ou-le-discours-de-la-methode-de-linnovation/"
+
+[[redirects]]
+from = "/10-ans-et-apres-la-27e-region-fera-t-elle-sa-crise-dado/index.html"
+to = "/fr/publications/2018-10-30-10-ans-et-apres-la-27e-region-fera-t-elle-sa-crise-dado/"
+
+[[redirects]]
+from = "/le-dessous-des-labs/index.html"
+to = "/fr/publications/2013-05-21-le-dessous-des-labs/"
+
+[[redirects]]
+from = "/design-des-politiques-publiques-ou-va-le-secteur/index.html"
+to = "/fr/publications/2013-09-07-design-des-politiques-publiques-ou-va-le-secteur/"
+
+[[redirects]]
+from = "/design-prospectif-en-nord-pas-de-calais/index.html"
+to = "/fr/publications/2009-01-09-design-prospectif-en-nord-pas-de-calais/"
+
+[[redirects]]
+from = "/et-si-apres-tout-levaluation-cetait-cool/index.html"
+to = "/fr/publications/2023-06-20-et-si-apres-tout-levaluation-cetait-cool/"
+
+[[redirects]]
+from = "/la-27e-region-primee-aux-victoires-des-acteurs-publics-2011/index.html"
+to = "/fr/publications/2011-06-12-la-27e-region-primee-aux-victoires-des-acteurs-publics-2011/"
+
+[[redirects]]
+from = "/fr/productions/publications/2011-10-14-petit-traite-viennois-dinnovation-sociale/index.html"
+to = "/fr/publications/2011-10-14-petit-traite-viennois-dinnovation-sociale/"
+
+[[redirects]]
+from = "/capacites-publiques-renforcer-la-resilience-des-administrations/index.html"
+to = "/fr/publications/2023-03-17-capacites-publiques-renforcer-la-resilience-des-administrations/"
+
+[[redirects]]
+from = "/en-quete-de-nouveaux-outils-de-gestion-pour-piloter-les-transitions/index.html"
+to = "/fr/publications/2022-01-18-en-quete-de-nouveaux-outils-de-gestion-pour-piloter-les-transitions/"
+
+[[redirects]]
+from = "/deployer-linnovation-la-tactique-des-megotiers-13/index.html"
+to = "/fr/publications/2019-02-25-deployer-linnovation-la-tactique-des-megotiers-13/"
+
+[[redirects]]
+from = "/public-design-a-copenhague/index.html"
+to = "/fr/publications/2011-09-13-public-design-a-copenhague/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-08-28-la-27e-region-dix-ans-dutopie-concrete/index.html"
+to = "/fr/publications/2018-08-28-la-27e-region-dix-ans-dutopie-concrete/"
+
+[[redirects]]
+from = "/des-donnees-publiques-libres/index.html"
+to = "/fr/publications/2016-02-17-des-donnees-publiques-libres/"
+
+[[redirects]]
+from = "/reflexes-publics-investigating-public-resilience-times-of-crisis/index.html"
+to = "/fr/publications/2021-01-29-reflexes-publics-investigating-public-resilience-times-of-crisis/"
+
+[[redirects]]
+from = "/de-la-boite-a-idees-au-programme-dintrapreneuriat-ou-en-est-on-de-linnovation-participative-dans-les-administrations/index.html"
+to = "/fr/publications/2018-12-21-de-la-boite-a-idees-au-programme-dintrapreneuriat-ou-en-est-on-de-linnovation-participative-dans-les/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-11-06-le-cycle-dinnovation-i-team-en-5-etapes-et-quelques-questions/index.html"
+to = "/fr/publications/2017-11-06-le-cycle-dinnovation-i-team-en-5-etapes-et-quelques-questions/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-01-26-laide-au-developpement-un-nouvel-objet-de-transformation-publique-pour-la-27e-region/index.html"
+to = "/fr/publications/2023-01-26-laide-au-developpement-un-nouvel-objet-de-transformation-publique-pour-la-27e-region/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-09-01-apprehender-le-bien-vivre-dun-territoire-comment-passer-de-la-mesure-a-laction/index.html"
+to = "/fr/publications/2023-09-01-apprehender-le-bien-vivre-dun-territoire-comment-passer-de-la-mesure-a-laction/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-10-19-les-labs-des-batmobiles-sur-la-route-perilleuse-de-la-transformation/index.html"
+to = "/fr/publications/2017-10-19-les-labs-des-batmobiles-sur-la-route-perilleuse-de-la-transformation/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-03-29-vers-une-gestion-de-locaux-collectifs-residentiels-inspiree-des-communs-clap-de-fin-pour-lexperiment/index.html"
+to = "/fr/publications/2023-03-29-vers-une-gestion-de-locaux-collectifs-residentiels-inspiree-des-communs-clap-de-fin-pour-lexperiment/"
+
+[[redirects]]
+from = "/faire-compagnie-un-projet-pour-sortir-de-lisolement-rural/index.html"
+to = "/fr/publications/2008-07-17-faire-compagnie-un-projet-pour-sortir-de-lisolement-rural/"
+
+[[redirects]]
+from = "/comment-faire-de-la-recherche-utilisateur-en-periode-confinement/index.html"
+to = "/fr/publications/2020-04-25-comment-faire-de-la-recherche-utilisateur-en-periode-confinement/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-04-28-peut-on-faire-du-neuf-en-matiere-de-prospective-territoriale/index.html"
+to = "/fr/publications/2009-04-28-peut-on-faire-du-neuf-en-matiere-de-prospective-territoriale/"
+
+[[redirects]]
+from = "/fr/equipe/manon-leroy/publications/index.html"
+to = "/fr/collectif/manon-leroy/publications/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-02-05-region-estremadure-limagination-comme-projet-politique/index.html"
+to = "/fr/publications/2009-02-05-region-estremadure-limagination-comme-projet-politique/"
+
+[[redirects]]
+from = "/mexico-megapole-creative-notes-de-voyage/index.html"
+to = "/fr/publications/2017-05-04-mexico-megapole-creative-notes-de-voyage/"
+
+[[redirects]]
+from = "/videocagette-retour-sur-les-premiers-tests/index.html"
+to = "/fr/publications/2017-02-21-videocagette-retour-sur-les-premiers-tests/"
+
+[[redirects]]
+from = "/fr/productions/publications/2025-02-27-comment-se-reconcilier-dans-ce-monde-de-brutes/index.html"
+to = "/fr/publications/2025-02-27-comment-se-reconcilier-dans-ce-monde-de-brutes/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-11-25-place-to-b-ouvre-reformule-les-challenges-environnementaux/index.html"
+to = "/fr/publications/2015-11-25-place-to-b-ouvre-reformule-les-challenges-environnementaux/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-07-03-exploitation-des-donnees-personnelles-quelles-formes-de-regulation/index.html"
+to = "/fr/publications/2018-07-03-exploitation-des-donnees-personnelles-quelles-formes-de-regulation/"
+
+[[redirects]]
+from = "/fr/productions/publications/2019-01-09-la-27e-region-recherche-un-stagiaire-en-design-fevrier-2019/index.html"
+to = "/fr/publications/2019-01-09-la-27e-region-recherche-un-stagiaire-en-design-fevrier-2019/"
+
+[[redirects]]
+from = "/fr/productions/publications/2011-06-12-5-jours-pour-commencer-a-imaginer-lavenir-des-villages-de-bourgogne/index.html"
+to = "/fr/publications/2011-06-12-5-jours-pour-commencer-a-imaginer-lavenir-des-villages-de-bourgogne/"
+
+[[redirects]]
+from = "/think-the-new-factory-of-public-policies/index.html"
+to = "/fr/publications/2015-07-01-think-the-new-factory-of-public-policies/"
+
+[[redirects]]
+from = "/in-situ-lab-comment-co-creer-des-services-publics/index.html"
+to = "/fr/publications/2015-06-09-in-situ-lab-comment-co-creer-des-services-publics/"
+
+[[redirects]]
+from = "/fr/productions/publications/2008-11-19-technologie-et-prospective-territoriale/index.html"
+to = "/fr/publications/2008-11-19-technologie-et-prospective-territoriale/"
+
+[[redirects]]
+from = "/fr/equipe/stephane-vincent/index.html"
+to = "/fr/collectif/stephane-vincent/"
+
+[[redirects]]
+from = "/fr/productions/publications/2010-04-01-design-des-politiques-publiques/index.html"
+to = "/fr/publications/2010-04-01-design-des-politiques-publiques/"
+
+[[redirects]]
+from = "/en-colo-au-pays-de-la-systemique-3-3/index.html"
+to = "/fr/publications/2024-12-04-en-colo-au-pays-de-la-systemique-3-3/"
+
+[[redirects]]
+from = "/fr/programmes/2025-modele-de-page-programme-1/index.html"
+to = "/fr/programmes/2025-la-synchro/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-05-27-new-society-new-design-practices/index.html"
+to = "/fr/publications/2016-05-27-new-society-new-design-practices/"
+
+[[redirects]]
+from = "/fr/productions/publications/2020-11-03-transformer-nos-outils-de-mesure-pour-piloter-les-transitions/index.html"
+to = "/fr/publications/2020-11-03-transformer-nos-outils-de-mesure-pour-piloter-les-transitions/"
+
+[[redirects]]
+from = "/et-si-avant-de-supprimer-des-institutions-on-apprenait-a-mieux-les-concevoir/index.html"
+to = "/fr/publications/2025-04-14-et-si-avant-de-supprimer-des-institutions-on-apprenait-a-mieux-les-concevoir/"
+
+[[redirects]]
+from = "/fr/productions/publications/2021-03-24-la-27e-region-a-la-biennale-des-villes-en-transition-du-1er-au-4-avril-2021/index.html"
+to = "/fr/publications/2021-03-24-la-27e-region-a-la-biennale-des-villes-en-transition-du-1er-au-4-avril-2021/"
+
+[[redirects]]
+from = "/on-ouvre-le-code-source-de-la-transfo/index.html"
+to = "/fr/publications/2020-09-28-on-ouvre-le-code-source-de-la-transfo/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/fr/organisations/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-07-11-la-doua-une-ville-universite/index.html"
+to = "/fr/publications/2009-07-11-la-doua-une-ville-universite/"
+
+[[redirects]]
+from = "/collectif-didattica-tout-architecte-devrait-etre-pedagogue/index.html"
+to = "/fr/publications/2009-04-24-collectif-didattica-tout-architecte-devrait-etre-pedagogue/"
+
+[[redirects]]
+from = "/henrik-w-bendix-repenser-lhopital/index.html"
+to = "/fr/publications/2009-01-07-henrik-w-bendix-repenser-lhopital/"
+
+[[redirects]]
+from = "/lecons-jaunes-pour-la-transformation-publique/index.html"
+to = "/fr/publications/2018-12-18-lecons-jaunes-pour-la-transformation-publique/"
+
+[[redirects]]
+from = "/plan-du-site/index.html"
+to = "/fr/plan-du-site/"
+
+[[redirects]]
+from = "/region-estremadure-limagination-comme-projet-politique/index.html"
+to = "/fr/publications/2009-02-05-region-estremadure-limagination-comme-projet-politique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2021-05-07-comment-aider-les-laboratoires-dinnovation-publique-a-passer-la-vitesse-superieure-2-3/index.html"
+to = "/fr/publications/2021-05-07-comment-aider-les-laboratoires-dinnovation-publique-a-passer-la-vitesse-superieure-2-3/"
+
+[[redirects]]
+from = "/fr/productions/publications/2014-01-07-penser-lanti-plan-dadministration/index.html"
+to = "/fr/publications/2014-01-07-penser-lanti-plan-dadministration/"
+
+[[redirects]]
+from = "/deployer-linnovation-la-tactique-des-megotiers-23/index.html"
+to = "/fr/publications/2019-03-17-deployer-linnovation-la-tactique-des-megotiers-23/"
+
+[[redirects]]
+from = "/fr/equipe/categories/association/equipe/index.html"
+to = "/fr/collectif/categories/equipe/"
+
+[[redirects]]
+from = "/lappel-de-berlin/index.html"
+to = "/fr/publications/2025-07-09-lappel-de-berlin/"
+
+[[redirects]]
+from = "/et-si-les-innovateurs-publics-se-mettaient-a-la-natation-synchronisee/index.html"
+to = "/fr/publications/2025-12-18-et-si-les-innovateurs-publics-se-mettaient-a-la-natation-synchronisee/"
+
+[[redirects]]
+from = "/cas-pratiques/les-eclaireurs-3-les-schemas-damenagement-ouverts/index.html"
+to = "/fr/publications/2025-09-29-les-eclaireurs-3-les-schemas-damenagement-ouverts/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-07-11-i-teams/index.html"
+to = "/fr/publications/2017-07-11-i-teams/"
+
+[[redirects]]
+from = "/fr/productions/publications/2020-05-06-fabriquons-une-relance-en-transitions/index.html"
+to = "/fr/publications/2020-05-06-fabriquons-une-relance-en-transitions/"
+
+[[redirects]]
+from = "/social-design-mieux-maitriser-les-effets-indesirables/index.html"
+to = "/fr/publications/2014-01-30-social-design-mieux-maitriser-les-effets-indesirables/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-07-17-works-50-le-retour-a-lemploi-booste-par-le-design/index.html"
+to = "/fr/publications/2009-07-17-works-50-le-retour-a-lemploi-booste-par-le-design/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-12-10-il-y-aura-lage-des-villes-moyennes/index.html"
+to = "/fr/publications/2018-12-10-il-y-aura-lage-des-villes-moyennes/"
+
+[[redirects]]
+from = "/la-27e-region-dix-ans-dutopie-concrete/index.html"
+to = "/fr/publications/2018-08-28-la-27e-region-dix-ans-dutopie-concrete/"
+
+[[redirects]]
+from = "/des-labos-pour-reveiller-leurope/index.html"
+to = "/fr/publications/2016-09-20-des-labos-pour-reveiller-leurope/"
+
+[[redirects]]
+from = "/fr/productions/publications/2014-07-31-labcraft-un-livre-une-experience-collective/index.html"
+to = "/fr/publications/2014-07-31-labcraft-un-livre-une-experience-collective/"
+
+[[redirects]]
+from = "/passer-a-lechelle-sans-normaliser-le-casse-tete-de-linnovateur-public-retour-dexperience-du-departement-de-loire-atlantique/index.html"
+to = "/fr/publications/2019-06-05-passer-a-lechelle-sans-normaliser-le-casse-tete-de-linnovateur-public-retour-dexperience-du-departem/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-03-12-en-preparant-trois-jours-a-los-angeles-pour-explorer-pratiques-et-visions-de-linnovation-urbaine/index.html"
+to = "/fr/publications/2018-03-12-en-preparant-trois-jours-a-los-angeles-pour-explorer-pratiques-et-visions-de-linnovation-urbaine/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-03-30-quels-defis-pour-la-multifonctionnalite-des-forets/index.html"
+to = "/fr/publications/2023-03-30-quels-defis-pour-la-multifonctionnalite-des-forets/"
+
+[[redirects]]
+from = "/fr/productions/publications/2011-09-26-la-27e-region-remporte-le-prix-europeen-du-design-management/index.html"
+to = "/fr/publications/2011-09-26-la-27e-region-remporte-le-prix-europeen-du-design-management/"
+
+[[redirects]]
+from = "/atelier-decriture-ladministration-post-apocalyptique/index.html"
+to = "/fr/publications/2015-08-08-atelier-decriture-ladministration-post-apocalyptique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2020-07-21-la-crise-sanitaire-lemergence-de-nouvelles-pratiques-denquetes/index.html"
+to = "/fr/publications/2020-07-21-la-crise-sanitaire-lemergence-de-nouvelles-pratiques-denquetes/"
+
+[[redirects]]
+from = "/fr/collectif/categories/association/ancien-membre/index.html"
+to = "/fr/collectif/categories/ancien-membre/"
+
+[[redirects]]
+from = "/le-contrat-de-ville-dapres/index.html"
+to = "/fr/publications/2021-04-08-le-contrat-de-ville-dapres/"
+
+[[redirects]]
+from = "/vers-un-nouveau-mouvement-qui-federe-linnovation-sociale-publique-politique-et-democratique-cinq-pistes-au-retour-distanbul/index.html"
+to = "/fr/publications/2017-11-14-vers-un-nouveau-mouvement-qui-federe-linnovation-sociale-publique-politique-et-democratique-cinq-pis/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-09-15-ischool-une-ecole-pour-remettre-de-la-reflexivite-dans-linnovation-publique/index.html"
+to = "/fr/publications/2016-09-15-ischool-une-ecole-pour-remettre-de-la-reflexivite-dans-linnovation-publique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2022-04-01-comprendre-les-mecanismes-a-loeuvre-au-sein-des-initiatives-citoyennes/index.html"
+to = "/fr/publications/2022-04-01-comprendre-les-mecanismes-a-loeuvre-au-sein-des-initiatives-citoyennes/"
+
+[[redirects]]
+from = "/fr/productions/publications/2008-07-17-les-cabines-resologiques-micro-equipement-public-hybride/index.html"
+to = "/fr/publications/2008-07-17-les-cabines-resologiques-micro-equipement-public-hybride/"
+
+[[redirects]]
+from = "/fr/productions/publications/2019-12-12-la-transfo-des-labos-dinnovation-pour-agir-sur-le-reel/index.html"
+to = "/fr/publications/2019-12-12-la-transfo-des-labos-dinnovation-pour-agir-sur-le-reel/"
+
+[[redirects]]
+from = "/rapport-dactivite-2012/index.html"
+to = "/fr/publications/2013-01-19-rapport-dactivite-2012/"
+
+[[redirects]]
+from = "/mutualiser-linnovation-publique-a-lechelle-territoriale-le-prochain-grand-defi/index.html"
+to = "/fr/publications/2019-05-21-mutualiser-linnovation-publique-a-lechelle-territoriale-le-prochain-grand-defi/"
+
+[[redirects]]
+from = "/fr/productions/publications/2021-01-29-reflexes-publics-investigating-public-resilience-times-of-crisis/index.html"
+to = "/fr/publications/2021-01-29-reflexes-publics-investigating-public-resilience-times-of-crisis/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-07-24-une-collaboration-entre-pouvoirs-publics-et-ess-pour-le-meilleur-comme-pour-le-pire/index.html"
+to = "/fr/publications/2015-07-24-une-collaboration-entre-pouvoirs-publics-et-ess-pour-le-meilleur-comme-pour-le-pire/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-09-25-peut-on-institutionnaliser-les-pratiques-de-design-social/index.html"
+to = "/fr/publications/2018-09-25-peut-on-institutionnaliser-les-pratiques-de-design-social/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-02-21-videocagette-retour-sur-les-premiers-tests/index.html"
+to = "/fr/publications/2017-02-21-videocagette-retour-sur-les-premiers-tests/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-12-08-une-rencontre-avec-louise-pulford-directrice-du-social-innovation-exchange/index.html"
+to = "/fr/publications/2017-12-08-une-rencontre-avec-louise-pulford-directrice-du-social-innovation-exchange/"
+
+[[redirects]]
+from = "/fr/publications/type/article/index.html"
+to = "/fr/publications/actualites/"
+
+[[redirects]]
+from = "/rapport-dactivite-de-la-27e-region-en-2016/index.html"
+to = "/fr/publications/2017-01-05-rapport-dactivite-de-la-27e-region-en-2016/"
+
+[[redirects]]
+from = "/fr/productions/publications/2022-06-17-onze-conseils-pour-une-permaculture-des-laboratoires-dinnovation-publique/index.html"
+to = "/fr/publications/2022-06-17-onze-conseils-pour-une-permaculture-des-laboratoires-dinnovation-publique/"
+
+[[redirects]]
+from = "/reflexes-publics/index.html"
+to = "/fr/programmes/2020-reflexes-publics/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-07-31-comment-mieux-prendre-en-compte-les-communs-dans-les-pratiques-de-developpement/index.html"
+to = "/fr/publications/2023-07-31-comment-mieux-prendre-en-compte-les-communs-dans-les-pratiques-de-developpement/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-12-22-la-transfo-the-visible-impacts-of-a-learning-by-doing-innovation-program/index.html"
+to = "/fr/publications/2018-12-22-la-transfo-the-visible-impacts-of-a-learning-by-doing-innovation-program/"
+
+[[redirects]]
+from = "/fr/communaute-1/adherents-partenaires/index.html"
+to = "/fr/communaute/adherents-partenaires/"
+
+[[redirects]]
+from = "/courage-impertinence-et-hybridation-des-lieux-les-cles-de-linnovation-publique-par-luc-gwiazdzinski/index.html"
+to = "/fr/publications/2009-04-06-courage-impertinence-et-hybridation-des-lieux-les-cles-de-linnovation-publique-par-luc-gwiazdzinski/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-10-18-assistive-civitech-au-service-dune-meilleure-repartition-des-logements-sociaux/index.html"
+to = "/fr/publications/2016-10-18-assistive-civitech-au-service-dune-meilleure-repartition-des-logements-sociaux/"
+
+[[redirects]]
+from = "/fr/productions/publications/2022-02-09-quand-la-27e-region-fait-son-bilan-carbone/index.html"
+to = "/fr/publications/2022-02-09-quand-la-27e-region-fait-son-bilan-carbone/"
+
+[[redirects]]
+from = "/retours-sur-la-transfo-a-la-metropole-europeenne-de-lille/index.html"
+to = "/fr/publications/2020-02-02-retours-sur-la-transfo-a-la-metropole-europeenne-de-lille/"
+
+[[redirects]]
+from = "/fr/productions/publications/2021-10-21-la-redirection-transformation-publique-radicale-un-peu-plus-sur-le-master-strategy-design-for-the-an/index.html"
+to = "/fr/publications/2021-10-21-la-redirection-transformation-publique-radicale-un-peu-plus-sur-le-master-strategy-design-for-the-an/"
+
+[[redirects]]
+from = "/la-gare-ter-de-demain-une-nouvelle-residence-de-la-27e-region/index.html"
+to = "/fr/publications/2016-08-31-la-gare-ter-de-demain-une-nouvelle-residence-de-la-27e-region/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-09-12-design-thinking-au-dela-des-derives-une-opportunite-a-saisir/index.html"
+to = "/fr/publications/2016-09-12-design-thinking-au-dela-des-derives-une-opportunite-a-saisir/"
+
+[[redirects]]
+from = "/fr/productions/publications/2011-04-07-8126/index.html"
+to = "/fr/publications/2011-04-07-8126/"
+
+[[redirects]]
+from = "/fr/productions/publications/2010-11-29-comment-innoverons-nous-demain/index.html"
+to = "/fr/publications/2010-11-29-comment-innoverons-nous-demain/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-05-11-le-danemark-ou-le-discours-de-la-methode-de-linnovation/index.html"
+to = "/fr/publications/2009-05-11-le-danemark-ou-le-discours-de-la-methode-de-linnovation/"
+
+[[redirects]]
+from = "/enacting-the-commons-cest-parti/index.html"
+to = "/fr/publications/2019-02-27-enacting-the-commons-cest-parti/"
+
+[[redirects]]
+from = "/rebonds/index.html"
+to = "/fr/programmes/2025-rebonds/"
+
+[[redirects]]
+from = "/cas-pratiques/la-transfo-dunkerque/index.html"
+to = "/fr/publications/2018-01-01-la-transfo-dunkerque/"
+
+[[redirects]]
+from = "/fr/productions/publications/2011-09-22-et-maintenant-le-greenwashing-numerique/index.html"
+to = "/fr/publications/2011-09-22-et-maintenant-le-greenwashing-numerique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-06-09-quand-les-citoyens-gerent-eux-meme-leur-budget-de-prestations-sociales/index.html"
+to = "/fr/publications/2009-06-09-quand-les-citoyens-gerent-eux-meme-leur-budget-de-prestations-sociales/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-05-14-design-des-politiques-publiques-les-premisses-dune-nouvelle-culture-manageriale/index.html"
+to = "/fr/publications/2017-05-14-design-des-politiques-publiques-les-premisses-dune-nouvelle-culture-manageriale/"
+
+[[redirects]]
+from = "/fr/communaute/reseau/index.html"
+to = "/fr/communaute/professionnels/"
+
+[[redirects]]
+from = "/extreme-defi-les-secrets-dune-demarche-de-transformation/index.html"
+to = "/fr/publications/2025-10-30-extreme-defi-les-secrets-dune-methode-concue-pour-deverrouiller-la-transition-ecologique-et-sociale/"
+
+[[redirects]]
+from = "/cas-pratiques/la-transfo-metz/index.html"
+to = "/fr/publications/2019-01-01-la-transfo-metz/"
+
+[[redirects]]
+from = "/comment-aider-les-laboratoires-dinnovation-publique-a-passer-la-seconde-1-3/index.html"
+to = "/fr/publications/2021-04-21-comment-aider-les-laboratoires-dinnovation-publique-a-passer-la-seconde-1-3/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-01-05-rapport-dactivite-de-la-27e-region-en-2016/index.html"
+to = "/fr/publications/2017-01-05-rapport-dactivite-de-la-27e-region-en-2016/"
+
+[[redirects]]
+from = "/linterterritorialite-nouveau-design-des-territoires/index.html"
+to = "/fr/publications/2009-04-03-linterterritorialite-nouveau-design-des-territoires/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-12-12-sobriete-ouvrir-lespace-de-la-decision-publique/index.html"
+to = "/fr/publications/2023-12-12-sobriete-ouvrir-lespace-de-la-decision-publique/"
+
+[[redirects]]
+from = "/retour-sur-citylab-2015/index.html"
+to = "/fr/publications/2015-10-25-retour-sur-citylab-2015/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-11-25-poc21-la-fabrication-open-source-en-action/index.html"
+to = "/fr/publications/2015-11-25-poc21-la-fabrication-open-source-en-action/"
+
+[[redirects]]
+from = "/co-production-le-nesta-eclaircit-la-notion/index.html"
+to = "/fr/publications/2010-02-07-co-production-le-nesta-eclaircit-la-notion/"
+
+[[redirects]]
+from = "/dementia-friendly-communities-vivre-avec-la-maladie-dalzheimer/index.html"
+to = "/fr/publications/2012-03-18-dementia-friendly-communities-vivre-avec-la-maladie-dalzheimer/"
+
+[[redirects]]
+from = "/le-nouveau-contrat-ecologique-et-social-une-boussole-pour-lavenir-de-la-transformation-publique/index.html"
+to = "/fr/publications/2020-11-24-le-nouveau-contrat-ecologique-et-social-une-boussole-pour-lavenir-de-la-transformation-publique/"
+
+[[redirects]]
+from = "/mois-de-linnovation-publique-2021-du-1-au-30-novembre-notre-selection/index.html"
+to = "/fr/publications/2021-10-26-mois-de-linnovation-publique-2021-du-1-au-30-novembre-notre-selection/"
+
+[[redirects]]
+from = "/fr/productions/publications/2024-03-18-documenter-la-fabrique-de-lamenagement-participatif/index.html"
+to = "/fr/publications/2024-03-18-documenter-la-fabrique-de-lamenagement-participatif/"
+
+[[redirects]]
+from = "/fr/productions/publications/2022-01-18-en-quete-de-nouveaux-outils-de-gestion-pour-piloter-les-transitions/index.html"
+to = "/fr/publications/2022-01-18-en-quete-de-nouveaux-outils-de-gestion-pour-piloter-les-transitions/"
+
+[[redirects]]
+from = "/fr/equipe/index.html"
+to = "/fr/la-27e-region/equipe/"
+
+[[redirects]]
+from = "/fr/productions/publications/2019-04-11-les-eclaireurs-a-lassaut-des-marches-publics/index.html"
+to = "/fr/publications/2019-04-11-les-eclaireurs-a-lassaut-des-marches-publics/"
+
+[[redirects]]
+from = "/fr/productions/publications/2013-02-08-8189/index.html"
+to = "/fr/publications/2013-02-08-8189/"
+
+[[redirects]]
+from = "/kriz-jouer-la-resilience-par-les-communs/index.html"
+to = "/fr/publications/2022-11-30-kriz-jouer-la-resilience-par-les-communs/"
+
+[[redirects]]
+from = "/fr/productions/programmes/etat/en-cours/index.html"
+to = "/fr/programmes/etat/en-cours/"
+
+[[redirects]]
+from = "/fr/productions/publications/2011-09-11-comment-montrer-le-design/index.html"
+to = "/fr/publications/2011-09-11-comment-montrer-le-design/"
+
+[[redirects]]
+from = "/habiter-en-construisant-construire-avec-les-habitantes-comment-la-permanence-architecturale-t-elle-transforme-lamenagement-des-territoires/index.html"
+to = "/fr/publications/2024-02-06-habiter-en-construisant-construire-avec-les-habitantes-comment-la-permanence-architecturale-t-elle-t/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-11-05-les-delaisses-de-laction-publique-2/index.html"
+to = "/fr/publications/2018-11-05-les-delaisses-de-laction-publique-2/"
+
+[[redirects]]
+from = "/fr/publications/terrain/index.html"
+to = "/fr/publications/terrains/"
+
+[[redirects]]
+from = "/fr/programmes/2020-la-transfo/index.html"
+to = "/fr/programmes/2011-la-transfo/"
+
+[[redirects]]
+from = "/fr/productions/publications/2012-03-18-dementia-friendly-communities-vivre-avec-la-maladie-dalzheimer/index.html"
+to = "/fr/publications/2012-03-18-dementia-friendly-communities-vivre-avec-la-maladie-dalzheimer/"
+
+[[redirects]]
+from = "/comprendre-les-mecanismes-a-loeuvre-au-sein-des-initiatives-citoyennes/index.html"
+to = "/fr/publications/2022-04-01-comprendre-les-mecanismes-a-loeuvre-au-sein-des-initiatives-citoyennes/"
+
+[[redirects]]
+from = "/rapport-dactivites-de-la-27e-region-en-2018/index.html"
+to = "/fr/publications/2019-03-13-rapport-dactivites-de-la-27e-region-en-2018/"
+
+[[redirects]]
+from = "/en/la-27e-region/equipe/index.html"
+to = "/en/la-27e-region/team/"
+
+[[redirects]]
+from = "/fr/productions/publications/2012-10-18-transforming-early-years-tester-le-concept-defficacite-radicale/index.html"
+to = "/fr/publications/2012-10-18-transforming-early-years-tester-le-concept-defficacite-radicale/"
+
+[[redirects]]
+from = "/une-boite-a-outils-de-politique-publique-pour-sortir-du-dedale-contemporain/index.html"
+to = "/fr/publications/2016-12-22-une-boite-a-outils-de-politique-publique-pour-sortir-du-dedale-contemporain/"
+
+[[redirects]]
+from = "/la-27e-region-orientations-et-feuille-de-route-2016/index.html"
+to = "/fr/publications/2015-11-26-la-27e-region-orientations-et-feuille-de-route-2016/"
+
+[[redirects]]
+from = "/fr/productions/publications/2012-05-28-adieu-gabi/index.html"
+to = "/fr/publications/2012-05-28-adieu-gabi/"
+
+[[redirects]]
+from = "/fr/productions/publications/2008-05-04-lancement-officiel-de-la-27e-region-le-14-mai-prochain/index.html"
+to = "/fr/publications/2008-05-04-lancement-officiel-de-la-27e-region-le-14-mai-prochain/"
+
+[[redirects]]
+from = "/fr/productions/publications/2019-03-13-rapport-dactivites-de-la-27e-region-en-2018/index.html"
+to = "/fr/publications/2019-03-13-rapport-dactivites-de-la-27e-region-en-2018/"
+
+[[redirects]]
+from = "/la-redirection-transformation-publique-radicale-un-peu-plus-sur-le-master-strategy-design-for-the-anthropocene/index.html"
+to = "/fr/publications/2021-10-21-la-redirection-transformation-publique-radicale-un-peu-plus-sur-le-master-strategy-design-for-the-an/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-01-10-lopen-data-a-10-ans-comment-en-faire-la-norme-plutot-que-lexception/index.html"
+to = "/fr/publications/2018-01-10-lopen-data-a-10-ans-comment-en-faire-la-norme-plutot-que-lexception/"
+
+[[redirects]]
+from = "/labcraft-un-livre-une-experience-collective/index.html"
+to = "/fr/publications/2014-07-31-labcraft-un-livre-une-experience-collective/"
+
+[[redirects]]
+from = "/comment-superpublic-a-gagne-le-coeur-de-san-francisco/index.html"
+to = "/fr/publications/2016-05-14-comment-superpublic-a-gagne-le-coeur-de-san-francisco/"
+
+[[redirects]]
+from = "/la-27e-region-a-la-biennale-des-villes-en-transition-du-1er-au-4-avril-2021/index.html"
+to = "/fr/publications/2021-03-24-la-27e-region-a-la-biennale-des-villes-en-transition-du-1er-au-4-avril-2021/"
+
+[[redirects]]
+from = "/linnovation-dans-les-politiques-publiques-est-une-demarche-pas-un-but/index.html"
+to = "/fr/publications/2009-02-16-linnovation-dans-les-politiques-publiques-est-une-demarche-pas-un-but/"
+
+[[redirects]]
+from = "/marylise-lebranchu-du-design-a-la-reforme-de-letat/index.html"
+to = "/fr/publications/2013-02-28-marylise-lebranchu-du-design-a-la-reforme-de-letat/"
+
+[[redirects]]
+from = "/fr/publications/ressources/outils/index.html"
+to = "/fr/publications/outils/"
+
+[[redirects]]
+from = "/fr/equipe/elise-dumay/index.html"
+to = "/fr/collectif/elise-dumay/"
+
+[[redirects]]
+from = "/quand-la-27e-region-fait-son-bilan-carbone-2-2-nos-bonnes-resolutions-numeriques/index.html"
+to = "/fr/publications/2022-02-09-quand-la-27e-region-fait-son-bilan-carbone-2-2-nos-bonnes-resolutions-numeriques/"
+
+[[redirects]]
+from = "/tronc-commun/index.html"
+to = "/fr/programmes/2025-tronc-commun/"
+
+[[redirects]]
+from = "/innovation-technologique-et-erreurs-medicales-regard-dun-sociologue/index.html"
+to = "/fr/publications/2009-06-26-innovation-technologique-et-erreurs-medicales-regard-dun-sociologue/"
+
+[[redirects]]
+from = "/desorganisons-nos-organisations-faut-il-liberer-nos-administrations/index.html"
+to = "/fr/publications/2018-09-21-desorganisons-nos-organisations-faut-il-liberer-nos-administrations/"
+
+[[redirects]]
+from = "/innover-dans-laccueil-des-nouveaux-habitants/index.html"
+to = "/fr/publications/2008-06-21-innover-dans-laccueil-des-nouveaux-habitants/"
+
+[[redirects]]
+from = "/peut-on-repenser-les-politiques-europeennes-en-re-partant-de-leurs-usages/index.html"
+to = "/fr/publications/2016-10-27-peut-on-repenser-les-politiques-europeennes-en-re-partant-de-leurs-usages/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-07-17-the-strange-life-of-lab/index.html"
+to = "/fr/publications/2015-07-17-the-strange-life-of-lab/"
+
+[[redirects]]
+from = "/democratie-alimentaire-des-experimentations-qui-redonnent-du-pouvoir-dagir-aux-citoyens/index.html"
+to = "/fr/publications/2022-09-20-democratie-alimentaire-des-experimentations-qui-redonnent-du-pouvoir-dagir-aux-citoyens/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-03-20-mindlab-goes-to-paris/index.html"
+to = "/fr/publications/2015-03-20-mindlab-goes-to-paris/"
+
+[[redirects]]
+from = "/nouvelles-mesures-la-longue-route-vers-lexperimentation/index.html"
+to = "/fr/publications/2023-10-03-nouvelles-mesures-la-longue-route-vers-lexperimentation/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-11-25-les-aventuriers-une-immersion-a-la-source-de-linnovation-dans-les-administrations-francaises/index.html"
+to = "/fr/publications/2016-11-25-les-aventuriers-une-immersion-a-la-source-de-linnovation-dans-les-administrations-francaises/"
+
+[[redirects]]
+from = "/cas-pratiques/habiter-le-lycee/index.html"
+to = "/fr/publications/2025-10-08-habiter-le-lycee/"
+
+[[redirects]]
+from = "/fr/productions/publications/2020-11-24-le-nouveau-contrat-ecologique-et-social-une-boussole-pour-lavenir-de-la-transformation-publique/index.html"
+to = "/fr/publications/2020-11-24-le-nouveau-contrat-ecologique-et-social-une-boussole-pour-lavenir-de-la-transformation-publique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2008-12-09-la-27e-region-au-4eme-congres-des-regions-de-france/index.html"
+to = "/fr/publications/2008-12-09-la-27e-region-au-4eme-congres-des-regions-de-france/"
+
+[[redirects]]
+from = "/ischool-une-ecole-pour-remettre-de-la-reflexivite-dans-linnovation-publique/index.html"
+to = "/fr/publications/2016-09-15-ischool-une-ecole-pour-remettre-de-la-reflexivite-dans-linnovation-publique/"
+
+[[redirects]]
+from = "/fr/publications/article/index.html"
+to = "/fr/publications/actualites/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-05-22-rencontre-patients-partenaires/index.html"
+to = "/fr/publications/2015-05-22-rencontre-patients-partenaires/"
+
+[[redirects]]
+from = "/fr/productions/publications/2011-11-24-prenez-soin-de-vos-contribuables/index.html"
+to = "/fr/publications/2011-11-24-prenez-soin-de-vos-contribuables/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-11-30-pour-reecouter-le-debat-big-data-et-collectivites/index.html"
+to = "/fr/publications/2017-11-30-pour-reecouter-le-debat-big-data-et-collectivites/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-04-03-linterterritorialite-nouveau-design-des-territoires/index.html"
+to = "/fr/publications/2009-04-03-linterterritorialite-nouveau-design-des-territoires/"
+
+[[redirects]]
+from = "/comment-innoverons-nous-demain/index.html"
+to = "/fr/publications/2010-11-29-comment-innoverons-nous-demain/"
+
+[[redirects]]
+from = "/fr/productions/publications/2013-12-19-edip-nouvelle-plateforme-pour-booster-linnovation-par-le-design-en-europe/index.html"
+to = "/fr/publications/2013-12-19-edip-nouvelle-plateforme-pour-booster-linnovation-par-le-design-en-europe/"
+
+[[redirects]]
+from = "/fr/productions/programmes/2019-rebonds/index.html"
+to = "/fr/programmes/2025-rebonds/"
+
+[[redirects]]
+from = "/cas-pratiques/ladministration-publique-au-coin-de-ma-rue/index.html"
+to = "/fr/publications/2025-10-06-l-administration-publique-au-coin-de-ma-rue/"
+
+[[redirects]]
+from = "/penser-la-nouvelle-fabrique-des-politiques-publiques/index.html"
+to = "/fr/publications/2015-07-01-penser-la-nouvelle-fabrique-des-politiques-publiques/"
+
+[[redirects]]
+from = "/fr/productions/publications/2022-07-19-retour-sur-notre-derniere-assemblee-generale/index.html"
+to = "/fr/publications/2022-07-19-retour-sur-notre-derniere-assemblee-generale/"
+
+[[redirects]]
+from = "/fr/productions/programmes/2020-la-transfo/index.html"
+to = "/fr/programmes/2011-la-transfo/"
+
+[[redirects]]
+from = "/mentions-legales/index.html"
+to = "/fr/mentions-legales/"
+
+[[redirects]]
+from = "/fr/productions/publications/2021-03-25-capacitation-toi-meme-enquete-collective-sur-un-pouvoir-dagir-a-la-nantaise/index.html"
+to = "/fr/publications/2021-03-25-capacitation-toi-meme-enquete-collective-sur-un-pouvoir-dagir-a-la-nantaise/"
+
+[[redirects]]
+from = "/cas-pratiques/la-region-basse-consommation/index.html"
+to = "/fr/publications/2025-10-08-la-region-basse-consommation/"
+
+[[redirects]]
+from = "/les-communs-negatifs-prendre-le-probleme-a-lenvers/index.html"
+to = "/fr/publications/2021-02-02-les-communs-negatifs-prendre-le-probleme-a-lenvers/"
+
+[[redirects]]
+from = "/quels-avenirs-pour-le-design-des-politiques-publiques/index.html"
+to = "/fr/publications/2020-04-28-quels-avenirs-pour-le-design-des-politiques-publiques/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-11-24-mieux-comprendre-la-recherche-action/index.html"
+to = "/fr/publications/2015-11-24-mieux-comprendre-la-recherche-action/"
+
+[[redirects]]
+from = "/une-collaboration-entre-pouvoirs-publics-et-ess-pour-le-meilleur-comme-pour-le-pire/index.html"
+to = "/fr/publications/2015-07-24-une-collaboration-entre-pouvoirs-publics-et-ess-pour-le-meilleur-comme-pour-le-pire/"
+
+[[redirects]]
+from = "/fr/collectif/categories/association/apprentie/index.html"
+to = "/fr/collectif/categories/apprentie/"
+
+[[redirects]]
+from = "/morceaux-choisis-de-la-semaine-de-linnovation-publique-2016/index.html"
+to = "/fr/publications/2016-11-25-morceaux-choisis-de-la-semaine-de-linnovation-publique-2016/"
+
+[[redirects]]
+from = "/fr/communaute-1/professionnels/index.html"
+to = "/fr/communaute/professionnels/"
+
+[[redirects]]
+from = "/fr/productions/publications/2013-06-08-8187/index.html"
+to = "/fr/publications/2013-06-08-8187/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-07-01-penser-la-nouvelle-fabrique-des-politiques-publiques/index.html"
+to = "/fr/publications/2015-07-01-penser-la-nouvelle-fabrique-des-politiques-publiques/"
+
+[[redirects]]
+from = "/rencontre-avec-les-innovation-teams-americaines-canadiennes-et-israeliennes-a-los-angeles/index.html"
+to = "/fr/publications/2017-11-08-rencontre-avec-les-innovation-teams-americaines-canadiennes-et-israeliennes-a-los-angeles/"
+
+[[redirects]]
+from = "/fr/publications/ressource/livrable/index.html"
+to = "/fr/publications/livrables/"
+
+[[redirects]]
+from = "/cas-pratiques/la-transfo-bourgogne/index.html"
+to = "/fr/publications/2011-06-01-la-transfo-bourgogne/"
+
+[[redirects]]
+from = "/retour-sur-lexperience-dip-un-an-a-la-decouverte-des-demarches-de-co-conception-des-politiques-publiques-avec-les-usagers-citoyens/index.html"
+to = "/fr/publications/2015-11-24-retour-sur-lexperience-dip-un-an-a-la-decouverte-des-demarches-de-co-conception-des-politiques-publi/"
+
+[[redirects]]
+from = "/en/team/index.html"
+to = "/en/individuals/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-07-24-kafka-depoussiere-les-administrations-hollandaises/index.html"
+to = "/fr/publications/2009-07-24-kafka-depoussiere-les-administrations-hollandaises/"
+
+[[redirects]]
+from = "/visite-a-jersey-city/index.html"
+to = "/fr/publications/2017-07-05-visite-a-jersey-city/"
+
+[[redirects]]
+from = "/une-carte-mondiale-des-acteurs-du-design-des-politiques-publiques/index.html"
+to = "/fr/publications/2016-11-25-une-carte-mondiale-des-acteurs-du-design-des-politiques-publiques/"
+
+[[redirects]]
+from = "/fr/productions/publications/2021-03-02-les-conventions-citoyennes-locales-premiers-retours-dexperiences/index.html"
+to = "/fr/publications/2021-03-02-les-conventions-citoyennes-locales-premiers-retours-dexperiences/"
+
+[[redirects]]
+from = "/fr/projets/index.html"
+to = "/fr/programmes/"
+
+[[redirects]]
+from = "/quels-defis-pour-la-multifonctionnalite-des-forets/index.html"
+to = "/fr/publications/2023-03-30-quels-defis-pour-la-multifonctionnalite-des-forets/"
+
+[[redirects]]
+from = "/fr/actions/2024-tronc-commun/index.html"
+to = "/fr/programmes/2025-tronc-commun/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-02-23-rapport-dactivite-de-la-27e-region-en-2022-quinze-ans-deja/index.html"
+to = "/fr/publications/2023-02-23-rapport-dactivite-de-la-27e-region-en-2022-quinze-ans-deja/"
+
+[[redirects]]
+from = "/que-peut-faire-leurope-pour-booster-linnovation-publique/index.html"
+to = "/fr/publications/2013-12-19-que-peut-faire-leurope-pour-booster-linnovation-publique/"
+
+[[redirects]]
+from = "/en-preparant-trois-jours-a-los-angeles-pour-explorer-pratiques-et-visions-de-linnovation-urbaine/index.html"
+to = "/fr/publications/2018-03-12-en-preparant-trois-jours-a-los-angeles-pour-explorer-pratiques-et-visions-de-linnovation-urbaine/"
+
+[[redirects]]
+from = "/les-conventions-citoyennes-locales-premiers-retours-dexperiences/index.html"
+to = "/fr/publications/2021-03-02-les-conventions-citoyennes-locales-premiers-retours-dexperiences/"
+
+[[redirects]]
+from = "/nouveaux-concepts-de-decheterie-en-gironde/index.html"
+to = "/fr/publications/2015-12-18-nouveaux-concepts-de-decheterie-en-gironde/"
+
+[[redirects]]
+from = "/en/team/manon-leroy/index.html"
+to = "/en/individuals/manon-leroy/"
+
+[[redirects]]
+from = "/fr/productions/publications/2020-04-28-quels-avenirs-pour-le-design-des-politiques-publiques/index.html"
+to = "/fr/publications/2020-04-28-quels-avenirs-pour-le-design-des-politiques-publiques/"
+
+[[redirects]]
+from = "/works-50-le-retour-a-lemploi-booste-par-le-design/index.html"
+to = "/fr/publications/2009-07-17-works-50-le-retour-a-lemploi-booste-par-le-design/"
+
+[[redirects]]
+from = "/design-des-politiques-publiques-les-premisses-dune-nouvelle-culture-manageriale/index.html"
+to = "/fr/publications/2017-05-14-design-des-politiques-publiques-les-premisses-dune-nouvelle-culture-manageriale/"
+
+[[redirects]]
+from = "/fr/communaute/adherents/index.html"
+to = "/fr/communaute/adherents-partenaires/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-12-20-quand-la-place-devient-publique-rencontre-avec-joelle-zask/index.html"
+to = "/fr/publications/2018-12-20-quand-la-place-devient-publique-rencontre-avec-joelle-zask/"
+
+[[redirects]]
+from = "/fr/a-propos/index.html"
+to = "/fr/la-27e-region/"
+
+[[redirects]]
+from = "/fr/organisations/categories/organisation-adherente/ancien/index.html"
+to = "/fr/organisations/categories/organisation-adherente/ancienne-organisation-adherente/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-02-27-experimenter-dans-la-production-dun-espace-public-partage-et-apaise-les-exemples-de-mexico-et-medell/index.html"
+to = "/fr/publications/2018-02-27-experimenter-dans-la-production-dun-espace-public-partage-et-apaise-les-exemples-de-mexico-et-medell/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-09-06-retour-sur-residence-entre-dore-et-allier-une-mediatheque-sur-la-place-publique/index.html"
+to = "/fr/publications/2017-09-06-retour-sur-residence-entre-dore-et-allier-une-mediatheque-sur-la-place-publique/"
+
+[[redirects]]
+from = "/cas-pratiques/la-transfo-strasbourg/index.html"
+to = "/fr/publications/2019-01-01-la-transfo-strasbourg/"
+
+[[redirects]]
+from = "/et-si-on-lancait-des-reseaux-dechanges-reciproques-de-savoirs/index.html"
+to = "/fr/publications/2012-04-07-et-si-on-lancait-des-reseaux-dechanges-reciproques-de-savoirs/"
+
+[[redirects]]
+from = "/two-days-in-paris-with-sarah/index.html"
+to = "/fr/publications/2013-08-29-two-days-in-paris-with-sarah/"
+
+[[redirects]]
+from = "/fr/productions/publications/2024-10-29-pour-une-vision-strategique-de-lia-dans-les-collectivites/index.html"
+to = "/fr/publications/2024-10-29-pour-une-vision-strategique-de-lia-dans-les-collectivites/"
+
+[[redirects]]
+from = "/quest-ce-que-le-courant-evidence-based-dans-les-politiques-publiques-12/index.html"
+to = "/fr/publications/2016-10-11-quest-ce-que-le-courant-evidence-based-dans-les-politiques-publiques-12/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-01-17-de-nouveaux-residents-pour-la-27e-region/index.html"
+to = "/fr/publications/2009-01-17-de-nouveaux-residents-pour-la-27e-region/"
+
+[[redirects]]
+from = "/cas-pratiques/la-transfo-paca/index.html"
+to = "/fr/publications/2012-02-02-la-transfo-provence-alpes-cote-dazur/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-09-20-la-petite-histoire-des-minima-sociaux-par-le-prisme-du-rsa/index.html"
+to = "/fr/publications/2023-09-20-la-petite-histoire-des-minima-sociaux-par-le-prisme-du-rsa/"
+
+[[redirects]]
+from = "/quelles-perspectives-pour-les-appels-a-projets-dexperimentation-et-dinnovation/index.html"
+to = "/fr/publications/2024-11-06-quelles-perspectives-pour-les-appels-a-projets-dexperimentation-et-dinnovation/"
+
+[[redirects]]
+from = "/retour-de-biennale/index.html"
+to = "/fr/publications/2010-11-30-retour-de-biennale/"
+
+[[redirects]]
+from = "/nouvelles-mesures/index.html"
+to = "/fr/programmes/2024-nouvelles-mesures/"
+
+[[redirects]]
+from = "/fr/productions/publications/2021-05-20-juristes-embarques-20-explorations-juridiques-pour-lepanouissement-des-communs/index.html"
+to = "/fr/publications/2021-05-20-juristes-embarques-20-explorations-juridiques-pour-lepanouissement-des-communs/"
+
+[[redirects]]
+from = "/fr/publications/2011-03-18-cartographie-des-projets-issus-des-residences/index.html"
+to = "/fr/publications/2011-03-23-cartographie-des-projets-issus-des-residences/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-12-19-2019-annee-de-la-formation-pour-la-27e-region/index.html"
+to = "/fr/publications/2018-12-19-2019-annee-de-la-formation-pour-la-27e-region/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-07-12-regarder-les-enjeux-de-justice-sociale-avec-les-lunettes-du-feminisme/index.html"
+to = "/fr/publications/2023-07-12-regarder-les-enjeux-de-justice-sociale-avec-les-lunettes-du-feminisme/"
+
+[[redirects]]
+from = "/une-boussole-pour-comprendre-les-mecanismes-de-lerosion-democratique/index.html"
+to = "/fr/publications/2025-10-20-une-boussole-pour-comprendre-les-mecanismes-de-lerosion-democratique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2010-10-03-du-social-a-la-co-conception-des-politiques-sociales/index.html"
+to = "/fr/publications/2010-10-03-du-social-a-la-co-conception-des-politiques-sociales/"
+
+[[redirects]]
+from = "/peut-on-faire-du-neuf-en-matiere-de-prospective-territoriale/index.html"
+to = "/fr/publications/2009-04-28-peut-on-faire-du-neuf-en-matiere-de-prospective-territoriale/"
+
+[[redirects]]
+from = "/quand-il-y-a-du-mou-dans-la-maitrise-dusage/index.html"
+to = "/fr/publications/2020-02-23-quand-il-y-a-du-mou-dans-la-maitrise-dusage/"
+
+[[redirects]]
+from = "/fr/productions/publications/2014-06-01-labs-for-system-change-des-labos-qui-veulent-changer-le-systeme-partie-1/index.html"
+to = "/fr/publications/2014-06-01-labs-for-system-change-des-labos-qui-veulent-changer-le-systeme-partie-1/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-06-24-8093/index.html"
+to = "/fr/publications/2009-06-24-8093/"
+
+[[redirects]]
+from = "/cas-pratiques/les-nouveaux-usages-de-la-mediatheque/index.html"
+to = "/fr/publications/2025-10-07-les-nouveaux-usages-de-la-mediatheque/"
+
+[[redirects]]
+from = "/8202/index.html"
+to = "/fr/publications/2009-02-08-8202/"
+
+[[redirects]]
+from = "/danser-avec-les-paradigmes-au-rythme-de-lindsay-cole/index.html"
+to = "/fr/publications/2023-07-12-danser-avec-les-paradigmes-au-rythme-de-lindsay-cole/"
+
+[[redirects]]
+from = "/assistive-civitech-au-service-dune-meilleure-repartition-des-logements-sociaux/index.html"
+to = "/fr/publications/2016-10-18-assistive-civitech-au-service-dune-meilleure-repartition-des-logements-sociaux/"
+
+[[redirects]]
+from = "/fr/publications/2000-10-04-la-transfo-provence-alpes-cote-dazur/index.html"
+to = "/fr/publications/2012-02-02-la-transfo-provence-alpes-cote-dazur/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-11-25-morceaux-choisis-de-la-semaine-de-linnovation-publique-2016/index.html"
+to = "/fr/publications/2016-11-25-morceaux-choisis-de-la-semaine-de-linnovation-publique-2016/"
+
+[[redirects]]
+from = "/innovation-sociale-etat-de-lart-et-themes-de-recherche/index.html"
+to = "/fr/publications/2017-06-30-innovation-sociale-etat-de-lart-et-themes-de-recherche/"
+
+[[redirects]]
+from = "/devenire-terriens-le-grand-troc-des-savoirs/index.html"
+to = "/fr/publications/2015-11-25-devenire-terriens-le-grand-troc-des-savoirs/"
+
+[[redirects]]
+from = "/fr/equipe/categories/association/apprentie/index.html"
+to = "/fr/collectif/categories/apprentie/"
+
+[[redirects]]
+from = "/les-super-heros-de-la-vraie-vie-une-nouvelle-forme-dengagement-citoyen/index.html"
+to = "/fr/publications/2010-11-22-les-super-heros-de-la-vraie-vie-une-nouvelle-forme-dengagement-citoyen/"
+
+[[redirects]]
+from = "/fr/productions/publications/2012-03-28-la-veilleuse-naissance-et-maturation-dun-concept/index.html"
+to = "/fr/publications/2012-03-28-la-veilleuse-naissance-et-maturation-dun-concept/"
+
+[[redirects]]
+from = "/fr/productions/publications/type/article/index.html"
+to = "/fr/publications/actualites/"
+
+[[redirects]]
+from = "/audrey-tang-qui-es-tu-12/index.html"
+to = "/fr/publications/2016-03-16-audrey-tang-qui-es-tu-12/"
+
+[[redirects]]
+from = "/fr/productions/publications/2013-03-08-debate-writing/index.html"
+to = "/fr/publications/2013-03-08-debate-writing/"
+
+[[redirects]]
+from = "/retour-sur-la-2eme-semaine-de-linnovation-publique/index.html"
+to = "/fr/publications/2015-10-28-retour-sur-la-2eme-semaine-de-linnovation-publique/"
+
+[[redirects]]
+from = "/rapport-dactivite-et-portfolio-2009/index.html"
+to = "/fr/publications/2009-11-21-rapport-dactivite-et-portfolio-2009/"
+
+[[redirects]]
+from = "/faire-communaute-une-vitrine-commune-pour-nos-projets/index.html"
+to = "/fr/publications/2016-03-29-faire-communaute-une-vitrine-commune-pour-nos-projets/"
+
+[[redirects]]
+from = "/en/team/chloe-rotrou/index.html"
+to = "/en/individuals/chloe-rotrou/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-05-02-la-27e-region-sexpose-a-son-comite-dorientation/index.html"
+to = "/fr/publications/2009-05-02-la-27e-region-sexpose-a-son-comite-dorientation/"
+
+[[redirects]]
+from = "/edip-nouvelle-plateforme-pour-booster-linnovation-par-le-design-en-europe/index.html"
+to = "/fr/publications/2013-12-19-edip-nouvelle-plateforme-pour-booster-linnovation-par-le-design-en-europe/"
+
+[[redirects]]
+from = "/les-aventuriers-une-immersion-a-la-source-de-linnovation-dans-les-administrations-francaises/index.html"
+to = "/fr/publications/2016-11-25-les-aventuriers-une-immersion-a-la-source-de-linnovation-dans-les-administrations-francaises/"
+
+[[redirects]]
+from = "/fr/productions/publications/2024-12-04-en-colo-au-pays-de-la-systemique-3-3/index.html"
+to = "/fr/publications/2024-12-04-en-colo-au-pays-de-la-systemique-3-3/"
+
+[[redirects]]
+from = "/cas-pratiques/la-transfo-mulhouse/index.html"
+to = "/fr/publications/2018-02-04-la-transfo-mulhouse/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-07-01-assemblee-generale-de-la-27e-region-vers-une-nouvelle-gouvernance/index.html"
+to = "/fr/publications/2016-07-01-assemblee-generale-de-la-27e-region-vers-une-nouvelle-gouvernance/"
+
+[[redirects]]
+from = "/fr/productions/publications/2010-06-07-que-faire-de-lexperimentation-sociale/index.html"
+to = "/fr/publications/2010-06-07-que-faire-de-lexperimentation-sociale/"
+
+[[redirects]]
+from = "/fr/programmes/2026-modele-de-page-programme-2/index.html"
+to = "/fr/programmes/2026-frap/"
+
+[[redirects]]
+from = "/innovation-par-mission-mission-impossible/index.html"
+to = "/fr/publications/2024-12-12-innovation-par-mission-mission-impossible/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-10-03-nouvelles-mesures-la-longue-route-vers-lexperimentation/index.html"
+to = "/fr/publications/2023-10-03-nouvelles-mesures-la-longue-route-vers-lexperimentation/"
+
+[[redirects]]
+from = "/labs-for-system-change-une-nouvelle-etape-pour-les-labos-dinnovation-publique/index.html"
+to = "/fr/publications/2014-06-01-labs-for-system-change-une-nouvelle-etape-pour-les-labos-dinnovation-publique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-01-18-forever-dessiner-de-nouvelles-gouvernances-pour-les-forets/index.html"
+to = "/fr/publications/2023-01-18-forever-dessiner-de-nouvelles-gouvernances-pour-les-forets/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-09-20-des-labos-pour-reveiller-leurope/index.html"
+to = "/fr/publications/2016-09-20-des-labos-pour-reveiller-leurope/"
+
+[[redirects]]
+from = "/le-territoire-en-creation-permanente/index.html"
+to = "/fr/publications/2009-04-05-le-territoire-en-creation-permanente/"
+
+[[redirects]]
+from = "/fr/productions/publications/2020-09-28-on-ouvre-le-code-source-de-la-transfo/index.html"
+to = "/fr/publications/2020-09-28-on-ouvre-le-code-source-de-la-transfo/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-12-01-states-of-change-un-collectif-pour-construire-les-capacites-et-les-cultures-des-acteurs-publics-de-d/index.html"
+to = "/fr/publications/2017-12-01-states-of-change-un-collectif-pour-construire-les-capacites-et-les-cultures-des-acteurs-publics-de-d/"
+
+[[redirects]]
+from = "/fr/productions/publications/2024-11-21-mexico-entre-deux-mondes/index.html"
+to = "/fr/publications/2024-11-21-mexico-entre-deux-mondes/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-09-01-videocagette-des-videos-faites-maison-dans-ladministration/index.html"
+to = "/fr/publications/2016-09-01-videocagette-des-videos-faites-maison-dans-ladministration/"
+
+[[redirects]]
+from = "/speap-quand-les-arts-se-melent-de-politique/index.html"
+to = "/fr/publications/2017-06-26-speap-quand-les-arts-se-melent-de-politique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-01-09-design-prospectif-en-nord-pas-de-calais/index.html"
+to = "/fr/publications/2009-01-09-design-prospectif-en-nord-pas-de-calais/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-07-05-ah-zut-jai-rate-lag-de-la-27e-region/index.html"
+to = "/fr/publications/2017-07-05-ah-zut-jai-rate-lag-de-la-27e-region/"
+
+[[redirects]]
+from = "/le-limousin-ecologique-en-mode-creatif/index.html"
+to = "/fr/publications/2011-06-15-le-limousin-ecologique-en-mode-creatif/"
+
+[[redirects]]
+from = "/fr/productions/publications/2022-10-06-experenos-saison-2-retour-dexperience-sociologique/index.html"
+to = "/fr/publications/2022-10-06-experenos-saison-2-retour-dexperience-sociologique/"
+
+[[redirects]]
+from = "/cas-pratiques/sonar-1-sous-la-surface-de-linnovation-publique/index.html"
+to = "/fr/programmes/2017-sonar-sous-la-surface-de-linnovation-publique-2017-2018/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-01-07-henrik-w-bendix-repenser-lhopital/index.html"
+to = "/fr/publications/2009-01-07-henrik-w-bendix-repenser-lhopital/"
+
+[[redirects]]
+from = "/fr/productions/publications/2012-04-07-managers-publics-que-pensent-ils-du-design/index.html"
+to = "/fr/publications/2012-04-07-managers-publics-que-pensent-ils-du-design/"
+
+[[redirects]]
+from = "/fr/equipe/categories/equipe/apprentie/index.html"
+to = "/fr/collectif/categories/apprentie/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-03-17-capacites-publiques-renforcer-la-resilience-des-administrations/index.html"
+to = "/fr/publications/2023-03-17-capacites-publiques-renforcer-la-resilience-des-administrations/"
+
+[[redirects]]
+from = "/agenda/archives/index.html"
+to = "/fr/agenda/archives/"
+
+[[redirects]]
+from = "/reflexes-publics-six-pistes-prospectives-pour-batir-les-capacites-publiques-post-covid/index.html"
+to = "/fr/publications/2020-09-21-reflexes-publics-six-pistes-prospectives-pour-batir-les-capacites-publiques-post-covid/"
+
+[[redirects]]
+from = "/quelle-theorie-de-transformation-pour-la-27e-region/index.html"
+to = "/fr/publications/2021-12-14-quelle-theorie-de-transformation-pour-la-27e-region/"
+
+[[redirects]]
+from = "/fr/productions/publications/2012-11-07-lecosse-du-design/index.html"
+to = "/fr/publications/2012-11-07-lecosse-du-design/"
+
+[[redirects]]
+from = "/fr/programmes/2020-deformations/index.html"
+to = "/fr/programmes/2020-de-formations-pour-elus-en-transition/"
+
+[[redirects]]
+from = "/fr/productions/publications/2008-06-21-innover-dans-laccueil-des-nouveaux-habitants/index.html"
+to = "/fr/publications/2008-06-21-innover-dans-laccueil-des-nouveaux-habitants/"
+
+[[redirects]]
+from = "/fr/productions/publications/2012-10-17-comment-faire-entrer-lesprit-hacker-dans-ladministration/index.html"
+to = "/fr/publications/2012-10-17-comment-faire-entrer-lesprit-hacker-dans-ladministration/"
+
+[[redirects]]
+from = "/si-les-acteurs-publics-ne-partagent-pas-qui-va-le-faire/index.html"
+to = "/fr/publications/2015-12-17-si-les-acteurs-publics-ne-partagent-pas-qui-va-le-faire/"
+
+[[redirects]]
+from = "/transfo/index.html"
+to = "/fr/programmes/2011-la-transfo/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-11-03-ce-que-le-design-peut-apporter-a-la-planification-territoriale/index.html"
+to = "/fr/publications/2017-11-03-ce-que-le-design-peut-apporter-a-la-planification-territoriale/"
+
+[[redirects]]
+from = "/rapport-dactivite-de-la-27e-region-en-2019/index.html"
+to = "/fr/publications/2020-04-19-rapport-dactivite-de-la-27e-region-en-2019/"
+
+[[redirects]]
+from = "/fr/international/index.html"
+to = "/fr/la-27e-region/international/"
+
+[[redirects]]
+from = "/la-27e-region-rapport-dactivite-2010/index.html"
+to = "/fr/publications/2011-02-03-la-27e-region-rapport-dactivite-2010/"
+
+[[redirects]]
+from = "/fr/a-propos/design-de-politiques-publiques/index.html"
+to = "/fr/demarche/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-07-05-visite-a-jersey-city/index.html"
+to = "/fr/publications/2017-07-05-visite-a-jersey-city/"
+
+[[redirects]]
+from = "/et-lag-de-la-27e-region-cetait-comment/index.html"
+to = "/fr/publications/2018-09-10-et-lag-de-la-27e-region-cetait-comment/"
+
+[[redirects]]
+from = "/fr/organisations/categories/organisation-adherente/ancien-partenaire/index.html"
+to = "/fr/organisations/categories/partenaire/ancien-partenaire/"
+
+[[redirects]]
+from = "/fr/organisations/categories/organisation-adherente/adherent/index.html"
+to = "/fr/organisations/categories/organisation-adherente/"
+
+[[redirects]]
+from = "/can-innovation-happen-in-the-public-sector-english-and-french-version/index.html"
+to = "/fr/publications/2012-05-22-can-innovation-happen-in-the-public-sector-english-and-french-version/"
+
+[[redirects]]
+from = "/retour-sur-la-2e-semaine-de-linnovation-publique-episode-2/index.html"
+to = "/fr/publications/2015-12-02-retour-sur-la-2e-semaine-de-linnovation-publique-episode-2/"
+
+[[redirects]]
+from = "/fr/productions/publications/2021-10-26-mois-de-linnovation-publique-2021-du-1-au-30-novembre-notre-selection/index.html"
+to = "/fr/publications/2021-10-26-mois-de-linnovation-publique-2021-du-1-au-30-novembre-notre-selection/"
+
+[[redirects]]
+from = "/manu-bodinier-en-quete-de-justice-sociale/index.html"
+to = "/fr/publications/2015-04-08-manu-bodinier-en-quete-de-justice-sociale/"
+
+[[redirects]]
+from = "/mise-en-commun-de-laction-publique-faut-il-hacker-le-droit/index.html"
+to = "/fr/publications/2019-08-27-mise-en-commun-de-laction-publique-faut-il-hacker-le-droit/"
+
+[[redirects]]
+from = "/les-fondations-territoriales-du-developpement-du-mecenat-local-au-financement-de-communs-territoriaux/index.html"
+to = "/fr/publications/2022-05-11-les-fondations-territoriales-du-developpement-du-mecenat-local-au-financement-de-communs-territoriau/"
+
+[[redirects]]
+from = "/audrey-tang-fork-the-government-22/index.html"
+to = "/fr/publications/2016-03-16-audrey-tang-fork-the-government-22/"
+
+[[redirects]]
+from = "/fr/productions/publications/2013-05-07-deux-nouveaux-rapports-sur-le-design-des-politiques-publiques/index.html"
+to = "/fr/publications/2013-05-07-deux-nouveaux-rapports-sur-le-design-des-politiques-publiques/"
+
+[[redirects]]
+from = "/la-recherche-et-la-27e-region-nouveau-cap/index.html"
+to = "/fr/publications/2025-04-10-la-recherche-et-la-27e-region-nouveau-cap/"
+
+[[redirects]]
+from = "/27e-region-rapport-dactivite-2008/index.html"
+to = "/fr/publications/2008-12-22-27e-region-rapport-dactivite-2008/"
+
+[[redirects]]
+from = "/fr/productions/publications/2021-09-15-tester-des-pistes-prospectives-pour-renforcer-la-resilience-des-organisations-et-des-territoires/index.html"
+to = "/fr/publications/2021-09-15-tester-des-pistes-prospectives-pour-renforcer-la-resilience-des-organisations-et-des-territoires/"
+
+[[redirects]]
+from = "/fr/productions/publications/2024-03-07-designers-dans-le-secteur-public-en-2024-a-la-croisee-des-chemins/index.html"
+to = "/fr/publications/2024-03-07-designers-dans-le-secteur-public-en-2024-a-la-croisee-des-chemins/"
+
+[[redirects]]
+from = "/managers-publics-que-pensent-ils-du-design/index.html"
+to = "/fr/publications/2012-04-07-managers-publics-que-pensent-ils-du-design/"
+
+[[redirects]]
+from = "/deploiement-changement-dechelle-essaimage-un-nouveau-champ-experimental-dans-linnovation-publique/index.html"
+to = "/fr/publications/2016-03-07-deploiement-changement-dechelle-essaimage-un-nouveau-champ-experimental-dans-linnovation-publique/"
+
+[[redirects]]
+from = "/cas-pratiques/le-campus-ouvert/index.html"
+to = "/fr/publications/2025-10-08-le-campus-ouvert/"
+
+[[redirects]]
+from = "/il-y-aura-lage-des-villes-moyennes/index.html"
+to = "/fr/publications/2018-12-10-il-y-aura-lage-des-villes-moyennes/"
+
+[[redirects]]
+from = "/hong-kong-a-perfect-place-for-a-labs-conversation-2/index.html"
+to = "/fr/publications/2019-03-21-hong-kong-a-perfect-place-for-a-labs-conversation-2/"
+
+[[redirects]]
+from = "/fr/productions/publications/2020-10-15-9270/index.html"
+to = "/fr/publications/2020-10-15-9270/"
+
+[[redirects]]
+from = "/fr/programmes/2024-tronc-commun/index.html"
+to = "/fr/programmes/2025-tronc-commun/"
+
+[[redirects]]
+from = "/nous-recrutons-une-directeurtrice-administratifve-et-financiere-cdd-de-6-mois/index.html"
+to = "/fr/publications/2017-10-12-nous-recrutons-une-directeurtrice-administratifve-et-financiere-cdd-de-6-mois/"
+
+[[redirects]]
+from = "/fr/actions/index.html"
+to = "/fr/programmes/"
+
+[[redirects]]
+from = "/la-deformation-a-la-27e-region-on-fait-ecole/index.html"
+to = "/fr/publications/2025-06-18-la-deformation-a-la-27e-region-on-fait-ecole/"
+
+[[redirects]]
+from = "/fr/publications/2025-10-04-la-transfo-champagne-ardennes/index.html"
+to = "/fr/publications/2011-05-04-la-transfo-champagne-ardennes/"
+
+[[redirects]]
+from = "/et-vous-avec-la-police-ca-va-premiere-approche-dune-sociologie-de-la-securite/index.html"
+to = "/fr/publications/2019-06-04-et-vous-avec-la-police-ca-va-premiere-approche-dune-sociologie-de-la-securite/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-09-21-desorganisons-nos-organisations-faut-il-liberer-nos-administrations/index.html"
+to = "/fr/publications/2018-09-21-desorganisons-nos-organisations-faut-il-liberer-nos-administrations/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-04-05-le-territoire-en-creation-permanente/index.html"
+to = "/fr/publications/2009-04-05-le-territoire-en-creation-permanente/"
+
+[[redirects]]
+from = "/fr/productions/publications/2008-12-22-27e-region-rapport-dactivite-2008/index.html"
+to = "/fr/publications/2008-12-22-27e-region-rapport-dactivite-2008/"
+
+[[redirects]]
+from = "/fr/equipe/chloe-rotrou/index.html"
+to = "/fr/collectif/chloe-rotrou/"
+
+[[redirects]]
+from = "/narino-en-colombie-linnovation-civique-et-sociale-au-service-de-la-paix/index.html"
+to = "/fr/publications/2017-05-30-narino-en-colombie-linnovation-civique-et-sociale-au-service-de-la-paix/"
+
+[[redirects]]
+from = "/quelle-justice-environnementale-par-50-retours-sur-3-jours-de-voyage-apprenant-a-barcelone/index.html"
+to = "/fr/publications/2025-11-18-quelle-justice-environnementale-par-50-retours-sur-3-jours-de-voyage-apprenant-a-barcelone/"
+
+[[redirects]]
+from = "/fr/adherents/index.html"
+to = "/fr/communaute/adherents-partenaires/"
+
+[[redirects]]
+from = "/transformation-publique-et-transition-3-terrains-a-explorer/index.html"
+to = "/fr/publications/2020-06-22-transformation-publique-et-transition-3-terrains-a-explorer/"
+
+[[redirects]]
+from = "/cas-pratiques/la-gare-rurale-de-demain/index.html"
+to = "/fr/publications/2025-10-08-la-gare-rurale-de-demain/"
+
+[[redirects]]
+from = "/rapport-dactivite-de-la-27e-region-en-2025/index.html"
+to = "/fr/publications/2026-02-25-rapport-dactivite-de-la-27e-region-en-2025/"
+
+[[redirects]]
+from = "/agenda/index.html"
+to = "/fr/agenda/"
+
+[[redirects]]
+from = "/premier-conseil-orientation/index.html"
+to = "/fr/publications/2008-05-20-premier-conseil-orientation/"
+
+[[redirects]]
+from = "/cas-pratiques/la-transfo-occitanie/index.html"
+to = "/fr/publications/2018-01-01-la-transfo-occitanie/"
+
+[[redirects]]
+from = "/fr/productions/publications/2019-03-17-deployer-linnovation-la-tactique-des-megotiers-23/index.html"
+to = "/fr/publications/2019-03-17-deployer-linnovation-la-tactique-des-megotiers-23/"
+
+[[redirects]]
+from = "/fr/productions/publications/2014-01-29-le-design-suedois-version-politiques-publiques/index.html"
+to = "/fr/publications/2014-01-29-le-design-suedois-version-politiques-publiques/"
+
+[[redirects]]
+from = "/les-chercheurs-et-laction-retours-sur-une-matinee-dechanges/index.html"
+to = "/fr/publications/2016-12-20-les-chercheurs-et-laction-retours-sur-une-matinee-dechanges/"
+
+[[redirects]]
+from = "/fr/productions/publications/2013-05-21-le-dessous-des-labs/index.html"
+to = "/fr/publications/2013-05-21-le-dessous-des-labs/"
+
+[[redirects]]
+from = "/fr/productions/programmes/etat/termine/index.html"
+to = "/fr/programmes/etat/termine/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-03-31-non-le-design-de-politiques-publiques-nest-pas-du-design-de-services-comme-les-autres/index.html"
+to = "/fr/publications/2017-03-31-non-le-design-de-politiques-publiques-nest-pas-du-design-de-services-comme-les-autres/"
+
+[[redirects]]
+from = "/9-lieux-createurs-de-communs/index.html"
+to = "/fr/publications/2021-03-23-9-lieux-createurs-de-communs/"
+
+[[redirects]]
+from = "/cas-pratiques/lhopital-metropole/index.html"
+to = "/fr/publications/2025-10-06-l-hopital-metropole/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-10-13-les-departements-pionniers-des-demarches-dinnovation-publique/index.html"
+to = "/fr/publications/2017-10-13-les-departements-pionniers-des-demarches-dinnovation-publique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2012-11-21-charles-leadbeater-comment-passer-linnovation-a-lechelle/index.html"
+to = "/fr/publications/2012-11-21-charles-leadbeater-comment-passer-linnovation-a-lechelle/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-11-25-les-climate-games-jouer-pour-agir-jouer-pour-apprendre/index.html"
+to = "/fr/publications/2015-11-25-les-climate-games-jouer-pour-agir-jouer-pour-apprendre/"
+
+[[redirects]]
+from = "/action-publique-en-commun-elaborer-de-nouvelles-alliances-entre-administration-et-citoyens/index.html"
+to = "/fr/publications/2020-02-06-action-publique-en-commun-elaborer-de-nouvelles-alliances-entre-administration-et-citoyens/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-12-20-les-chercheurs-et-laction-retours-sur-une-matinee-dechanges/index.html"
+to = "/fr/publications/2016-12-20-les-chercheurs-et-laction-retours-sur-une-matinee-dechanges/"
+
+[[redirects]]
+from = "/fr/productions/publications/2012-07-18-rio20-et-apres-les-agenda-21-de-demain/index.html"
+to = "/fr/publications/2012-07-18-rio20-et-apres-les-agenda-21-de-demain/"
+
+[[redirects]]
+from = "/en/projects/stage/a-venir/index.html"
+to = "/en/projects/stage/coming-soon/"
+
+[[redirects]]
+from = "/assemblee-generale-de-la-27e-region-vers-une-nouvelle-gouvernance/index.html"
+to = "/fr/publications/2016-07-01-assemblee-generale-de-la-27e-region-vers-une-nouvelle-gouvernance/"
+
+[[redirects]]
+from = "/fr/publications/ressource/outil/index.html"
+to = "/fr/publications/outils/"
+
+[[redirects]]
+from = "/bureau-ephemere-dactivation-urbaine-b-e-a-u-des-rez-de-chaussee-actives-pour-des-rues-vivantes/index.html"
+to = "/fr/publications/2013-05-18-bureau-ephemere-dactivation-urbaine-b-e-a-u-des-rez-de-chaussee-actives-pour-des-rues-vivantes/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-04-20-linnovation-sociale-dans-les-villes/index.html"
+to = "/fr/publications/2015-04-20-linnovation-sociale-dans-les-villes/"
+
+[[redirects]]
+from = "/en/team/anne-tavernier/index.html"
+to = "/en/individuals/anne-tavernier/"
+
+[[redirects]]
+from = "/comment-porter-des-theories-de-changement-plus-radicales-dans-le-secteur-de-linnovation-publique/index.html"
+to = "/fr/publications/2024-04-16-comment-porter-des-theories-de-changement-plus-radicales-dans-le-secteur-de-linnovation-publique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2013-06-07-joanne-mcneill-from-sydney-to-chalons-en-champagne/index.html"
+to = "/fr/publications/2013-06-07-joanne-mcneill-from-sydney-to-chalons-en-champagne/"
+
+[[redirects]]
+from = "/9270/index.html"
+to = "/fr/publications/2020-10-15-9270/"
+
+[[redirects]]
+from = "/ce-que-le-design-peut-apporter-a-la-planification-territoriale/index.html"
+to = "/fr/publications/2017-11-03-ce-que-le-design-peut-apporter-a-la-planification-territoriale/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-04-09-linnovation-est-un-jeu-tactique/index.html"
+to = "/fr/publications/2015-04-09-linnovation-est-un-jeu-tactique/"
+
+[[redirects]]
+from = "/les-delaisses-de-laction-publique-2/index.html"
+to = "/fr/publications/2018-11-05-les-delaisses-de-laction-publique-2/"
+
+[[redirects]]
+from = "/fr/publications/2025-09-29-les-eclaireurs-1-levaluation-engagee-3/index.html"
+to = "/fr/publications/2025-09-29-les-eclaireurs-3-les-schemas-damenagement-ouverts/"
+
+[[redirects]]
+from = "/social-innovation-exchange-a-lisbonne-sortir-de-la-crise-par-linnovation-sociale/index.html"
+to = "/fr/publications/2009-07-24-social-innovation-exchange-a-lisbonne-sortir-de-la-crise-par-linnovation-sociale/"
+
+[[redirects]]
+from = "/relocalisation-au-service-de-la-transition-quels-leviers/index.html"
+to = "/fr/publications/2020-12-16-relocalisation-au-service-de-la-transition-quels-leviers/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-04-08-manu-bodinier-en-quete-de-justice-sociale/index.html"
+to = "/fr/publications/2015-04-08-manu-bodinier-en-quete-de-justice-sociale/"
+
+[[redirects]]
+from = "/cas-pratiques/rennes-vers-une-citoyennete-augmentee/index.html"
+to = "/fr/publications/2025-10-08-vers-une-citoyennete-augmentee/"
+
+[[redirects]]
+from = "/bon-sejour-penser-le-bien-etre-dans-les-services-hospitaliers/index.html"
+to = "/fr/publications/2014-12-18-bon-sejour-penser-le-bien-etre-dans-les-services-hospitaliers/"
+
+[[redirects]]
+from = "/charles-leadbeater-comment-passer-linnovation-a-lechelle/index.html"
+to = "/fr/publications/2012-11-21-charles-leadbeater-comment-passer-linnovation-a-lechelle/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-11-26-la-27e-region-orientations-et-feuille-de-route-2016/index.html"
+to = "/fr/publications/2015-11-26-la-27e-region-orientations-et-feuille-de-route-2016/"
+
+[[redirects]]
+from = "/fr/productions/publications/2024-10-17-en-colo-au-pays-de-la-systemique-1-3/index.html"
+to = "/fr/publications/2024-10-17-en-colo-au-pays-de-la-systemique-1-3/"
+
+[[redirects]]
+from = "/contributeurs/index.html"
+to = "/fr/communaute/professionnels/"
+
+[[redirects]]
+from = "/quels-recits-et-quels-imaginaires-pour-la-transformation-publique/index.html"
+to = "/fr/publications/2020-02-20-quels-recits-et-quels-imaginaires-pour-la-transformation-publique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2008-10-16-conference-et-rencontre-avec-ezio-manzini/index.html"
+to = "/fr/publications/2008-10-16-conference-et-rencontre-avec-ezio-manzini/"
+
+[[redirects]]
+from = "/lab-builders-why-how-and-some-thinking-about-the-next-generation-of-labs-programmes/index.html"
+to = "/fr/publications/2016-06-20-lab-builders-why-how-and-some-thinking-about-the-next-generation-of-labs-programmes/"
+
+[[redirects]]
+from = "/videocagette-des-videos-faites-maison-dans-ladministration/index.html"
+to = "/fr/publications/2016-09-01-videocagette-des-videos-faites-maison-dans-ladministration/"
+
+[[redirects]]
+from = "/fr/productions/publications/2008-09-24-ma-collectivite-en-2030/index.html"
+to = "/fr/publications/2008-09-24-ma-collectivite-en-2030/"
+
+[[redirects]]
+from = "/renforcer-lecosysteme-local-un-levier-complementaire-au-service-du-developpement/index.html"
+to = "/fr/publications/2023-03-21-renforcer-lecosysteme-local-un-levier-complementaire-au-service-du-developpement/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-04-16-a-re-ecouter-stephane-vincent-sur-france-culture/index.html"
+to = "/fr/publications/2016-04-16-a-re-ecouter-stephane-vincent-sur-france-culture/"
+
+[[redirects]]
+from = "/fr/a-propos/le-design-de-politiques-publiques/index.html"
+to = "/fr/demarche/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/index.html"
+to = "/fr/equipe-editoriale/"
+
+[[redirects]]
+from = "/fr/productions/publications/2011-06-07-romain-thevenet-design-de-services-tu-perds-ton-sang-froid/index.html"
+to = "/fr/publications/2011-06-07-romain-thevenet-design-de-services-tu-perds-ton-sang-froid/"
+
+[[redirects]]
+from = "/exploitation-des-donnees-personnelles-quelles-formes-de-regulation/index.html"
+to = "/fr/publications/2018-07-03-exploitation-des-donnees-personnelles-quelles-formes-de-regulation/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-05-31-les-detectives-de-linnovation-publique-urbaine/index.html"
+to = "/fr/publications/2017-05-31-les-detectives-de-linnovation-publique-urbaine/"
+
+[[redirects]]
+from = "/the-strange-life-of-lab/index.html"
+to = "/fr/publications/2015-07-17-the-strange-life-of-lab/"
+
+[[redirects]]
+from = "/place-to-b-ouvre-reformule-les-challenges-environnementaux/index.html"
+to = "/fr/publications/2015-11-25-place-to-b-ouvre-reformule-les-challenges-environnementaux/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-11-15-cedric-mauduit-disparu-lors-de-lattentat-au-bataclan/index.html"
+to = "/fr/publications/2015-11-15-cedric-mauduit-disparu-lors-de-lattentat-au-bataclan/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-02-01-la-suede-pays-dinnovation-publique-et-sociale/index.html"
+to = "/fr/publications/2018-02-01-la-suede-pays-dinnovation-publique-et-sociale/"
+
+[[redirects]]
+from = "/darwinisme-administratif-en-situation-dincertitude/index.html"
+to = "/fr/publications/2019-10-09-darwinisme-administratif-en-situation-dincertitude/"
+
+[[redirects]]
+from = "/fr/productions/publications/2019-01-03-la-transfo-transformer-le-travail-des-agents-pour-faire-evoluer-laction-publique/index.html"
+to = "/fr/publications/2019-01-03-la-transfo-transformer-le-travail-des-agents-pour-faire-evoluer-laction-publique/"
+
+[[redirects]]
+from = "/les-labonautes/index.html"
+to = "/fr/programmes/2023-les-labonautes/"
+
+[[redirects]]
+from = "/les-labos-dinnovation-publique-vus-de-lunion-europeenne/index.html"
+to = "/fr/publications/2015-12-15-les-labos-dinnovation-publique-vus-de-lunion-europeenne/"
+
+[[redirects]]
+from = "/justice-environnementale-penser-la-transition-dans-une-societe-inegalitaire/index.html"
+to = "/fr/publications/2024-09-03-justice-environnementale-penser-la-transition-dans-une-societe-inegalitaire/"
+
+[[redirects]]
+from = "/fr/productions/publications/2014-12-18-bon-sejour-penser-le-bien-etre-dans-les-services-hospitaliers/index.html"
+to = "/fr/publications/2014-12-18-bon-sejour-penser-le-bien-etre-dans-les-services-hospitaliers/"
+
+[[redirects]]
+from = "/il-etait-une-fois-la-petite-histoire-des-grandes-politiques-publiques/index.html"
+to = "/fr/publications/2022-07-12-il-etait-une-fois-la-petite-histoire-des-grandes-politiques-publiques/"
+
+[[redirects]]
+from = "/10-ans-et-apres-regards-croises-entre-design-et-sociologie/index.html"
+to = "/fr/publications/2018-10-30-10-ans-et-apres-regards-croises-entre-design-et-sociologie/"
+
+[[redirects]]
+from = "/les-lieux-communs/index.html"
+to = "/fr/programmes/2023-lieux-communs/"
+
+[[redirects]]
+from = "/cooperatives-d-habitat-un-modele-en-commun-pour-repenser-le-logement-social/index.html"
+to = "/fr/publications/2020-06-25-cooperatives-d-habitat-un-modele-en-commun-pour-repenser-le-logement-social/"
+
+[[redirects]]
+from = "/fr/publications/2025-10-23-cartographie-des-projets-issus-des-residences/index.html"
+to = "/fr/publications/2011-03-23-cartographie-des-projets-issus-des-residences/"
+
+[[redirects]]
+from = "/reflexes-publics-appremieres-prises-des-controverses-et-des-terrains-denquete/index.html"
+to = "/fr/publications/2020-05-28-reflexes-publics-appremieres-prises-des-controverses-et-des-terrains-denquete/"
+
+[[redirects]]
+from = "/fr/productions/publications/2011-11-19-tunisie-apres-la-revolution-la-re-conception/index.html"
+to = "/fr/publications/2011-11-19-tunisie-apres-la-revolution-la-re-conception/"
+
+[[redirects]]
+from = "/fr/equipe/jean-laudouar/index.html"
+to = "/fr/collectif/jean-laudouar/"
+
+[[redirects]]
+from = "/fr/productions/publications/2021-04-08-le-contrat-de-ville-dapres/index.html"
+to = "/fr/publications/2021-04-08-le-contrat-de-ville-dapres/"
+
+[[redirects]]
+from = "/christian-bason-impulser-le-design-social-ce-que-cela-implique/index.html"
+to = "/fr/publications/2012-01-08-christian-bason-impulser-le-design-social-ce-que-cela-implique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2014-06-01-labs-for-system-change-une-nouvelle-etape-pour-les-labos-dinnovation-publique/index.html"
+to = "/fr/publications/2014-06-01-labs-for-system-change-une-nouvelle-etape-pour-les-labos-dinnovation-publique/"
+
+[[redirects]]
+from = "/fr/equipe/julie-follereau/index.html"
+to = "/fr/collectif/julie-follereau/"
+
+[[redirects]]
+from = "/8093/index.html"
+to = "/fr/publications/2009-06-24-8093/"
+
+[[redirects]]
+from = "/fr/productions/publications/2025-01-16-de-nouvelles-alliances-pour-revigorer-linnovation-publique-la-recherche-et-les-sciences-sociales-1/index.html"
+to = "/fr/publications/2025-01-16-de-nouvelles-alliances-pour-revigorer-linnovation-publique-la-recherche-et-les-sciences-sociales-1/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-06-20-lab-builders-why-how-and-some-thinking-about-the-next-generation-of-labs-programmes/index.html"
+to = "/fr/publications/2016-06-20-lab-builders-why-how-and-some-thinking-about-the-next-generation-of-labs-programmes/"
+
+[[redirects]]
+from = "/fr/collectif/categories/association/equipe/index.html"
+to = "/fr/collectif/categories/equipe/"
+
+[[redirects]]
+from = "/prospective/index.html"
+to = "/fr/programmes/2019-les-eclaireurs/"
+
+[[redirects]]
+from = "/la-transfo-the-visible-impacts-of-a-learning-by-doing-innovation-program/index.html"
+to = "/fr/publications/2018-12-22-la-transfo-the-visible-impacts-of-a-learning-by-doing-innovation-program/"
+
+[[redirects]]
+from = "/petite-retrospective-10-ans-de-design-de-laction-publique-en-territoire-lillois/index.html"
+to = "/fr/publications/2018-03-11-petite-retrospective-10-ans-de-design-de-laction-publique-en-territoire-lillois/"
+
+[[redirects]]
+from = "/vers-des-ecosystemes-de-rd-publique-et-sociale/index.html"
+to = "/fr/publications/2021-07-06-vers-des-ecosystemes-de-rd-publique-et-sociale/"
+
+[[redirects]]
+from = "/states-of-change-un-collectif-pour-construire-les-capacites-et-les-cultures-des-acteurs-publics-de-demain/index.html"
+to = "/fr/publications/2017-12-01-states-of-change-un-collectif-pour-construire-les-capacites-et-les-cultures-des-acteurs-publics-de-d/"
+
+[[redirects]]
+from = "/fr/publications/2025-10-04-la-transfo-mulhouse/index.html"
+to = "/fr/publications/2018-02-04-la-transfo-mulhouse/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-02-16-linnovation-dans-les-politiques-publiques-est-une-demarche-pas-un-but/index.html"
+to = "/fr/publications/2009-02-16-linnovation-dans-les-politiques-publiques-est-une-demarche-pas-un-but/"
+
+[[redirects]]
+from = "/que-peut-vraiment-lia-pour-laction-publique/index.html"
+to = "/fr/publications/2024-05-21-que-peut-vraiment-lia-pour-laction-publique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2021-07-06-vers-des-ecosystemes-de-rd-publique-et-sociale/index.html"
+to = "/fr/publications/2021-07-06-vers-des-ecosystemes-de-rd-publique-et-sociale/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-01-23-europe-et-innovation-sociale/index.html"
+to = "/fr/publications/2009-01-23-europe-et-innovation-sociale/"
+
+[[redirects]]
+from = "/fr/productions/publications/2012-11-23-la-27e-region-parmi-les-100-global-thinkers-2012/index.html"
+to = "/fr/publications/2012-11-23-la-27e-region-parmi-les-100-global-thinkers-2012/"
+
+[[redirects]]
+from = "/fr/productions/publications/2020-04-25-comment-faire-de-la-recherche-utilisateur-en-periode-confinement/index.html"
+to = "/fr/publications/2020-04-25-comment-faire-de-la-recherche-utilisateur-en-periode-confinement/"
+
+[[redirects]]
+from = "/2019-annee-de-la-formation-pour-la-27e-region/index.html"
+to = "/fr/publications/2018-12-19-2019-annee-de-la-formation-pour-la-27e-region/"
+
+[[redirects]]
+from = "/capacites-publiques-all-stars-les-retrouvailles/index.html"
+to = "/fr/publications/2025-01-16-capacites-publiques-all-stars-les-retrouvailles/"
+
+[[redirects]]
+from = "/fr/equipe/anne-tavernier/index.html"
+to = "/fr/collectif/anne-tavernier/"
+
+[[redirects]]
+from = "/transformer-nos-outils-de-mesure-pour-piloter-les-transitions/index.html"
+to = "/fr/publications/2020-11-03-transformer-nos-outils-de-mesure-pour-piloter-les-transitions/"
+
+[[redirects]]
+from = "/fr/a-propos/equipe/index.html"
+to = "/fr/la-27e-region/equipe/"
+
+[[redirects]]
+from = "/fr/productions/publications/2022-03-29-rapport-dactivite-de-la-27e-region-en-2021/index.html"
+to = "/fr/publications/2022-03-29-rapport-dactivite-de-la-27e-region-en-2021/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-10-18-et-dans-votre-collectivite-quelle-est-la-trajectoire-de-changement/index.html"
+to = "/fr/publications/2017-10-18-et-dans-votre-collectivite-quelle-est-la-trajectoire-de-changement/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-05-14-comment-superpublic-a-gagne-le-coeur-de-san-francisco/index.html"
+to = "/fr/publications/2016-05-14-comment-superpublic-a-gagne-le-coeur-de-san-francisco/"
+
+[[redirects]]
+from = "/fr/productions/publications/2020-05-11-34-techniques-pour-faire-de-la-recherche-de-terrain-pendant-et-apres-la-pandemie/index.html"
+to = "/fr/publications/2020-05-11-34-techniques-pour-faire-de-la-recherche-de-terrain-pendant-et-apres-la-pandemie/"
+
+[[redirects]]
+from = "/prenez-soin-de-vos-contribuables/index.html"
+to = "/fr/publications/2011-11-24-prenez-soin-de-vos-contribuables/"
+
+[[redirects]]
+from = "/quels-nouveaux-paradigmes-pour-le-developpement-economique-des-metropoles-francaises/index.html"
+to = "/fr/publications/2022-09-28-quels-nouveaux-paradigmes-pour-le-developpement-economique-des-metropoles-francaises-1/"
+
+[[redirects]]
+from = "/transformation-publique-et-transitions-quel-role-pour-les-labos-dinnovation/index.html"
+to = "/fr/publications/2019-11-25-transformation-publique-et-transitions-quel-role-pour-les-labos-dinnovation/"
+
+[[redirects]]
+from = "/fr/productions/publications/2008-12-09-le-labo-des-regions-avance-ses-premieres-propositions-sur-lemploi-et-la-formation/index.html"
+to = "/fr/publications/2008-12-09-le-labo-des-regions-avance-ses-premieres-propositions-sur-lemploi-et-la-formation/"
+
+[[redirects]]
+from = "/cas-pratiques/pionsat-vers-la-creation-dune-maison-de-sante/index.html"
+to = "/fr/publications/2025-10-08-vers-la-creation-d-une-maison-de-sante/"
+
+[[redirects]]
+from = "/design-des-usages-usages-du-design-quelles-opportunites-quels-usages/index.html"
+to = "/fr/publications/2017-03-28-design-des-usages-usages-du-design-quelles-opportunites-quels-usages/"
+
+[[redirects]]
+from = "/en/team/jean-laudouar/index.html"
+to = "/en/individuals/jean-laudouar/"
+
+[[redirects]]
+from = "/fr/equipe/equipe-editoriale/index.html"
+to = "/fr/equipe-editoriale/"
+
+[[redirects]]
+from = "/fr/productions/publications/2024-06-18-ag-de-la-27e-region-le-calme-avant-la-tempete/index.html"
+to = "/fr/publications/2024-06-18-ag-de-la-27e-region-le-calme-avant-la-tempete/"
+
+[[redirects]]
+from = "/en/projects/etat/index.html"
+to = "/en/projects/stage/"
+
+[[redirects]]
+from = "/fr/productions/programmes/etat/index.html"
+to = "/fr/programmes/etat/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-12-01-comment-changer-le-systeme/index.html"
+to = "/fr/publications/2009-12-01-comment-changer-le-systeme/"
+
+[[redirects]]
+from = "/fr/equipe/categories/reseau/index.html"
+to = "/fr/collectif/categories/professionnel/"
+
+[[redirects]]
+from = "/fr/equipe/sylvine-bois-choussy/index.html"
+to = "/fr/collectif/sylvine-bois-choussy/"
+
+[[redirects]]
+from = "/fr/publications/2025-10-04-la-transfo-lille/index.html"
+to = "/fr/publications/2018-02-02-la-transfo-lille/"
+
+[[redirects]]
+from = "/deformations/index.html"
+to = "/fr/programmes/2020-de-formations-pour-elus-en-transition/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-07-01-think-the-new-factory-of-public-policies/index.html"
+to = "/fr/publications/2015-07-01-think-the-new-factory-of-public-policies/"
+
+[[redirects]]
+from = "/fr/productions/publications/2019-05-21-mutualiser-linnovation-publique-a-lechelle-territoriale-le-prochain-grand-defi/index.html"
+to = "/fr/publications/2019-05-21-mutualiser-linnovation-publique-a-lechelle-territoriale-le-prochain-grand-defi/"
+
+[[redirects]]
+from = "/quand-la-ville-de-besancon-reussit-a-rendre-laudit-sexy/index.html"
+to = "/fr/publications/2013-09-28-quand-la-ville-de-besancon-reussit-a-rendre-laudit-sexy/"
+
+[[redirects]]
+from = "/nouveaux-accords/index.html"
+to = "/fr/programmes/2024-nouveaux-accords/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-05-15-la-transfo-premier-retour-sur-experience/index.html"
+to = "/fr/publications/2017-05-15-la-transfo-premier-retour-sur-experience/"
+
+[[redirects]]
+from = "/tester-des-pistes-prospectives-pour-renforcer-la-resilience-des-organisations-et-des-territoires/index.html"
+to = "/fr/publications/2021-09-15-tester-des-pistes-prospectives-pour-renforcer-la-resilience-des-organisations-et-des-territoires/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-12-06-nantes-metropole-innove-dans-le-champ-de-la-participation-citoyenne/index.html"
+to = "/fr/publications/2016-12-06-nantes-metropole-innove-dans-le-champ-de-la-participation-citoyenne/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-08-08-atelier-decriture-ladministration-post-apocalyptique/index.html"
+to = "/fr/publications/2015-08-08-atelier-decriture-ladministration-post-apocalyptique/"
+
+[[redirects]]
+from = "/cas-pratiques/achats-durables/index.html"
+to = "/fr/publications/2025-10-07-achats-durables/"
+
+[[redirects]]
+from = "/fr/organisations/categories/adherent/index.html"
+to = "/fr/organisations/categories/organisation-adherente/"
+
+[[redirects]]
+from = "/fr/productions/publications/2025-01-16-capacites-publiques-all-stars-les-retrouvailles/index.html"
+to = "/fr/publications/2025-01-16-capacites-publiques-all-stars-les-retrouvailles/"
+
+[[redirects]]
+from = "/cas-pratiques/gares-bzh/index.html"
+to = "/fr/publications/2025-10-06-gares-bzh/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-10-19-labos-dinnovation-publique-a-quoi-ressemble-la-prochaine-etape/index.html"
+to = "/fr/publications/2017-10-19-labos-dinnovation-publique-a-quoi-ressemble-la-prochaine-etape/"
+
+[[redirects]]
+from = "/la-democratie-locale-a-lepreuve-des-communs/index.html"
+to = "/fr/publications/2015-10-26-la-democratie-locale-a-lepreuve-des-communs/"
+
+[[redirects]]
+from = "/fr/productions/publications/2025-04-10-la-recherche-et-la-27e-region-nouveau-cap/index.html"
+to = "/fr/publications/2025-04-10-la-recherche-et-la-27e-region-nouveau-cap/"
+
+[[redirects]]
+from = "/fr/equipe/manon-leroy/index.html"
+to = "/fr/collectif/manon-leroy/"
+
+[[redirects]]
+from = "/ma-collectivite-en-2030/index.html"
+to = "/fr/publications/2008-09-24-ma-collectivite-en-2030/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-11-10-quelle-place-pour-lusager-dans-la-conception-du-bati-public-une-conference-sur-laccompagnement-a-la/index.html"
+to = "/fr/publications/2016-11-10-quelle-place-pour-lusager-dans-la-conception-du-bati-public-une-conference-sur-laccompagnement-a-la/"
+
+[[redirects]]
+from = "/innovation-publique-et-si-on-depliait-levaluation/index.html"
+to = "/fr/publications/2024-07-17-innovation-publique-et-si-on-depliait-levaluation/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-12-21-de-la-boite-a-idees-au-programme-dintrapreneuriat-ou-en-est-on-de-linnovation-participative-dans-les/index.html"
+to = "/fr/publications/2018-12-21-de-la-boite-a-idees-au-programme-dintrapreneuriat-ou-en-est-on-de-linnovation-participative-dans-les/"
+
+[[redirects]]
+from = "/notre-selection-darticles-pour-la-semaine-de-linnovation-publique/index.html"
+to = "/fr/publications/2016-11-15-notre-selection-darticles-pour-la-semaine-de-linnovation-publique/"
+
+[[redirects]]
+from = "/une-plongee-au-coeur-damsterdam-deux-mois-dexploration-sur-la-creativite-urbaine-et-linnovation-civique/index.html"
+to = "/fr/publications/2018-05-31-une-plongee-au-coeur-damsterdam-deux-mois-dexploration-sur-la-creativite-urbaine-et-linnovation-civi/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-02-09-mixite-sociale-mieux-quun-decret-des-pratiques/index.html"
+to = "/fr/publications/2015-02-09-mixite-sociale-mieux-quun-decret-des-pratiques/"
+
+[[redirects]]
+from = "/comment-faire-entrer-lesprit-hacker-dans-ladministration/index.html"
+to = "/fr/publications/2012-10-17-comment-faire-entrer-lesprit-hacker-dans-ladministration/"
+
+[[redirects]]
+from = "/fr/organisations/categories/partenaire-de-programme/index.html"
+to = "/fr/organisations/categories/partenaire/"
+
+[[redirects]]
+from = "/la-transfo-transformer-le-travail-des-agents-pour-faire-evoluer-laction-publique/index.html"
+to = "/fr/publications/2019-01-03-la-transfo-transformer-le-travail-des-agents-pour-faire-evoluer-laction-publique/"
+
+[[redirects]]
+from = "/quelle-place-pour-lusager-dans-la-conception-du-bati-public-une-conference-sur-laccompagnement-a-la-maitrise-dusage/index.html"
+to = "/fr/publications/2016-11-10-quelle-place-pour-lusager-dans-la-conception-du-bati-public-une-conference-sur-laccompagnement-a-la/"
+
+[[redirects]]
+from = "/fr/productions/publications/2024-07-17-innovation-publique-et-si-on-depliait-levaluation/index.html"
+to = "/fr/publications/2024-07-17-innovation-publique-et-si-on-depliait-levaluation/"
+
+[[redirects]]
+from = "/forever-dessiner-de-nouvelles-gouvernances-pour-les-forets/index.html"
+to = "/fr/publications/2023-01-18-forever-dessiner-de-nouvelles-gouvernances-pour-les-forets/"
+
+[[redirects]]
+from = "/lopen-data-a-10-ans-comment-en-faire-la-norme-plutot-que-lexception/index.html"
+to = "/fr/publications/2018-01-10-lopen-data-a-10-ans-comment-en-faire-la-norme-plutot-que-lexception/"
+
+[[redirects]]
+from = "/et-dans-votre-collectivite-quelle-est-la-trajectoire-de-changement/index.html"
+to = "/fr/publications/2017-10-18-et-dans-votre-collectivite-quelle-est-la-trajectoire-de-changement/"
+
+[[redirects]]
+from = "/fr/productions/programmes/etat/a-venir/index.html"
+to = "/fr/programmes/etat/a-venir/"
+
+[[redirects]]
+from = "/cas-pratiques/les-eclaireurs-5-lachat-public-strategique/index.html"
+to = "/fr/publications/2025-09-30-les-eclaireurs-5-lachat-public-strategique/"
+
+[[redirects]]
+from = "/comment-aider-les-laboratoires-dinnovation-publique-a-passer-la-vitesse-superieure-2-3/index.html"
+to = "/fr/publications/2021-05-07-comment-aider-les-laboratoires-dinnovation-publique-a-passer-la-vitesse-superieure-2-3/"
+
+[[redirects]]
+from = "/approche-design-et-approche-systemique-duel-ou-duo/index.html"
+to = "/fr/publications/2017-08-30-approche-design-et-approche-systemique-duel-ou-duo/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-06-30-innovation-sociale-etat-de-lart-et-themes-de-recherche/index.html"
+to = "/fr/publications/2017-06-30-innovation-sociale-etat-de-lart-et-themes-de-recherche/"
+
+[[redirects]]
+from = "/onze-conseils-pour-une-permaculture-des-laboratoires-dinnovation-publique/index.html"
+to = "/fr/publications/2022-06-17-onze-conseils-pour-une-permaculture-des-laboratoires-dinnovation-publique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-03-16-les-gares-terrains-fertiles-pour-linnovation-sociale/index.html"
+to = "/fr/publications/2017-03-16-les-gares-terrains-fertiles-pour-linnovation-sociale/"
+
+[[redirects]]
+from = "/fr/productions/publications/2010-11-30-retour-de-biennale/index.html"
+to = "/fr/publications/2010-11-30-retour-de-biennale/"
+
+[[redirects]]
+from = "/sobriete-ouvrir-lespace-de-la-decision-publique/index.html"
+to = "/fr/publications/2023-12-12-sobriete-ouvrir-lespace-de-la-decision-publique/"
+
+[[redirects]]
+from = "/en/team/categories/equipe/index.html"
+to = "/en/individuals/categories/equipe/"
+
+[[redirects]]
+from = "/fr/collectif/categories/reseau/index.html"
+to = "/fr/collectif/categories/professionnel/"
+
+[[redirects]]
+from = "/regarder-les-enjeux-de-justice-sociale-avec-les-lunettes-du-feminisme/index.html"
+to = "/fr/publications/2023-07-12-regarder-les-enjeux-de-justice-sociale-avec-les-lunettes-du-feminisme/"
+
+[[redirects]]
+from = "/fr/productions/publications/2008-05-20-premier-conseil-orientation/index.html"
+to = "/fr/publications/2008-05-20-premier-conseil-orientation/"
+
+[[redirects]]
+from = "/capacitation-toi-meme-enquete-collective-sur-un-pouvoir-dagir-a-la-nantaise/index.html"
+to = "/fr/publications/2021-03-25-capacitation-toi-meme-enquete-collective-sur-un-pouvoir-dagir-a-la-nantaise/"
+
+[[redirects]]
+from = "/cas-pratiques/le-forum-des-villages-du-futur/index.html"
+to = "/fr/publications/2011-06-01-le-forum-des-villages-du-futur/"
+
+[[redirects]]
+from = "/le-theatre-des-negociations-ou-comment-reverinventer-la-cop-21/index.html"
+to = "/fr/publications/2015-11-25-le-theatre-des-negociations-ou-comment-reverinventer-la-cop-21/"
+
+[[redirects]]
+from = "/fr/productions/publications/2008-05-24-demos-enfant-terrible-de-linnovation-sociale/index.html"
+to = "/fr/publications/2008-05-24-demos-enfant-terrible-de-linnovation-sociale/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-07-17-la-drole-de-vie-des-labs/index.html"
+to = "/fr/publications/2015-07-17-la-drole-de-vie-des-labs/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-06-09-charles-leadbeater-la-montee-dune-nouvelle-normalite/index.html"
+to = "/fr/publications/2015-06-09-charles-leadbeater-la-montee-dune-nouvelle-normalite/"
+
+[[redirects]]
+from = "/comment-changer-le-systeme/index.html"
+to = "/fr/publications/2009-12-01-comment-changer-le-systeme/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-07-24-social-innovation-exchange-a-lisbonne-sortir-de-la-crise-par-linnovation-sociale/index.html"
+to = "/fr/publications/2009-07-24-social-innovation-exchange-a-lisbonne-sortir-de-la-crise-par-linnovation-sociale/"
+
+[[redirects]]
+from = "/sonar-un-outil-pour-depasser-linjonction-a-linnovation/index.html"
+to = "/fr/publications/2018-04-06-sonar-un-outil-pour-depasser-linjonction-a-linnovation/"
+
+[[redirects]]
+from = "/ah-zut-jai-rate-lag-de-la-27e-region/index.html"
+to = "/fr/publications/2017-07-05-ah-zut-jai-rate-lag-de-la-27e-region/"
+
+[[redirects]]
+from = "/charles-leadbeater-la-montee-dune-nouvelle-normalite/index.html"
+to = "/fr/publications/2015-06-09-charles-leadbeater-la-montee-dune-nouvelle-normalite/"
+
+[[redirects]]
+from = "/design-thinking-au-dela-des-derives-une-opportunite-a-saisir/index.html"
+to = "/fr/publications/2016-09-12-design-thinking-au-dela-des-derives-une-opportunite-a-saisir/"
+
+[[redirects]]
+from = "/cas-pratiques/la-transfo-champagne-ardenne/index.html"
+to = "/fr/publications/2011-05-04-la-transfo-champagne-ardennes/"
+
+[[redirects]]
+from = "/fr/productions/publications/2013-02-28-marylise-lebranchu-du-design-a-la-reforme-de-letat/index.html"
+to = "/fr/publications/2013-02-28-marylise-lebranchu-du-design-a-la-reforme-de-letat/"
+
+[[redirects]]
+from = "/celebrer-la-fing/index.html"
+to = "/fr/publications/2022-05-02-celebrer-la-fing/"
+
+[[redirects]]
+from = "/fr/productions/publications/2012-05-22-can-innovation-happen-in-the-public-sector-english-and-french-version/index.html"
+to = "/fr/publications/2012-05-22-can-innovation-happen-in-the-public-sector-english-and-french-version/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-10-27-peut-on-repenser-les-politiques-europeennes-en-re-partant-de-leurs-usages/index.html"
+to = "/fr/publications/2016-10-27-peut-on-repenser-les-politiques-europeennes-en-re-partant-de-leurs-usages/"
+
+[[redirects]]
+from = "/la-doua-une-ville-universite/index.html"
+to = "/fr/publications/2009-07-11-la-doua-une-ville-universite/"
+
+[[redirects]]
+from = "/une-rencontre-avec-louise-pulford-directrice-du-social-innovation-exchange/index.html"
+to = "/fr/publications/2017-12-08-une-rencontre-avec-louise-pulford-directrice-du-social-innovation-exchange/"
+
+[[redirects]]
+from = "/les-labs-des-batmobiles-sur-la-route-perilleuse-de-la-transformation/index.html"
+to = "/fr/publications/2017-10-19-les-labs-des-batmobiles-sur-la-route-perilleuse-de-la-transformation/"
+
+[[redirects]]
+from = "/deux-nouveaux-rapports-sur-le-design-des-politiques-publiques/index.html"
+to = "/fr/publications/2013-05-07-deux-nouveaux-rapports-sur-le-design-des-politiques-publiques/"
+
+[[redirects]]
+from = "/rencontre-avec-dominic-campbell-co-fondateur-de-futuregov/index.html"
+to = "/fr/publications/2015-04-20-rencontre-avec-dominic-campbell-co-fondateur-de-futuregov/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-02-17-des-donnees-publiques-libres/index.html"
+to = "/fr/publications/2016-02-17-des-donnees-publiques-libres/"
+
+[[redirects]]
+from = "/les-climate-games-jouer-pour-agir-jouer-pour-apprendre/index.html"
+to = "/fr/publications/2015-11-25-les-climate-games-jouer-pour-agir-jouer-pour-apprendre/"
+
+[[redirects]]
+from = "/geoff-mulgan-les-designers-sont-ils-forcement-de-bons-innovateurs-sociaux/index.html"
+to = "/fr/publications/2009-01-07-geoff-mulgan-les-designers-sont-ils-forcement-de-bons-innovateurs-sociaux/"
+
+[[redirects]]
+from = "/i-teams/index.html"
+to = "/fr/publications/2017-07-11-i-teams/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-07-12-danser-avec-les-paradigmes-au-rythme-de-lindsay-cole/index.html"
+to = "/fr/publications/2023-07-12-danser-avec-les-paradigmes-au-rythme-de-lindsay-cole/"
+
+[[redirects]]
+from = "/laide-au-developpement-un-nouvel-objet-de-transformation-publique-pour-la-27e-region/index.html"
+to = "/fr/publications/2023-01-26-laide-au-developpement-un-nouvel-objet-de-transformation-publique-pour-la-27e-region/"
+
+[[redirects]]
+from = "/design-et-politiques-publiques-a-saint-etienne/index.html"
+to = "/fr/publications/2008-11-29-design-et-politiques-publiques-a-saint-etienne/"
+
+[[redirects]]
+from = "/linnovation-sociale-dans-les-villes/index.html"
+to = "/fr/publications/2015-04-20-linnovation-sociale-dans-les-villes/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-04-28-des-labos-dinnovation-pour-les-nouvelles-grandes-regions/index.html"
+to = "/fr/publications/2015-04-28-des-labos-dinnovation-pour-les-nouvelles-grandes-regions/"
+
+[[redirects]]
+from = "/quand-ladministration-fait-bifurquer-ses-agent-e-s/index.html"
+to = "/fr/publications/2024-04-08-quand-ladministration-fait-bifurquer-ses-agent-e-s/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-11-25-une-carte-mondiale-des-acteurs-du-design-des-politiques-publiques/index.html"
+to = "/fr/publications/2016-11-25-une-carte-mondiale-des-acteurs-du-design-des-politiques-publiques/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-12-18-nouveaux-concepts-de-decheterie-en-gironde/index.html"
+to = "/fr/publications/2015-12-18-nouveaux-concepts-de-decheterie-en-gironde/"
+
+[[redirects]]
+from = "/rencontre-patients-partenaires/index.html"
+to = "/fr/publications/2015-05-22-rencontre-patients-partenaires/"
+
+[[redirects]]
+from = "/fr/collectif/categories/association/equipe/apprentie/index.html"
+to = "/fr/collectif/categories/apprentie/"
+
+[[redirects]]
+from = "/fr/productions/publications/2011-02-07-anne-et-eric-pezet-que-faire-du-management/index.html"
+to = "/fr/publications/2011-02-07-anne-et-eric-pezet-que-faire-du-management/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-04-15-ateliers-de-simplification-de-la-rentree-scolaire/index.html"
+to = "/fr/publications/2015-04-15-ateliers-de-simplification-de-la-rentree-scolaire/"
+
+[[redirects]]
+from = "/joanne-mcneill-from-sydney-to-chalons-en-champagne/index.html"
+to = "/fr/publications/2013-06-07-joanne-mcneill-from-sydney-to-chalons-en-champagne/"
+
+[[redirects]]
+from = "/message-a-celles-et-ceux-qui-suivent-de-pres-la-27e-region/index.html"
+to = "/fr/publications/2020-05-13-message-a-celles-et-ceux-qui-suivent-de-pres-la-27e-region/"
+
+[[redirects]]
+from = "/en/productions/projects/index.html"
+to = "/en/projects/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-09-13-les-metropoles-en-mode-transformation-deuxieme-partie/index.html"
+to = "/fr/publications/2017-09-13-les-metropoles-en-mode-transformation-deuxieme-partie/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-04-25-la-27e-region-en-100-ressources/index.html"
+to = "/fr/publications/2018-04-25-la-27e-region-en-100-ressources/"
+
+[[redirects]]
+from = "/migrant-et-refugies-repenser-les-politiques-publiques/index.html"
+to = "/fr/publications/2017-05-10-migrant-et-refugies-repenser-les-politiques-publiques/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-02-07-dematerialiser-sans-deshumaniser/index.html"
+to = "/fr/publications/2023-02-07-dematerialiser-sans-deshumaniser/"
+
+[[redirects]]
+from = "/fr/productions/publications/2019-06-04-et-vous-avec-la-police-ca-va-premiere-approche-dune-sociologie-de-la-securite/index.html"
+to = "/fr/publications/2019-06-04-et-vous-avec-la-police-ca-va-premiere-approche-dune-sociologie-de-la-securite/"
+
+[[redirects]]
+from = "/fr/programmes/2019-rebonds/index.html"
+to = "/fr/programmes/2025-rebonds/"
+
+[[redirects]]
+from = "/fr/productions/publications/2011-09-13-public-design-a-copenhague/index.html"
+to = "/fr/publications/2011-09-13-public-design-a-copenhague/"
+
+[[redirects]]
+from = "/vous-avez-envie-dinnover-venez-a-los-angeles-notre-ville-na-que-des-defis/index.html"
+to = "/fr/publications/2018-11-22-vous-avez-envie-dinnover-venez-a-los-angeles-notre-ville-na-que-des-defis/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-06-05-pourquoi-evaluer-les-demarches-dinnovation-publique-par-le-design/index.html"
+to = "/fr/publications/2018-06-05-pourquoi-evaluer-les-demarches-dinnovation-publique-par-le-design/"
+
+[[redirects]]
+from = "/ce-que-la-science-fiction-nous-raconte-du-futur-des-administrations/index.html"
+to = "/fr/publications/2018-02-19-ce-que-la-science-fiction-nous-raconte-du-futur-des-administrations/"
+
+[[redirects]]
+from = "/fr/productions/publications/2011-06-12-la-27e-region-primee-aux-victoires-des-acteurs-publics-2011/index.html"
+to = "/fr/publications/2011-06-12-la-27e-region-primee-aux-victoires-des-acteurs-publics-2011/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-03-16-audrey-tang-fork-the-government-22/index.html"
+to = "/fr/publications/2016-03-16-audrey-tang-fork-the-government-22/"
+
+[[redirects]]
+from = "/linnovation-est-un-jeu-tactique/index.html"
+to = "/fr/publications/2015-04-09-linnovation-est-un-jeu-tactique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-12-21-cetait-la-fete-de-levaluation-a-nantes/index.html"
+to = "/fr/publications/2015-12-21-cetait-la-fete-de-levaluation-a-nantes/"
+
+[[redirects]]
+from = "/un-projet-de-residence-a-luniversite/index.html"
+to = "/fr/publications/2009-03-03-un-projet-de-residence-a-luniversite/"
+
+[[redirects]]
+from = "/mexico-entre-deux-mondes/index.html"
+to = "/fr/publications/2024-11-21-mexico-entre-deux-mondes/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-12-22-une-boite-a-outils-de-politique-publique-pour-sortir-du-dedale-contemporain/index.html"
+to = "/fr/publications/2016-12-22-une-boite-a-outils-de-politique-publique-pour-sortir-du-dedale-contemporain/"
+
+[[redirects]]
+from = "/le-collectif-le-bruit-du-frigo-a-la-cantine-le-3-mars-apres-midi/index.html"
+to = "/fr/publications/2009-02-17-le-collectif-le-bruit-du-frigo-a-la-cantine-le-3-mars-apres-midi/"
+
+[[redirects]]
+from = "/etudiants-en-design-et-secteur-public-quelles-passerelles-pour-les-jeunes-designers/index.html"
+to = "/fr/publications/2021-09-15-etudiants-en-design-et-secteur-public-quelles-passerelles-pour-les-jeunes-designers/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-11-25-devenire-terriens-le-grand-troc-des-savoirs/index.html"
+to = "/fr/publications/2015-11-25-devenire-terriens-le-grand-troc-des-savoirs/"
+
+[[redirects]]
+from = "/la-27e-region-sur-la-voie-des-communs/index.html"
+to = "/fr/publications/2016-05-02-la-27e-region-sur-la-voie-des-communs/"
+
+[[redirects]]
+from = "/fr/equipe/sylvine-bois-choussy/publications/index.html"
+to = "/fr/collectif/sylvine-bois-choussy/publications/"
+
+[[redirects]]
+from = "/demos-le-design-du-quotidien/index.html"
+to = "/fr/publications/2008-04-30-demos-le-design-du-quotidien/"
+
+[[redirects]]
+from = "/comment-aider-les-laboratoires-dinnovation-publique-a-passer-la-vitesse-superieure-3-3/index.html"
+to = "/fr/publications/2021-06-17-comment-aider-les-laboratoires-dinnovation-publique-a-passer-la-vitesse-superieure-3-3/"
+
+[[redirects]]
+from = "/deployer-linnovation-au-dela-de-la-tactique-la-valeur-percue-33/index.html"
+to = "/fr/publications/2019-09-11-deployer-linnovation-au-dela-de-la-tactique-la-valeur-percue-33/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-03-21-renforcer-lecosysteme-local-un-levier-complementaire-au-service-du-developpement/index.html"
+to = "/fr/publications/2023-03-21-renforcer-lecosysteme-local-un-levier-complementaire-au-service-du-developpement/"
+
+[[redirects]]
+from = "/fr/programmes/2025-modele-de-page-programme-1-1/index.html"
+to = "/fr/programmes/2025-justice-environnementale/"
+
+[[redirects]]
+from = "/cas-pratiques/9178-2/index.html"
+to = "/fr/publications/2016-01-01-la-transfo-paris/"
+
+[[redirects]]
+from = "/espaces-daccueil-espaces-dexperimentation/index.html"
+to = "/fr/publications/2016-04-27-espaces-daccueil-espaces-dexperimentation/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-05-04-mexico-megapole-creative-notes-de-voyage/index.html"
+to = "/fr/publications/2017-05-04-mexico-megapole-creative-notes-de-voyage/"
+
+[[redirects]]
+from = "/fr/productions/publications/2022-07-12-il-etait-une-fois-la-petite-histoire-des-grandes-politiques-publiques/index.html"
+to = "/fr/publications/2022-07-12-il-etait-une-fois-la-petite-histoire-des-grandes-politiques-publiques/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-10-26-la-democratie-locale-a-lepreuve-des-communs/index.html"
+to = "/fr/publications/2015-10-26-la-democratie-locale-a-lepreuve-des-communs/"
+
+[[redirects]]
+from = "/blog/index.html"
+to = "/fr/publications/"
+
+[[redirects]]
+from = "/technologie-et-prospective-territoriale/index.html"
+to = "/fr/publications/2008-11-19-technologie-et-prospective-territoriale/"
+
+[[redirects]]
+from = "/quand-les-citoyens-gerent-eux-meme-leur-budget-de-prestations-sociales/index.html"
+to = "/fr/publications/2009-06-09-quand-les-citoyens-gerent-eux-meme-leur-budget-de-prestations-sociales/"
+
+[[redirects]]
+from = "/fr/productions/publications/2013-08-29-two-days-in-paris-with-sarah/index.html"
+to = "/fr/publications/2013-08-29-two-days-in-paris-with-sarah/"
+
+[[redirects]]
+from = "/la-27e-region-sexpose-a-son-comite-dorientation/index.html"
+to = "/fr/publications/2009-05-02-la-27e-region-sexpose-a-son-comite-dorientation/"
+
+[[redirects]]
+from = "/fr/productions/publications/2024-11-26-en-colo-au-pays-de-la-systemique-2-3/index.html"
+to = "/fr/publications/2024-11-26-en-colo-au-pays-de-la-systemique-2-3/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-12-15-les-labos-dinnovation-publique-vus-de-lunion-europeenne/index.html"
+to = "/fr/publications/2015-12-15-les-labos-dinnovation-publique-vus-de-lunion-europeenne/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-03-11-petite-retrospective-10-ans-de-design-de-laction-publique-en-territoire-lillois/index.html"
+to = "/fr/publications/2018-03-11-petite-retrospective-10-ans-de-design-de-laction-publique-en-territoire-lillois/"
+
+[[redirects]]
+from = "/nouvelles-mesures-cest-presque-fini/index.html"
+to = "/fr/publications/2025-02-14-nouvelles-mesures-cest-presque-fini/"
+
+[[redirects]]
+from = "/lecosse-du-design/index.html"
+to = "/fr/publications/2012-11-07-lecosse-du-design/"
+
+[[redirects]]
+from = "/fr/productions/publications/2020-05-13-message-a-celles-et-ceux-qui-suivent-de-pres-la-27e-region/index.html"
+to = "/fr/publications/2020-05-13-message-a-celles-et-ceux-qui-suivent-de-pres-la-27e-region/"
+
+[[redirects]]
+from = "/le-community-wealth/index.html"
+to = "/fr/publications/2020-06-08-le-community-wealth/"
+
+[[redirects]]
+from = "/fr/productions/publications/outil/index.html"
+to = "/fr/publications/terrains/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-01-07-marjorie-jouen-changeons-de-cap/index.html"
+to = "/fr/publications/2009-01-07-marjorie-jouen-changeons-de-cap/"
+
+[[redirects]]
+from = "/fr/productions/publications/2012-02-05-le-design-des-concepts-politiques/index.html"
+to = "/fr/publications/2012-02-05-le-design-des-concepts-politiques/"
+
+[[redirects]]
+from = "/kafka-depoussiere-les-administrations-hollandaises/index.html"
+to = "/fr/publications/2009-07-24-kafka-depoussiere-les-administrations-hollandaises/"
+
+[[redirects]]
+from = "/fr/productions/publications/2013-09-28-quand-la-ville-de-besancon-reussit-a-rendre-laudit-sexy/index.html"
+to = "/fr/publications/2013-09-28-quand-la-ville-de-besancon-reussit-a-rendre-laudit-sexy/"
+
+[[redirects]]
+from = "/vers-un-nouveau-paradigme-de-cooperation-entre-recherche-et-collectivites-locales/index.html"
+to = "/fr/publications/2025-12-16-pre-enquete-ouvrir-la-boite-noire-des-cooperations-recherche-collectivites/"
+
+[[redirects]]
+from = "/le-labo-des-regions-avance-ses-premieres-propositions-sur-lemploi-et-la-formation/index.html"
+to = "/fr/publications/2008-12-09-le-labo-des-regions-avance-ses-premieres-propositions-sur-lemploi-et-la-formation/"
+
+[[redirects]]
+from = "/les-debats-autour-de-levidence-based-policymaking-22/index.html"
+to = "/fr/publications/2016-10-11-les-debats-autour-de-levidence-based-policymaking-22/"
+
+[[redirects]]
+from = "/fr/publications/2025-10-03-la-transfo-bourgogne/index.html"
+to = "/fr/publications/2011-06-01-la-transfo-bourgogne/"
+
+[[redirects]]
+from = "/fr/communaute-1/index.html"
+to = "/fr/communaute/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-01-07-geoff-mulgan-les-designers-sont-ils-forcement-de-bons-innovateurs-sociaux/index.html"
+to = "/fr/publications/2009-01-07-geoff-mulgan-les-designers-sont-ils-forcement-de-bons-innovateurs-sociaux/"
+
+[[redirects]]
+from = "/peut-on-innover-sans-aimer-cuisiner/index.html"
+to = "/fr/publications/2018-12-12-peut-on-innover-sans-aimer-cuisiner/"
+
+[[redirects]]
+from = "/nouvelles-formes-dinnovation-publique-quels-impacts/index.html"
+to = "/fr/publications/2019-04-09-nouvelles-formes-dinnovation-publique-quels-impacts/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-10-30-10-ans-et-apres-regards-croises-entre-design-et-sociologie/index.html"
+to = "/fr/publications/2018-10-30-10-ans-et-apres-regards-croises-entre-design-et-sociologie/"
+
+[[redirects]]
+from = "/citylab-a-amsterdam-les-villes-face-a-la-crise-permanente/index.html"
+to = "/fr/publications/2022-11-09-citylab-a-amsterdam-les-villes-face-a-la-crise-permanente/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-12-18-rapport-dactivite-de-la-27e-region-en-2017/index.html"
+to = "/fr/publications/2017-12-18-rapport-dactivite-de-la-27e-region-en-2017/"
+
+[[redirects]]
+from = "/fr/publications/2025-10-04-la-transfo-provence-alpes-cote-dazur/index.html"
+to = "/fr/publications/2012-02-02-la-transfo-provence-alpes-cote-dazur/"
+
+[[redirects]]
+from = "/cas-pratiques/patrimoine-gastronomique-et-circuits-courts-au-lycee/index.html"
+to = "/fr/publications/2025-10-08-patrimoine-gastronomique-et-circuits-courts-au-lycee/"
+
+[[redirects]]
+from = "/la-27e-region-parmi-les-100-global-thinkers-2012/index.html"
+to = "/fr/publications/2012-11-23-la-27e-region-parmi-les-100-global-thinkers-2012/"
+
+[[redirects]]
+from = "/fr/productions/publications/2024-11-06-quelles-perspectives-pour-les-appels-a-projets-dexperimentation-et-dinnovation/index.html"
+to = "/fr/publications/2024-11-06-quelles-perspectives-pour-les-appels-a-projets-dexperimentation-et-dinnovation/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-09-23-la-27e-region-a-besoin-de-ses-lecteurs/index.html"
+to = "/fr/publications/2015-09-23-la-27e-region-a-besoin-de-ses-lecteurs/"
+
+[[redirects]]
+from = "/la-crise-sanitaire-lemergence-de-nouvelles-pratiques-denquetes/index.html"
+to = "/fr/publications/2020-07-21-la-crise-sanitaire-lemergence-de-nouvelles-pratiques-denquetes/"
+
+[[redirects]]
+from = "/comment-mieux-travailler-avec-la-recherche-quand-on-est-une-collectivite/index.html"
+to = "/fr/publications/2024-11-17-comment-mieux-travailler-avec-la-recherche-quand-on-est-une-collectivite/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-12-17-si-les-acteurs-publics-ne-partagent-pas-qui-va-le-faire/index.html"
+to = "/fr/publications/2015-12-17-si-les-acteurs-publics-ne-partagent-pas-qui-va-le-faire/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-05-30-les-6-videos-de-ma-vie-de-chti-en-2040/index.html"
+to = "/fr/publications/2009-05-30-les-6-videos-de-ma-vie-de-chti-en-2040/"
+
+[[redirects]]
+from = "/fr/productions/publications/2013-09-07-design-des-politiques-publiques-ou-va-le-secteur/index.html"
+to = "/fr/publications/2013-09-07-design-des-politiques-publiques-ou-va-le-secteur/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-05-31-une-plongee-au-coeur-damsterdam-deux-mois-dexploration-sur-la-creativite-urbaine-et-linnovation-civi/index.html"
+to = "/fr/publications/2018-05-31-une-plongee-au-coeur-damsterdam-deux-mois-dexploration-sur-la-creativite-urbaine-et-linnovation-civi/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-12-18-lecons-jaunes-pour-la-transformation-publique/index.html"
+to = "/fr/publications/2018-12-18-lecons-jaunes-pour-la-transformation-publique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-10-30-10-ans-et-apres-la-27e-region-fera-t-elle-sa-crise-dado/index.html"
+to = "/fr/publications/2018-10-30-10-ans-et-apres-la-27e-region-fera-t-elle-sa-crise-dado/"
+
+[[redirects]]
+from = "/fr/productions/publications/2010-02-07-co-production-le-nesta-eclaircit-la-notion/index.html"
+to = "/fr/publications/2010-02-07-co-production-le-nesta-eclaircit-la-notion/"
+
+[[redirects]]
+from = "/fr/productions/publications/2019-10-09-darwinisme-administratif-en-situation-dincertitude/index.html"
+to = "/fr/publications/2019-10-09-darwinisme-administratif-en-situation-dincertitude/"
+
+[[redirects]]
+from = "/politique-de-confidentialite/index.html"
+to = "/fr/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/fr/equipe/manon-leroy/actualites/index.html"
+to = "/fr/collectif/manon-leroy/publications/"
+
+[[redirects]]
+from = "/fr/productions/publications/2011-02-03-la-27e-region-rapport-dactivite-2010/index.html"
+to = "/fr/publications/2011-02-03-la-27e-region-rapport-dactivite-2010/"
+
+[[redirects]]
+from = "/un-apres-midi-avec-le-bruit-du-frigo/index.html"
+to = "/fr/publications/2009-03-26-un-apres-midi-avec-le-bruit-du-frigo/"
+
+[[redirects]]
+from = "/la-27e-region-au-4eme-congres-des-regions-de-france/index.html"
+to = "/fr/publications/2008-12-09-la-27e-region-au-4eme-congres-des-regions-de-france/"
+
+[[redirects]]
+from = "/design-%e2%89%a0-design-thinking/index.html"
+to = "/fr/publications/2016-02-22-design-design-thinking/"
+
+[[redirects]]
+from = "/8189/index.html"
+to = "/fr/publications/2013-02-08-8189/"
+
+[[redirects]]
+from = "/witness-le-pays-des-nouveaux-imaginaires-economiques/index.html"
+to = "/fr/publications/2021-11-15-witness-le-pays-des-nouveaux-imaginaires-economiques/"
+
+[[redirects]]
+from = "/fr/productions/publications/2021-06-17-comment-aider-les-laboratoires-dinnovation-publique-a-passer-la-vitesse-superieure-3-3/index.html"
+to = "/fr/publications/2021-06-17-comment-aider-les-laboratoires-dinnovation-publique-a-passer-la-vitesse-superieure-3-3/"
+
+[[redirects]]
+from = "/fr/publications/2025-09-29-les-eclaireurs-1-levaluation-engagee-2/index.html"
+to = "/fr/publications/2025-09-29-les-eclaireurs-2-l-elu-inoffensif/"
+
+[[redirects]]
+from = "/fr/a-propos/international/index.html"
+to = "/fr/la-27e-region/international/"
+
+[[redirects]]
+from = "/fr/productions/publications/2008-07-17-faire-compagnie-un-projet-pour-sortir-de-lisolement-rural/index.html"
+to = "/fr/publications/2008-07-17-faire-compagnie-un-projet-pour-sortir-de-lisolement-rural/"
+
+[[redirects]]
+from = "/conference-et-rencontre-avec-ezio-manzini/index.html"
+to = "/fr/publications/2008-10-16-conference-et-rencontre-avec-ezio-manzini/"
+
+[[redirects]]
+from = "/en-novembre-la-france-fete-linnovation-publique/index.html"
+to = "/fr/publications/2014-10-10-en-novembre-la-france-fete-linnovation-publique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2021-12-14-quelle-theorie-de-transformation-pour-la-27e-region/index.html"
+to = "/fr/publications/2021-12-14-quelle-theorie-de-transformation-pour-la-27e-region/"
+
+[[redirects]]
+from = "/soyons-re%e2%80%a2acteurs/index.html"
+to = "/fr/publications/2014-06-24-soyons-re-acteurs/"
+
+[[redirects]]
+from = "/bimby-build-in-my-back-yard-renverser-les-termes-de-letalement-urbain/index.html"
+to = "/fr/publications/2012-09-18-bimby-build-in-my-back-yard-renverser-les-termes-de-letalement-urbain/"
+
+[[redirects]]
+from = "/designers-dans-le-secteur-public-en-2024-a-la-croisee-des-chemins/index.html"
+to = "/fr/publications/2024-03-07-designers-dans-le-secteur-public-en-2024-a-la-croisee-des-chemins/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-10-11-quest-ce-que-le-courant-evidence-based-dans-les-politiques-publiques-12/index.html"
+to = "/fr/publications/2016-10-11-quest-ce-que-le-courant-evidence-based-dans-les-politiques-publiques-12/"
+
+[[redirects]]
+from = "/fr/a-propos/association/index.html"
+to = "/fr/la-27e-region/fonctionnement/"
+
+[[redirects]]
+from = "/mixite-sociale-mieux-quun-decret-des-pratiques/index.html"
+to = "/fr/publications/2015-02-09-mixite-sociale-mieux-quun-decret-des-pratiques/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-06-09-in-situ-lab-comment-co-creer-des-services-publics/index.html"
+to = "/fr/publications/2015-06-09-in-situ-lab-comment-co-creer-des-services-publics/"
+
+[[redirects]]
+from = "/equipe/index.html"
+to = "/fr/collectif/"
+
+[[redirects]]
+from = "/fr/nous-soutenir/index.html"
+to = "/fr/adherer/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-12-12-peut-on-innover-sans-aimer-cuisiner/index.html"
+to = "/fr/publications/2018-12-12-peut-on-innover-sans-aimer-cuisiner/"
+
+[[redirects]]
+from = "/imaginer-ladministration-de-demain/index.html"
+to = "/fr/publications/2015-03-20-imaginer-ladministration-de-demain/"
+
+[[redirects]]
+from = "/citylab-2023-a-washington-dc-gouverner-la-complexite/index.html"
+to = "/fr/publications/2023-11-15-citylab-2023-a-washington-dc-gouverner-la-complexite/"
+
+[[redirects]]
+from = "/la-27e-region-recherche-un-stagiaire-en-design-fevrier-2019/index.html"
+to = "/fr/publications/2019-01-09-la-27e-region-recherche-un-stagiaire-en-design-fevrier-2019/"
+
+[[redirects]]
+from = "/fr/collectif/categories/association/ancienne-stagiaire/index.html"
+to = "/fr/collectif/categories/ancienne-stagiaire/"
+
+[[redirects]]
+from = "/fr/productions/publications/2025-03-31-rapport-dactivite-de-la-27eme-region-2024/index.html"
+to = "/fr/publications/2025-03-31-rapport-dactivite-de-la-27eme-region-2024/"
+
+[[redirects]]
+from = "/lancement-officiel-de-la-27e-region-le-14-mai-prochain/index.html"
+to = "/fr/publications/2008-05-04-lancement-officiel-de-la-27e-region-le-14-mai-prochain/"
+
+[[redirects]]
+from = "/en/projects/stage/termine/index.html"
+to = "/en/projects/stage/completed/"
+
+[[redirects]]
+from = "/rapport-dactivite-de-la-27e-region-en-2015/index.html"
+to = "/fr/publications/2015-12-20-rapport-dactivite-de-la-27e-region-en-2015/"
+
+[[redirects]]
+from = "/fr/productions/publications/2013-12-19-que-peut-faire-leurope-pour-booster-linnovation-publique/index.html"
+to = "/fr/publications/2013-12-19-que-peut-faire-leurope-pour-booster-linnovation-publique/"
+
+[[redirects]]
+from = "/la-transfo-premier-retour-sur-experience/index.html"
+to = "/fr/publications/2017-05-15-la-transfo-premier-retour-sur-experience/"
+
+[[redirects]]
+from = "/accessibilite/index.html"
+to = "/fr/accessibilite/"
+
+[[redirects]]
+from = "/quand-la-place-devient-publique-rencontre-avec-joelle-zask/index.html"
+to = "/fr/publications/2018-12-20-quand-la-place-devient-publique-rencontre-avec-joelle-zask/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-10-11-les-debats-autour-de-levidence-based-policymaking-22/index.html"
+to = "/fr/publications/2016-10-11-les-debats-autour-de-levidence-based-policymaking-22/"
+
+[[redirects]]
+from = "/un-an-apres-la-dissolution-continuer-a-cerner-dou-vient-le-danger/index.html"
+to = "/fr/publications/2025-06-13-un-an-apres-la-dissolution-continuer-a-cerner-dou-vient-le-danger/"
+
+[[redirects]]
+from = "/andrea-botero-gouverner-pair-a-pair/index.html"
+to = "/fr/publications/2011-07-07-andrea-botero-gouverner-pair-a-pair/"
+
+[[redirects]]
+from = "/des-labos-dinnovation-pour-les-nouvelles-grandes-regions/index.html"
+to = "/fr/publications/2015-04-28-des-labos-dinnovation-pour-les-nouvelles-grandes-regions/"
+
+[[redirects]]
+from = "/decider-en-regime-de-sobriete/index.html"
+to = "/fr/publications/2023-05-25-decider-en-regime-de-sobriete/"
+
+[[redirects]]
+from = "/fr/productions/publications/2020-12-16-relocalisation-au-service-de-la-transition-quels-leviers/index.html"
+to = "/fr/publications/2020-12-16-relocalisation-au-service-de-la-transition-quels-leviers/"
+
+[[redirects]]
+from = "/fr/a-propos/demarche/index.html"
+to = "/fr/demarche/"
+
+[[redirects]]
+from = "/fr/productions/publications/2010-03-26-que-faire-des-appels-a-projets/index.html"
+to = "/fr/publications/2010-03-26-que-faire-des-appels-a-projets/"
+
+[[redirects]]
+from = "/34-techniques-pour-faire-de-la-recherche-de-terrain-pendant-et-apres-la-pandemie/index.html"
+to = "/fr/publications/2020-05-11-34-techniques-pour-faire-de-la-recherche-de-terrain-pendant-et-apres-la-pandemie/"
+
+[[redirects]]
+from = "/fr/productions/publications/2020-02-20-quels-recits-et-quels-imaginaires-pour-la-transformation-publique/index.html"
+to = "/fr/publications/2020-02-20-quels-recits-et-quels-imaginaires-pour-la-transformation-publique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-03-03-un-projet-de-residence-a-luniversite/index.html"
+to = "/fr/publications/2009-03-03-un-projet-de-residence-a-luniversite/"
+
+[[redirects]]
+from = "/du-social-a-la-co-conception-des-politiques-sociales/index.html"
+to = "/fr/publications/2010-10-03-du-social-a-la-co-conception-des-politiques-sociales/"
+
+[[redirects]]
+from = "/fr/productions/publications/2019-03-21-hong-kong-a-perfect-place-for-a-labs-conversation-2/index.html"
+to = "/fr/publications/2019-03-21-hong-kong-a-perfect-place-for-a-labs-conversation-2/"
+
+[[redirects]]
+from = "/le-design-suedois-version-politiques-publiques/index.html"
+to = "/fr/publications/2014-01-29-le-design-suedois-version-politiques-publiques/"
+
+[[redirects]]
+from = "/fr/productions/publications/2011-05-27-accueillir-le-changement/index.html"
+to = "/fr/publications/2011-05-27-accueillir-le-changement/"
+
+[[redirects]]
+from = "/la-27e-region-et-ses-adherents-de-la-transaction-a-la-cooperation/index.html"
+to = "/fr/publications/2025-03-20-la-27e-region-et-ses-adherents-de-la-transaction-a-la-cooperation/"
+
+[[redirects]]
+from = "/fr/organisations/categories/ancien/index.html"
+to = "/fr/organisations/categories/organisation-adherente/ancienne-organisation-adherente/"
+
+[[redirects]]
+from = "/cas-pratiques/la-transfo-pays-de-la-loire/index.html"
+to = "/fr/publications/2012-06-01-la-transfo-pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/productions/publications/2019-02-25-deployer-linnovation-la-tactique-des-megotiers-13/index.html"
+to = "/fr/publications/2019-02-25-deployer-linnovation-la-tactique-des-megotiers-13/"
+
+[[redirects]]
+from = "/mieux-comprendre-la-recherche-action/index.html"
+to = "/fr/publications/2015-11-24-mieux-comprendre-la-recherche-action/"
+
+[[redirects]]
+from = "/capacites-publiques/index.html"
+to = "/fr/programmes/2022-capacites-publiques/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-11-15-notre-selection-darticles-pour-la-semaine-de-linnovation-publique/index.html"
+to = "/fr/publications/2016-11-15-notre-selection-darticles-pour-la-semaine-de-linnovation-publique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-03-19-les-jeunes-britanniques-repensent-leur-systeme-educatif/index.html"
+to = "/fr/publications/2009-03-19-les-jeunes-britanniques-repensent-leur-systeme-educatif/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-10-18-que-faire-des-politiques-dinnovation/index.html"
+to = "/fr/publications/2009-10-18-que-faire-des-politiques-dinnovation/"
+
+[[redirects]]
+from = "/fr/productions/publications/2019-08-27-mise-en-commun-de-laction-publique-faut-il-hacker-le-droit/index.html"
+to = "/fr/publications/2019-08-27-mise-en-commun-de-laction-publique-faut-il-hacker-le-droit/"
+
+[[redirects]]
+from = "/innovation-publique-et-doctorants-en-cifre-meme-combat/index.html"
+to = "/fr/publications/2018-07-06-innovation-publique-et-doctorants-en-cifre-meme-combat/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-11-15-citylab-2023-a-washington-dc-gouverner-la-complexite/index.html"
+to = "/fr/publications/2023-11-15-citylab-2023-a-washington-dc-gouverner-la-complexite/"
+
+[[redirects]]
+from = "/fr/productions/publications/2021-11-15-witness-le-pays-des-nouveaux-imaginaires-economiques/index.html"
+to = "/fr/publications/2021-11-15-witness-le-pays-des-nouveaux-imaginaires-economiques/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-11-14-vers-un-nouveau-mouvement-qui-federe-linnovation-sociale-publique-politique-et-democratique-cinq-pis/index.html"
+to = "/fr/publications/2017-11-14-vers-un-nouveau-mouvement-qui-federe-linnovation-sociale-publique-politique-et-democratique-cinq-pis/"
+
+[[redirects]]
+from = "/penser-lanti-plan-dadministration/index.html"
+to = "/fr/publications/2014-01-07-penser-lanti-plan-dadministration/"
+
+[[redirects]]
+from = "/community-organizing-former-au-pouvoir-dagir/index.html"
+to = "/fr/publications/2012-03-30-community-organizing-former-au-pouvoir-dagir/"
+
+[[redirects]]
+from = "/que-faire-de-lexperimentation-sociale/index.html"
+to = "/fr/publications/2010-06-07-que-faire-de-lexperimentation-sociale/"
+
+[[redirects]]
+from = "/fr/collectif/categories/association/conseil-dadministration/index.html"
+to = "/fr/collectif/categories/conseil-dadministration/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-03-20-imaginer-ladministration-de-demain/index.html"
+to = "/fr/publications/2015-03-20-imaginer-ladministration-de-demain/"
+
+[[redirects]]
+from = "/fr/productions/publications/2022-05-02-celebrer-la-fing/index.html"
+to = "/fr/publications/2022-05-02-celebrer-la-fing/"
+
+[[redirects]]
+from = "/fr/adherents-partenaires/index.html"
+to = "/fr/communaute/adherents-partenaires/"
+
+[[redirects]]
+from = "/experenos-saison-2-retour-dexperience-sociologique/index.html"
+to = "/fr/publications/2022-10-06-experenos-saison-2-retour-dexperience-sociologique/"
+
+[[redirects]]
+from = "/comment-montrer-le-design/index.html"
+to = "/fr/publications/2011-09-11-comment-montrer-le-design/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-06-24-ivo-gormley-usnow/index.html"
+to = "/fr/publications/2009-06-24-ivo-gormley-usnow/"
+
+[[redirects]]
+from = "/histoires-deau-3-nuances-de-gestion-en-commun/index.html"
+to = "/fr/publications/2021-06-03-histoires-deau-3-nuances-de-gestion-en-commun/"
+
+[[redirects]]
+from = "/rapport-dactivite-2020-notre-annee-autour-de-10-moments-forts/index.html"
+to = "/fr/publications/2021-02-23-rapport-dactivite-2020-notre-annee-autour-de-10-moments-forts/"
+
+[[redirects]]
+from = "/fr/a-propos/fonctionnement/index.html"
+to = "/fr/la-27e-region/fonctionnement/"
+
+[[redirects]]
+from = "/cas-pratiques/les-eclaireurs-2-lelu-inoffensif/index.html"
+to = "/fr/publications/2025-09-29-les-eclaireurs-2-l-elu-inoffensif/"
+
+[[redirects]]
+from = "/ivo-gormley-usnow/index.html"
+to = "/fr/publications/2009-06-24-ivo-gormley-usnow/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-03-28-design-des-usages-usages-du-design-quelles-opportunites-quels-usages/index.html"
+to = "/fr/publications/2017-03-28-design-des-usages-usages-du-design-quelles-opportunites-quels-usages/"
+
+[[redirects]]
+from = "/nantes-metropole-innove-dans-le-champ-de-la-participation-citoyenne/index.html"
+to = "/fr/publications/2016-12-06-nantes-metropole-innove-dans-le-champ-de-la-participation-citoyenne/"
+
+[[redirects]]
+from = "/cas-pratiques/immersion-dans-le-monde-des-petites-entreprises/index.html"
+to = "/fr/publications/2025-10-06-immersion-dans-le-monde-des-petites-entreprises/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-07-10-juin-la-jolie-saison-des-ag/index.html"
+to = "/fr/publications/2023-07-10-juin-la-jolie-saison-des-ag/"
+
+[[redirects]]
+from = "/fr/productions/publications/2014-11-28-la-sip-pas-mal-pour-une-premiere-edition/index.html"
+to = "/fr/publications/2014-11-28-la-sip-pas-mal-pour-une-premiere-edition/"
+
+[[redirects]]
+from = "/comment-passer-dun-mandat-a-un-autre-quelques-pistes-pour-ladministration/index.html"
+to = "/fr/publications/2025-07-03-comment-passer-dun-mandat-a-un-autre-quelques-pistes-pour-ladministration/"
+
+[[redirects]]
+from = "/fr/productions/publications/2019-04-09-nouvelles-formes-dinnovation-publique-quels-impacts/index.html"
+to = "/fr/publications/2019-04-09-nouvelles-formes-dinnovation-publique-quels-impacts/"
+
+[[redirects]]
+from = "/fr/productions/publications/2020-06-22-transformation-publique-et-transition-3-terrains-a-explorer/index.html"
+to = "/fr/publications/2020-06-22-transformation-publique-et-transition-3-terrains-a-explorer/"
+
+[[redirects]]
+from = "/labos-dinnovation-publique-a-quoi-ressemble-la-prochaine-etape/index.html"
+to = "/fr/publications/2017-10-19-labos-dinnovation-publique-a-quoi-ressemble-la-prochaine-etape/"
+
+[[redirects]]
+from = "/en-colo-au-pays-de-la-systemique-2-3/index.html"
+to = "/fr/publications/2024-11-26-en-colo-au-pays-de-la-systemique-2-3/"
+
+[[redirects]]
+from = "/fr/productions/publications/2022-09-20-democratie-alimentaire-des-experimentations-qui-redonnent-du-pouvoir-dagir-aux-citoyens/index.html"
+to = "/fr/publications/2022-09-20-democratie-alimentaire-des-experimentations-qui-redonnent-du-pouvoir-dagir-aux-citoyens/"
+
+[[redirects]]
+from = "/retour-sur-40-conversations-pour-changer-la-democratie/index.html"
+to = "/fr/publications/2016-06-15-retour-sur-40-conversations-pour-changer-la-democratie/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-06-26-speap-quand-les-arts-se-melent-de-politique/index.html"
+to = "/fr/publications/2017-06-26-speap-quand-les-arts-se-melent-de-politique/"
+
+[[redirects]]
+from = "/la-veilleuse-naissance-et-maturation-dun-concept/index.html"
+to = "/fr/publications/2012-03-28-la-veilleuse-naissance-et-maturation-dun-concept/"
+
+[[redirects]]
+from = "/debate-writing/index.html"
+to = "/fr/publications/2013-03-08-debate-writing/"
+
+[[redirects]]
+from = "/apprehender-le-bien-vivre-dun-territoire-comment-passer-de-la-mesure-a-laction/index.html"
+to = "/fr/publications/2023-09-01-apprehender-le-bien-vivre-dun-territoire-comment-passer-de-la-mesure-a-laction/"
+
+[[redirects]]
+from = "/en/international/index.html"
+to = "/en/la-27e-region/international/"
+
+[[redirects]]
+from = "/les-eclaireurs-a-lassaut-des-marches-publics/index.html"
+to = "/fr/publications/2019-04-11-les-eclaireurs-a-lassaut-des-marches-publics/"
+
+[[redirects]]
+from = "/fr/productions/programmes/2024-tronc-commun/index.html"
+to = "/fr/programmes/2025-tronc-commun/"
+
+[[redirects]]
+from = "/en/team/stephane-vincent/index.html"
+to = "/en/individuals/stephane-vincent/"
+
+[[redirects]]
+from = "/cetait-la-fete-de-levaluation-a-nantes/index.html"
+to = "/fr/publications/2015-12-21-cetait-la-fete-de-levaluation-a-nantes/"
+
+[[redirects]]
+from = "/les-departements-pionniers-des-demarches-dinnovation-publique/index.html"
+to = "/fr/publications/2017-10-13-les-departements-pionniers-des-demarches-dinnovation-publique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-12-20-rapport-dactivite-de-la-27e-region-en-2015/index.html"
+to = "/fr/publications/2015-12-20-rapport-dactivite-de-la-27e-region-en-2015/"
+
+[[redirects]]
+from = "/fr/publications/actualite/index.html"
+to = "/fr/publications/actualites/"
+
+[[redirects]]
+from = "/fr/productions/publications/2022-02-09-quand-la-27e-region-fait-son-bilan-carbone-2-2-nos-bonnes-resolutions-numeriques/index.html"
+to = "/fr/publications/2022-02-09-quand-la-27e-region-fait-son-bilan-carbone-2-2-nos-bonnes-resolutions-numeriques/"
+
+[[redirects]]
+from = "/fr/productions/publications/2022-05-11-les-fondations-territoriales-du-developpement-du-mecenat-local-au-financement-de-communs-territoriau/index.html"
+to = "/fr/publications/2022-05-11-les-fondations-territoriales-du-developpement-du-mecenat-local-au-financement-de-communs-territoriau/"
+
+[[redirects]]
+from = "/lequipe/index.html"
+to = "/fr/la-27e-region/equipe/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-01-29-que-faire-des-diagnostics-territoriaux/index.html"
+to = "/fr/publications/2016-01-29-que-faire-des-diagnostics-territoriaux/"
+
+[[redirects]]
+from = "/accueillir-le-changement/index.html"
+to = "/fr/publications/2011-05-27-accueillir-le-changement/"
+
+[[redirects]]
+from = "/fr/productions/publications/2021-06-17-enacting-the-commons-cest-fini/index.html"
+to = "/fr/publications/2021-06-17-enacting-the-commons-cest-fini/"
+
+[[redirects]]
+from = "/linnovation-de-la-societe-civile-au-politique-en-passant-par-la-peripherie/index.html"
+to = "/fr/publications/2009-03-27-linnovation-de-la-societe-civile-au-politique-en-passant-par-la-peripherie/"
+
+[[redirects]]
+from = "/conference-co-create-quand-la-communaute-academique-decortique-la-co-creation-comme-nouvelle-discipline/index.html"
+to = "/fr/publications/2013-06-28-conference-co-create-quand-la-communaute-academique-decortique-la-co-creation-comme-nouvelle-discipl/"
+
+[[redirects]]
+from = "/fr/productions/publications/2023-06-20-et-si-apres-tout-levaluation-cetait-cool/index.html"
+to = "/fr/publications/2023-06-20-et-si-apres-tout-levaluation-cetait-cool/"
+
+[[redirects]]
+from = "/fr/a-propos/reseau/index.html"
+to = "/fr/communaute/professionnels/"
+
+[[redirects]]
+from = "/fr/productions/publications/2011-06-15-le-limousin-ecologique-en-mode-creatif/index.html"
+to = "/fr/publications/2011-06-15-le-limousin-ecologique-en-mode-creatif/"
+
+[[redirects]]
+from = "/en/team/editors/index.html"
+to = "/en/editors/"
+
+[[redirects]]
+from = "/comment-se-reconcilier-dans-ce-monde-de-brutes/index.html"
+to = "/fr/publications/2025-02-27-comment-se-reconcilier-dans-ce-monde-de-brutes/"
+
+[[redirects]]
+from = "/fr/productions/publications/2008-04-30-demos-le-design-du-quotidien/index.html"
+to = "/fr/publications/2008-04-30-demos-le-design-du-quotidien/"
+
+[[redirects]]
+from = "/sinspirer-des-communs-pour-transformer-laction-publique/index.html"
+to = "/fr/publications/2018-02-26-sinspirer-des-communs-pour-transformer-laction-publique/"
+
+[[redirects]]
+from = "/juin-la-jolie-saison-des-ag/index.html"
+to = "/fr/publications/2023-07-10-juin-la-jolie-saison-des-ag/"
+
+[[redirects]]
+from = "/fr/productions/publications/2025-02-14-nouvelles-mesures-cest-presque-fini/index.html"
+to = "/fr/publications/2025-02-14-nouvelles-mesures-cest-presque-fini/"
+
+[[redirects]]
+from = "/transforming-early-years-tester-le-concept-defficacite-radicale/index.html"
+to = "/fr/publications/2012-10-18-transforming-early-years-tester-le-concept-defficacite-radicale/"
+
+[[redirects]]
+from = "/fr/productions/publications/2014-06-24-soyons-re-acteurs/index.html"
+to = "/fr/publications/2014-06-24-soyons-re-acteurs/"
+
+[[redirects]]
+from = "/fr/productions/publications/2012-09-18-bimby-build-in-my-back-yard-renverser-les-termes-de-letalement-urbain/index.html"
+to = "/fr/publications/2012-09-18-bimby-build-in-my-back-yard-renverser-les-termes-de-letalement-urbain/"
+
+[[redirects]]
+from = "/comment-financer-linnovation-democratique/index.html"
+to = "/fr/publications/2016-12-19-comment-financer-linnovation-democratique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2014-10-10-en-novembre-la-france-fete-linnovation-publique/index.html"
+to = "/fr/publications/2014-10-10-en-novembre-la-france-fete-linnovation-publique/"
+
+[[redirects]]
+from = "/portraits-de-laboratoires-dinnovation-comment-fonctionnent-les-innovation-teams/index.html"
+to = "/fr/publications/2017-11-07-portraits-de-laboratoires-dinnovation-comment-fonctionnent-les-innovation-teams/"
+
+[[redirects]]
+from = "/en/posts/actualites/index.html"
+to = "/en/posts/news/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-06-26-innovation-technologique-et-erreurs-medicales-regard-dun-sociologue/index.html"
+to = "/fr/publications/2009-06-26-innovation-technologique-et-erreurs-medicales-regard-dun-sociologue/"
+
+[[redirects]]
+from = "/pour-reecouter-le-debat-big-data-et-collectivites/index.html"
+to = "/fr/publications/2017-11-30-pour-reecouter-le-debat-big-data-et-collectivites/"
+
+[[redirects]]
+from = "/fr/organisations/categories/ancienne-organisation-adherente/index.html"
+to = "/fr/organisations/categories/organisation-adherente/ancienne-organisation-adherente/"
+
+[[redirects]]
+from = "/fr/productions/publications/2011-07-07-andrea-botero-gouverner-pair-a-pair/index.html"
+to = "/fr/publications/2011-07-07-andrea-botero-gouverner-pair-a-pair/"
+
+[[redirects]]
+from = "/fr/a-propos/communaute/index.html"
+to = "/fr/communaute/professionnels/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-02-15-retour-sur-le-world-government-summit-2017-a-dubai/index.html"
+to = "/fr/publications/2017-02-15-retour-sur-le-world-government-summit-2017-a-dubai/"
+
+[[redirects]]
+from = "/fr/productions/publications/2024-02-06-habiter-en-construisant-construire-avec-les-habitantes-comment-la-permanence-architecturale-t-elle-t/index.html"
+to = "/fr/publications/2024-02-06-habiter-en-construisant-construire-avec-les-habitantes-comment-la-permanence-architecturale-t-elle-t/"
+
+[[redirects]]
+from = "/fr/productions/publications/2014-10-06-ce-quon-pouvait-retenir-de-citylab-2014/index.html"
+to = "/fr/publications/2014-10-06-ce-quon-pouvait-retenir-de-citylab-2014/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-03-03-modernite-detat-devoir-dinventaire-droit-dinventer/index.html"
+to = "/fr/publications/2017-03-03-modernite-detat-devoir-dinventaire-droit-dinventer/"
+
+[[redirects]]
+from = "/fr/productions/publications/2024-04-16-comment-porter-des-theories-de-changement-plus-radicales-dans-le-secteur-de-linnovation-publique/index.html"
+to = "/fr/publications/2024-04-16-comment-porter-des-theories-de-changement-plus-radicales-dans-le-secteur-de-linnovation-publique/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-02-22-design-design-thinking/index.html"
+to = "/fr/publications/2016-02-22-design-design-thinking/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-05-10-creation-du-collectif-pour-la-transformation-de-laction-publique/index.html"
+to = "/fr/publications/2016-05-10-creation-du-collectif-pour-la-transformation-de-laction-publique/"
+
+[[redirects]]
+from = "/tunisie-apres-la-revolution-la-re-conception/index.html"
+to = "/fr/publications/2011-11-19-tunisie-apres-la-revolution-la-re-conception/"
+
+[[redirects]]
+from = "/5-jours-pour-commencer-a-imaginer-lavenir-des-villages-de-bourgogne/index.html"
+to = "/fr/publications/2011-06-12-5-jours-pour-commencer-a-imaginer-lavenir-des-villages-de-bourgogne/"
+
+[[redirects]]
+from = "/la-27e-region-en-100-ressources/index.html"
+to = "/fr/publications/2018-04-25-la-27e-region-en-100-ressources/"
+
+[[redirects]]
+from = "/la-27-quoi/lassociation/index.html"
+to = "/fr/la-27e-region/fonctionnement/"
+
+[[redirects]]
+from = "/fabriquons-une-relance-en-transitions/index.html"
+to = "/fr/publications/2020-05-06-fabriquons-une-relance-en-transitions/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-10-28-retour-sur-la-2eme-semaine-de-linnovation-publique/index.html"
+to = "/fr/publications/2015-10-28-retour-sur-la-2eme-semaine-de-linnovation-publique/"
+
+[[redirects]]
+from = "/romain-thevenet-design-de-services-tu-perds-ton-sang-froid/index.html"
+to = "/fr/publications/2011-06-07-romain-thevenet-design-de-services-tu-perds-ton-sang-froid/"
+
+[[redirects]]
+from = "/fr/productions/publications/2018-11-22-vous-avez-envie-dinnover-venez-a-los-angeles-notre-ville-na-que-des-defis/index.html"
+to = "/fr/publications/2018-11-22-vous-avez-envie-dinnover-venez-a-los-angeles-notre-ville-na-que-des-defis/"
+
+[[redirects]]
+from = "/fr/productions/publications/2019-11-23-la-participation-citoyenne-au-programme-de-citylab-2019-washington-dc/index.html"
+to = "/fr/publications/2019-11-23-la-participation-citoyenne-au-programme-de-citylab-2019-washington-dc/"
+
+[[redirects]]
+from = "/que-faire-des-appels-a-projets/index.html"
+to = "/fr/publications/2010-03-26-que-faire-des-appels-a-projets/"
+
+[[redirects]]
+from = "/la-transfo-des-labos-dinnovation-pour-agir-sur-le-reel/index.html"
+to = "/fr/publications/2019-12-12-la-transfo-des-labos-dinnovation-pour-agir-sur-le-reel/"
+
+[[redirects]]
+from = "/la-drole-de-vie-des-labs/index.html"
+to = "/fr/publications/2015-07-17-la-drole-de-vie-des-labs/"
+
+[[redirects]]
+from = "/fr/productions/publications/2012-11-18-8490/index.html"
+to = "/fr/publications/2012-11-18-8490/"
+
+[[redirects]]
+from = "/cas-pratiques/la-transfo-lille/index.html"
+to = "/fr/publications/2018-02-02-la-transfo-lille/"
+
+[[redirects]]
+from = "/cas-pratiques/lactivateur-numerique-du-territoire/index.html"
+to = "/fr/publications/2025-10-08-l-activateur-numerique-du-territoire/"
+
+[[redirects]]
+from = "/le-design-des-concepts-politiques/index.html"
+to = "/fr/publications/2012-02-05-le-design-des-concepts-politiques/"
+
+[[redirects]]
+from = "/fr/productions/publications/2024-05-21-que-peut-vraiment-lia-pour-laction-publique/index.html"
+to = "/fr/publications/2024-05-21-que-peut-vraiment-lia-pour-laction-publique/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/fr/programmes/"
+
+[[redirects]]
+from = "/fr/productions/publications/2013-05-18-bureau-ephemere-dactivation-urbaine-b-e-a-u-des-rez-de-chaussee-actives-pour-des-rues-vivantes/index.html"
+to = "/fr/publications/2013-05-18-bureau-ephemere-dactivation-urbaine-b-e-a-u-des-rez-de-chaussee-actives-pour-des-rues-vivantes/"
+
+[[redirects]]
+from = "/rio20-et-apres-les-agenda-21-de-demain/index.html"
+to = "/fr/publications/2012-07-18-rio20-et-apres-les-agenda-21-de-demain/"
+
+[[redirects]]
+from = "/non-le-design-de-politiques-publiques-nest-pas-du-design-de-services-comme-les-autres/index.html"
+to = "/fr/publications/2017-03-31-non-le-design-de-politiques-publiques-nest-pas-du-design-de-services-comme-les-autres/"
+
+[[redirects]]
+from = "/cedric-mauduit-disparu-lors-de-lattentat-au-bataclan/index.html"
+to = "/fr/publications/2015-11-15-cedric-mauduit-disparu-lors-de-lattentat-au-bataclan/"
+
+[[redirects]]
+from = "/fr/productions/publications/2015-10-25-retour-sur-citylab-2015/index.html"
+to = "/fr/publications/2015-10-25-retour-sur-citylab-2015/"
+
+[[redirects]]
+from = "/cas-pratiques/les-eclaireurs-1-levaluation-engagee/index.html"
+to = "/fr/publications/2025-09-29-les-eclaireurs-1-levaluation-engagee/"
+
+[[redirects]]
+from = "/fr/productions/publications/2013-01-19-rapport-dactivite-2012/index.html"
+to = "/fr/publications/2013-01-19-rapport-dactivite-2012/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-04-27-espaces-daccueil-espaces-dexperimentation/index.html"
+to = "/fr/publications/2016-04-27-espaces-daccueil-espaces-dexperimentation/"
+
+[[redirects]]
+from = "/fr/productions/publications/2012-04-07-et-si-on-lancait-des-reseaux-dechanges-reciproques-de-savoirs/index.html"
+to = "/fr/publications/2012-04-07-et-si-on-lancait-des-reseaux-dechanges-reciproques-de-savoirs/"
+
+[[redirects]]
+from = "/fr/publications/2025-09-29-les-eclaireurs-2-levaluation-engagee/index.html"
+to = "/fr/publications/2025-09-29-les-eclaireurs-2-l-elu-inoffensif/"
+
+[[redirects]]
+from = "/fr/productions/publications/2025-04-14-et-si-avant-de-supprimer-des-institutions-on-apprenait-a-mieux-les-concevoir/index.html"
+to = "/fr/publications/2025-04-14-et-si-avant-de-supprimer-des-institutions-on-apprenait-a-mieux-les-concevoir/"
+
+[[redirects]]
+from = "/fr/equipe/stephane-vincent/publications/index.html"
+to = "/fr/collectif/stephane-vincent/publications/"
+
+[[redirects]]
+from = "/9261-2/index.html"
+to = "/fr/programmes/2021-juristes-embarques/"
+
+[[redirects]]
+from = "/fr/productions/publications/2010-11-22-les-super-heros-de-la-vraie-vie-une-nouvelle-forme-dengagement-citoyen/index.html"
+to = "/fr/publications/2010-11-22-les-super-heros-de-la-vraie-vie-une-nouvelle-forme-dengagement-citoyen/"
+
+[[redirects]]
+from = "/dematerialiser-sans-deshumaniser/index.html"
+to = "/fr/publications/2023-02-07-dematerialiser-sans-deshumaniser/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-05-30-narino-en-colombie-linnovation-civique-et-sociale-au-service-de-la-paix/index.html"
+to = "/fr/publications/2017-05-30-narino-en-colombie-linnovation-civique-et-sociale-au-service-de-la-paix/"
+
+[[redirects]]
+from = "/en/team/sylvine-bois-choussy/index.html"
+to = "/en/individuals/sylvine-bois-choussy/"
+
+[[redirects]]
+from = "/8187/index.html"
+to = "/fr/publications/2013-06-08-8187/"
+
+[[redirects]]
+from = "/new-society-new-design-practices/index.html"
+to = "/fr/publications/2016-05-27-new-society-new-design-practices/"
+
+[[redirects]]
+from = "/fr/productions/publications/2016-06-15-retour-sur-40-conversations-pour-changer-la-democratie/index.html"
+to = "/fr/publications/2016-06-15-retour-sur-40-conversations-pour-changer-la-democratie/"
+
+[[redirects]]
+from = "/enacting-the-commons/index.html"
+to = "/fr/programmes/2020-enacting-the-commons/"
+
+[[redirects]]
+from = "/fr/productions/publications/2019-09-11-deployer-linnovation-au-dela-de-la-tactique-la-valeur-percue-33/index.html"
+to = "/fr/publications/2019-09-11-deployer-linnovation-au-dela-de-la-tactique-la-valeur-percue-33/"
+
+[[redirects]]
+from = "/ag-de-la-27e-region-le-calme-avant-la-tempete/index.html"
+to = "/fr/publications/2024-06-18-ag-de-la-27e-region-le-calme-avant-la-tempete/"
+
+[[redirects]]
+from = "/cas-pratiques/la-mairie-de-demain/index.html"
+to = "/fr/publications/2025-10-06-la-mairie-de-demain/"
+
+[[redirects]]
+from = "/que-faire-des-diagnostics-territoriaux/index.html"
+to = "/fr/publications/2016-01-29-que-faire-des-diagnostics-territoriaux/"
+
+[[redirects]]
+from = "/fr/programmes/2022-deformations/index.html"
+to = "/fr/programmes/2020-de-formations-pour-elus-en-transition/"
+
+[[redirects]]
+from = "/petit-traite-viennois-dinnovation-sociale/index.html"
+to = "/fr/publications/2011-10-14-petit-traite-viennois-dinnovation-sociale/"
+
+[[redirects]]
+from = "/fr/productions/publications/2008-11-29-design-et-politiques-publiques-a-saint-etienne/index.html"
+to = "/fr/publications/2008-11-29-design-et-politiques-publiques-a-saint-etienne/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-02-08-8202/index.html"
+to = "/fr/publications/2009-02-08-8202/"
+
+[[redirects]]
+from = "/fr/equipe/lucas-marais/index.html"
+to = "/fr/collectif/lucas-marais/"
+
+[[redirects]]
+from = "/les-metropoles-en-mode-transformation-deuxieme-partie/index.html"
+to = "/fr/publications/2017-09-13-les-metropoles-en-mode-transformation-deuxieme-partie/"
+
+[[redirects]]
+from = "/fr/productions/publications/2020-02-23-quand-il-y-a-du-mou-dans-la-maitrise-dusage/index.html"
+to = "/fr/publications/2020-02-23-quand-il-y-a-du-mou-dans-la-maitrise-dusage/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-08-30-approche-design-et-approche-systemique-duel-ou-duo/index.html"
+to = "/fr/publications/2017-08-30-approche-design-et-approche-systemique-duel-ou-duo/"
+
+[[redirects]]
+from = "/fr/productions/publications/2009-04-06-courage-impertinence-et-hybridation-des-lieux-les-cles-de-linnovation-publique-par-luc-gwiazdzinski/index.html"
+to = "/fr/publications/2009-04-06-courage-impertinence-et-hybridation-des-lieux-les-cles-de-linnovation-publique-par-luc-gwiazdzinski/"
+
+[[redirects]]
+from = "/civictech-et-innovations-democratiques-un-premier-bilan/index.html"
+to = "/fr/publications/2016-06-27-civictech-et-innovations-democratiques-un-premier-bilan/"
+
+[[redirects]]
+from = "/fr/productions/publications/2021-04-21-comment-aider-les-laboratoires-dinnovation-publique-a-passer-la-seconde-1-3/index.html"
+to = "/fr/publications/2021-04-21-comment-aider-les-laboratoires-dinnovation-publique-a-passer-la-seconde-1-3/"
+
+[[redirects]]
+from = "/rapport-dactivite-de-la-27e-region-en-2022-quinze-ans-deja/index.html"
+to = "/fr/publications/2023-02-23-rapport-dactivite-de-la-27e-region-en-2022-quinze-ans-deja/"
+
+[[redirects]]
+from = "/retour-sur-residence-entre-dore-et-allier-une-mediatheque-sur-la-place-publique/index.html"
+to = "/fr/publications/2017-09-06-retour-sur-residence-entre-dore-et-allier-une-mediatheque-sur-la-place-publique/"
+
+[[redirects]]
+from = "/rapport-dactivite-de-la-27e-region-en-2021/index.html"
+to = "/fr/publications/2022-03-29-rapport-dactivite-de-la-27e-region-en-2021/"
+
+[[redirects]]
+from = "/fr/productions/publications/2019-11-25-transformation-publique-et-transitions-quel-role-pour-les-labos-dinnovation/index.html"
+to = "/fr/publications/2019-11-25-transformation-publique-et-transitions-quel-role-pour-les-labos-dinnovation/"
+
+[[redirects]]
+from = "/cas-pratiques/penser-lavenir-des-espaces-numeriques/index.html"
+to = "/fr/publications/2025-10-08-penser-l-avenir-des-espaces-numeriques/"
+
+[[redirects]]
+from = "/pourquoi-evaluer-les-demarches-dinnovation-publique-par-le-design/index.html"
+to = "/fr/publications/2018-06-05-pourquoi-evaluer-les-demarches-dinnovation-publique-par-le-design/"
+
+[[redirects]]
+from = "/fr/productions/publications/2017-11-07-portraits-de-laboratoires-dinnovation-comment-fonctionnent-les-innovation-teams/index.html"
+to = "/fr/publications/2017-11-07-portraits-de-laboratoires-dinnovation-comment-fonctionnent-les-innovation-teams/"
+
+[[redirects]]
+from = "/fr/productions/publications/2020-02-06-action-publique-en-commun-elaborer-de-nouvelles-alliances-entre-administration-et-citoyens/index.html"
+to = "/fr/publications/2020-02-06-action-publique-en-commun-elaborer-de-nouvelles-alliances-entre-administration-et-citoyens/"
+
+[[redirects]]
+from = "/les-cabines-resologiques-micro-equipement-public-hybride/index.html"
+to = "/fr/publications/2008-07-17-les-cabines-resologiques-micro-equipement-public-hybride/"
+
+[[redirects]]
+from = "/en/projects/stage/en-cours/index.html"
+to = "/en/projects/stage/ongoing/"
+
+[[redirects]]
+from = "/fr/productions/publications/2021-12-08-vers-une-nouvelle-generation-de-plans-dadministration/index.html"
+to = "/fr/publications/2021-12-08-vers-une-nouvelle-generation-de-plans-dadministration/"
+
