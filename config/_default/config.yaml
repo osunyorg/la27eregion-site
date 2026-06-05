@@ -49,6 +49,7 @@ params:
         categories: false
     single:
       meta:
+        # position: hero
         options:
           reading_time: false
           updated_at: false
