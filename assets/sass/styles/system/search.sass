@@ -1,12 +1,14 @@
 // search
 .pf-modal
-    .pf-input-wrapper::after
-        color: var(--color-accent)
     .pf-input-wrapper
         border-color: alphaColor($color-orange, 0.3)
+        &::after
+            color: var(--color-accent)
         &:focus-within
             border-width: 1px
             border-color: $color-orange
+    .pf-modal-close::before
+        color: var(--color-accent)
     .pf-result
         + .pf-result
             border-top: 1px solid $color-orange
