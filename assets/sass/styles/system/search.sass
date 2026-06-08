@@ -1,21 +1,36 @@
 // search
-#search
-    .pagefind-ui
-        &__form::after
+.pf-modal
+    .pf-input-wrapper::after
+        color: var(--color-accent)
+    .pf-input-wrapper
+        border-color: alphaColor($color-orange, 0.3)
+        &:focus-within
+            border-width: 1px
+            border-color: $color-orange
+    .pf-result
+        + .pf-result
+            border-top: 1px solid $color-orange
+            margin-top: space(8)
+            padding-top: space(8)
+        .pf-result-image
+            width: columns(2)
+        &-title
+            @include icon(arrow-right-line, after)
+                color: var(--color-accent)
+                margin-left: space()
+            @include hover-translate-icon
+            .pf-result-link:hover
+                text-decoration: none
+
+
+.nav-search
+    #document-header &
+        .pf-trigger-btn::after
             color: var(--color-accent)
-        &__search-input
-            border-color: alphaColor($color-orange, 0.3)
-            &:focus-visible
-                border-width: 1px
-                border-color: $color-orange
-        &__result
-            padding-bottom: space(8)
-            margin-bottom: space(8)
-            border-bottom: 1px solid $color-orange
-            &-title
-                @include icon(arrow-right-line, after)
-                    color: var(--color-accent)
-                    margin-left: space()
-                @include hover-translate-icon
-                a
-                    text-decoration: none
+        @include media-breakpoint-down(desktop)
+            .pf-trigger-btn,
+            .pf-trigger-text
+                @include signature
+            .pf-trigger-btn
+                display: flex
+                justify-content: space-between
