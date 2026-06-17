@@ -21,7 +21,10 @@
     @include media-breakpoint-up(desktop)
         align-items: baseline
         display: flex
-        gap: space(6)
+        flex-wrap: wrap
+        gap: $spacing-1 space(6)
+        .taxonomy-title
+            margin-bottom: 0 !important
 
 .taxonomy-children,
 [class$="-categories"]
