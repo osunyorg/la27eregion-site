@@ -68,7 +68,7 @@ footer#document-footer,
 
 // sidebar
 .section-sidebar
-    [class$="infos"]
+    [class$="infos"]:not(.person-infos, .organization-infos)
         > li
             --color-border: #{alphaColor(var(--color-text), 0.3)}
             &:last-child
