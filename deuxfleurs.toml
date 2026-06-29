@@ -443,6 +443,10 @@ from = "/design-prospectif-en-nord-pas-de-calais/index.html"
 to = "/fr/publications/2009-01-09-design-prospectif-en-nord-pas-de-calais/"
 
 [[redirects]]
+from = "/wp-content/uploads/sites/2/2022/04/Resultats-enquete-Resilience-convivialite-et-solidarites-de-proximite-Synthese-Ville-de-Paris-Mars-2022.pdf/index.html"
+to = "/fr/publications/2022-04-01-comprendre-les-mecanismes-a-loeuvre-au-sein-des-initiatives-citoyennes/"
+
+[[redirects]]
 from = "/et-si-apres-tout-levaluation-cetait-cool/index.html"
 to = "/fr/publications/2023-06-20-et-si-apres-tout-levaluation-cetait-cool/"
 
