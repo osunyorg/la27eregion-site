@@ -38,6 +38,10 @@ params:
     index:
       options:
         year: true
+    single:
+      meta:
+        options:
+          share: false
     share_links:
       enabled: true
       facebook: true
