@@ -455,6 +455,10 @@ from = "/la-27e-region-primee-aux-victoires-des-acteurs-publics-2011/index.html"
 to = "/fr/publications/2011-06-12-la-27e-region-primee-aux-victoires-des-acteurs-publics-2011/"
 
 [[redirects]]
+from = "/fr/publications/2026-07-22-la-synchro-plongeon-general-dans-les-bassins-de-travail-du-programme/index.html"
+to = "/fr/publications/2026-07-22-la-synchro-plongeon-dans-les-bassins-de-travail-du-programme/"
+
+[[redirects]]
 from = "/fr/productions/publications/2011-10-14-petit-traite-viennois-dinnovation-sociale/index.html"
 to = "/fr/publications/2011-10-14-petit-traite-viennois-dinnovation-sociale/"
 
