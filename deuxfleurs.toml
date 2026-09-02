@@ -43,6 +43,10 @@ from = "/rapport-dactivite-de-la-27e-region-en-2017/index.html"
 to = "/fr/publications/2017-12-18-rapport-dactivite-de-la-27e-region-en-2017/"
 
 [[redirects]]
+from = "/en/2026/frise-histoire-de-l-innovationpdf/index.html"
+to = "/en/files/2026/frise-histoire-de-l-innovationpdf/"
+
+[[redirects]]
 from = "/fr/productions/publications/2015-11-24-retour-sur-lexperience-dip-un-an-a-la-decouverte-des-demarches-de-co-conception-des-politiques-publi/index.html"
 to = "/fr/publications/2015-11-24-retour-sur-lexperience-dip-un-an-a-la-decouverte-des-demarches-de-co-conception-des-politiques-publi/"
 
@@ -99,6 +103,10 @@ from = "/fr/productions/publications/2017-10-12-nous-recrutons-une-directeurtric
 to = "/fr/publications/2017-10-12-nous-recrutons-une-directeurtrice-administratifve-et-financiere-cdd-de-6-mois/"
 
 [[redirects]]
+from = "/en/2026/restitution-frise-chrono-2xa3-4xa4pdf/index.html"
+to = "/en/files/2026/restitution-frise-chrono-2xa3-4xa4pdf/"
+
+[[redirects]]
 from = "/les-jeunes-britanniques-repensent-leur-systeme-educatif/index.html"
 to = "/fr/publications/2009-03-19-les-jeunes-britanniques-repensent-leur-systeme-educatif/"
 
@@ -113,6 +121,10 @@ to = "/fr/publications/2025-10-08-l-environnement-de-travail-de-l-elu/"
 [[redirects]]
 from = "/fr/organisations/eurometropole-de-lille/index.html"
 to = "/fr/organisations/metropole-de-lille/"
+
+[[redirects]]
+from = "/en/2026/local-240711-livrable-rebonds-planches-complet-v3pdf/index.html"
+to = "/en/files/2026/local-240711-livrable-rebonds-planches-complet-v3pdf/"
 
 [[redirects]]
 from = "/fr/productions/publications/article/index.html"
@@ -207,8 +219,16 @@ from = "/marjorie-jouen-changeons-de-cap/index.html"
 to = "/fr/publications/2009-01-07-marjorie-jouen-changeons-de-cap/"
 
 [[redirects]]
+from = "/en/2026/nouvellesmesures-2025-pagepdf/index.html"
+to = "/en/files/2026/nouvellesmesures-2025-pagepdf/"
+
+[[redirects]]
 from = "/la-27e-region-a-besoin-de-ses-lecteurs/index.html"
 to = "/fr/publications/2015-09-23-la-27e-region-a-besoin-de-ses-lecteurs/"
+
+[[redirects]]
+from = "/en/2026/programme-tronccommun-27eregionpdf/index.html"
+to = "/en/files/2026/programme-tronccommun-27eregionpdf/"
 
 [[redirects]]
 from = "/fr/productions/publications/2016-06-27-civictech-et-innovations-democratiques-un-premier-bilan/index.html"
@@ -281,6 +301,10 @@ to = "/fr/publications/2024-04-08-quand-ladministration-fait-bifurquer-ses-agent
 [[redirects]]
 from = "/rapport-dactivite-de-la-27e-region-2023-une-annee-pour-danser/index.html"
 to = "/fr/publications/2024-03-05-rapport-dactivite-de-la-27e-region-2023-une-annee-pour-danser/"
+
+[[redirects]]
+from = "/en/2026/2011-12-manuel-residencepdf/index.html"
+to = "/en/files/2026/2011-12-manuel-residencepdf/"
 
 [[redirects]]
 from = "/fr/productions/publications/2017-11-08-rencontre-avec-les-innovation-teams-americaines-canadiennes-et-israeliennes-a-los-angeles/index.html"
@@ -493,6 +517,10 @@ to = "/fr/publications/2021-01-29-reflexes-publics-investigating-public-resilien
 [[redirects]]
 from = "/de-la-boite-a-idees-au-programme-dintrapreneuriat-ou-en-est-on-de-linnovation-participative-dans-les-administrations/index.html"
 to = "/fr/publications/2018-12-21-de-la-boite-a-idees-au-programme-dintrapreneuriat-ou-en-est-on-de-linnovation-participative-dans-les/"
+
+[[redirects]]
+from = "/en/2026/sonar-v2-impressionwebpdf/index.html"
+to = "/en/files/2026/sonar-v2-impressionwebpdf/"
 
 [[redirects]]
 from = "/fr/productions/publications/2017-11-06-le-cycle-dinnovation-i-team-en-5-etapes-et-quelques-questions/index.html"
@@ -775,6 +803,10 @@ from = "/fr/productions/publications/2017-02-21-videocagette-retour-sur-les-prem
 to = "/fr/publications/2017-02-21-videocagette-retour-sur-les-premiers-tests/"
 
 [[redirects]]
+from = "/en/2026/sonar-livrablepdf/index.html"
+to = "/en/files/2026/sonar-livrablepdf/"
+
+[[redirects]]
 from = "/fr/productions/publications/2017-12-08-une-rencontre-avec-louise-pulford-directrice-du-social-innovation-exchange/index.html"
 to = "/fr/publications/2017-12-08-une-rencontre-avec-louise-pulford-directrice-du-social-innovation-exchange/"
 
@@ -903,6 +935,10 @@ from = "/retour-sur-citylab-2015/index.html"
 to = "/fr/publications/2015-10-25-retour-sur-citylab-2015/"
 
 [[redirects]]
+from = "/en/2026/livret-bilanresidences20092010pdf/index.html"
+to = "/en/files/2026/livret-bilanresidences20092010pdf/"
+
+[[redirects]]
 from = "/fr/productions/publications/2015-11-25-poc21-la-fabrication-open-source-en-action/index.html"
 to = "/fr/publications/2015-11-25-poc21-la-fabrication-open-source-en-action/"
 
@@ -913,6 +949,10 @@ to = "/fr/publications/2010-02-07-co-production-le-nesta-eclaircit-la-notion/"
 [[redirects]]
 from = "/dementia-friendly-communities-vivre-avec-la-maladie-dalzheimer/index.html"
 to = "/fr/publications/2012-03-18-dementia-friendly-communities-vivre-avec-la-maladie-dalzheimer/"
+
+[[redirects]]
+from = "/en/2026/livrable-deformationspdf/index.html"
+to = "/en/files/2026/livrable-deformationspdf/"
 
 [[redirects]]
 from = "/le-nouveau-contrat-ecologique-et-social-une-boussole-pour-lavenir-de-la-transformation-publique/index.html"
@@ -1643,6 +1683,10 @@ from = "/et-lag-de-la-27e-region-cetait-comment/index.html"
 to = "/fr/publications/2018-09-10-et-lag-de-la-27e-region-cetait-comment/"
 
 [[redirects]]
+from = "/en/2026/noteexpe-nouvellesmesures-v2pdf/index.html"
+to = "/en/files/2026/noteexpe-nouvellesmesures-v2pdf/"
+
+[[redirects]]
 from = "/fr/organisations/categories/organisation-adherente/ancien-partenaire/index.html"
 to = "/fr/organisations/categories/partenaire/ancien-partenaire/"
 
@@ -1749,6 +1793,10 @@ to = "/fr/publications/2019-06-04-et-vous-avec-la-police-ca-va-premiere-approche
 [[redirects]]
 from = "/fr/productions/publications/2018-09-21-desorganisons-nos-organisations-faut-il-liberer-nos-administrations/index.html"
 to = "/fr/publications/2018-09-21-desorganisons-nos-organisations-faut-il-liberer-nos-administrations/"
+
+[[redirects]]
+from = "/en/2026/lieux-communs-sevran-2023pdf/index.html"
+to = "/en/files/2026/lieux-communs-sevran-2023pdf/"
 
 [[redirects]]
 from = "/fr/productions/publications/2009-04-05-le-territoire-en-creation-permanente/index.html"
@@ -1967,12 +2015,20 @@ from = "/renforcer-lecosysteme-local-un-levier-complementaire-au-service-du-deve
 to = "/fr/publications/2023-03-21-renforcer-lecosysteme-local-un-levier-complementaire-au-service-du-developpement/"
 
 [[redirects]]
+from = "/en/2026/livret-retour-sur-residences-v2pdf/index.html"
+to = "/en/files/2026/livret-retour-sur-residences-v2pdf/"
+
+[[redirects]]
 from = "/fr/productions/publications/2016-04-16-a-re-ecouter-stephane-vincent-sur-france-culture/index.html"
 to = "/fr/publications/2016-04-16-a-re-ecouter-stephane-vincent-sur-france-culture/"
 
 [[redirects]]
 from = "/fr/a-propos/le-design-de-politiques-publiques/index.html"
 to = "/fr/demarche/"
+
+[[redirects]]
+from = "/en/2026/sonar-englishpdf/index.html"
+to = "/en/files/2026/sonar-englishpdf/"
 
 [[redirects]]
 from = "/equipe/equipe-editoriale/index.html"
@@ -2175,6 +2231,10 @@ from = "/fr/productions/publications/2016-05-14-comment-superpublic-a-gagne-le-c
 to = "/fr/publications/2016-05-14-comment-superpublic-a-gagne-le-coeur-de-san-francisco/"
 
 [[redirects]]
+from = "/en/2026/170119-presentation-generale-transfopdf/index.html"
+to = "/en/files/2026/170119-presentation-generale-transfopdf/"
+
+[[redirects]]
 from = "/fr/productions/publications/2020-05-11-34-techniques-pour-faire-de-la-recherche-de-terrain-pendant-et-apres-la-pandemie/index.html"
 to = "/fr/publications/2020-05-11-34-techniques-pour-faire-de-la-recherche-de-terrain-pendant-et-apres-la-pandemie/"
 
@@ -2231,6 +2291,10 @@ from = "/fr/equipe/categories/reseau/index.html"
 to = "/fr/collectif/categories/professionnel/"
 
 [[redirects]]
+from = "/en/2026/nm-repolitiserlacomptapubliquepdf/index.html"
+to = "/en/files/2026/nm-repolitiserlacomptapubliquepdf/"
+
+[[redirects]]
 from = "/fr/equipe/sylvine-bois-choussy/index.html"
 to = "/fr/collectif/sylvine-bois-choussy/"
 
@@ -2249,6 +2313,10 @@ to = "/fr/publications/2015-07-01-think-the-new-factory-of-public-policies/"
 [[redirects]]
 from = "/fr/productions/publications/2019-05-21-mutualiser-linnovation-publique-a-lechelle-territoriale-le-prochain-grand-defi/index.html"
 to = "/fr/publications/2019-05-21-mutualiser-linnovation-publique-a-lechelle-territoriale-le-prochain-grand-defi/"
+
+[[redirects]]
+from = "/fr/fichiers/2026/index.html"
+to = "/fr/fichiers/2026/livret-paca-claretpdf/"
 
 [[redirects]]
 from = "/quand-la-ville-de-besancon-reussit-a-rendre-laudit-sexy/index.html"
@@ -2377,6 +2445,10 @@ to = "/fr/publications/2025-09-30-les-eclaireurs-5-lachat-public-strategique/"
 [[redirects]]
 from = "/comment-aider-les-laboratoires-dinnovation-publique-a-passer-la-vitesse-superieure-2-3/index.html"
 to = "/fr/publications/2021-05-07-comment-aider-les-laboratoires-dinnovation-publique-a-passer-la-vitesse-superieure-2-3/"
+
+[[redirects]]
+from = "/en/2026/synthese-des-experimentations1pdf/index.html"
+to = "/en/files/2026/synthese-des-experimentations1pdf/"
 
 [[redirects]]
 from = "/approche-design-et-approche-systemique-duel-ou-duo/index.html"
@@ -3303,6 +3375,10 @@ from = "/fr/productions/publications/2015-12-20-rapport-dactivite-de-la-27e-regi
 to = "/fr/publications/2015-12-20-rapport-dactivite-de-la-27e-region-en-2015/"
 
 [[redirects]]
+from = "/en/2026/reflexespublics-interactif-1pdf/index.html"
+to = "/en/files/2026/reflexespublics-interactif-1pdf/"
+
+[[redirects]]
 from = "/fr/publications/actualite/index.html"
 to = "/fr/publications/actualites/"
 
@@ -3431,6 +3507,10 @@ from = "/fr/productions/publications/2024-02-06-habiter-en-construisant-construi
 to = "/fr/publications/2024-02-06-habiter-en-construisant-construire-avec-les-habitantes-comment-la-permanence-architecturale-t-elle-t/"
 
 [[redirects]]
+from = "/en/2026/juristes-embarque-es-interactif-1pdf/index.html"
+to = "/en/files/2026/juristes-embarque-es-interactif-1pdf/"
+
+[[redirects]]
 from = "/fr/productions/publications/2014-10-06-ce-quon-pouvait-retenir-de-citylab-2014/index.html"
 to = "/fr/publications/2014-10-06-ce-quon-pouvait-retenir-de-citylab-2014/"
 
@@ -3487,6 +3567,10 @@ from = "/fr/productions/publications/2019-11-23-la-participation-citoyenne-au-pr
 to = "/fr/publications/2019-11-23-la-participation-citoyenne-au-programme-de-citylab-2019-washington-dc/"
 
 [[redirects]]
+from = "/en/2026/grille-adhesion-27eregionpdf/index.html"
+to = "/en/files/2026/grille-adhesion-27eregionpdf/"
+
+[[redirects]]
 from = "/que-faire-des-appels-a-projets/index.html"
 to = "/fr/publications/2010-03-26-que-faire-des-appels-a-projets/"
 
@@ -3531,6 +3615,10 @@ from = "/rio20-et-apres-les-agenda-21-de-demain/index.html"
 to = "/fr/publications/2012-07-18-rio20-et-apres-les-agenda-21-de-demain/"
 
 [[redirects]]
+from = "/en/2026/livrable-final-enquete-tcpdf/index.html"
+to = "/en/files/2026/livrable-final-enquete-tcpdf/"
+
+[[redirects]]
 from = "/non-le-design-de-politiques-publiques-nest-pas-du-design-de-services-comme-les-autres/index.html"
 to = "/fr/publications/2017-03-31-non-le-design-de-politiques-publiques-nest-pas-du-design-de-services-comme-les-autres/"
 
@@ -3547,6 +3635,10 @@ from = "/cas-pratiques/les-eclaireurs-1-levaluation-engagee/index.html"
 to = "/fr/publications/2025-09-29-les-eclaireurs-1-levaluation-engagee/"
 
 [[redirects]]
+from = "/en/2026/platequette-presentation-rebonds-27e-regionpdf/index.html"
+to = "/en/files/2026/platequette-presentation-rebonds-27e-regionpdf/"
+
+[[redirects]]
 from = "/fr/productions/publications/2013-01-19-rapport-dactivite-2012/index.html"
 to = "/fr/publications/2013-01-19-rapport-dactivite-2012/"
 
@@ -3559,12 +3651,24 @@ from = "/fr/productions/publications/2012-04-07-et-si-on-lancait-des-reseaux-dec
 to = "/fr/publications/2012-04-07-et-si-on-lancait-des-reseaux-dechanges-reciproques-de-savoirs/"
 
 [[redirects]]
+from = "/en/2026/index.html"
+to = "/en/files/2026/programme-tronccommun-27eregionpdf/"
+
+[[redirects]]
 from = "/fr/publications/2025-09-29-les-eclaireurs-2-levaluation-engagee/index.html"
 to = "/fr/publications/2025-09-29-les-eclaireurs-2-l-elu-inoffensif/"
 
 [[redirects]]
 from = "/fr/productions/publications/2025-04-14-et-si-avant-de-supprimer-des-institutions-on-apprenait-a-mieux-les-concevoir/index.html"
 to = "/fr/publications/2025-04-14-et-si-avant-de-supprimer-des-institutions-on-apprenait-a-mieux-les-concevoir/"
+
+[[redirects]]
+from = "/en/2026/faq-adhesionpdf/index.html"
+to = "/en/files/2026/faq-adhesionpdf/"
+
+[[redirects]]
+from = "/en/2026/la-synchro-etat-des-connaissancespdf/index.html"
+to = "/en/files/2026/la-synchro-etat-des-connaissancespdf/"
 
 [[redirects]]
 from = "/fr/equipe/stephane-vincent/publications/index.html"
@@ -3601,6 +3705,10 @@ to = "/fr/publications/2016-05-27-new-society-new-design-practices/"
 [[redirects]]
 from = "/fr/productions/publications/2016-06-15-retour-sur-40-conversations-pour-changer-la-democratie/index.html"
 to = "/fr/publications/2016-06-15-retour-sur-40-conversations-pour-changer-la-democratie/"
+
+[[redirects]]
+from = "/en/2026/extreme-debrief-version-ademepdf/index.html"
+to = "/en/files/2026/extreme-debrief-version-ademepdf/"
 
 [[redirects]]
 from = "/enacting-the-commons/index.html"
